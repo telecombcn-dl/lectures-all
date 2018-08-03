@@ -1,6 +1,8 @@
 # lectures-all
 Central repository for all lectures on deep learning at UPC ETSETB TelecomBCN.
 
+
+
 [XG-web]: https://imatge.upc.edu/web/people/xavier-giro
 [KM-web]: http://www.eeng.dcu.ie/~mcguinne/
 [EM-web]: https://www.insight-centre.org/users/eva-mohedano
@@ -10,10 +12,10 @@ Central repository for all lectures on deep learning at UPC ETSETB TelecomBCN.
 [JR-web]: https://imatge.upc.edu/web/people/javier-ruiz-hidalgo
 [RM-web]: https://imatge.upc.edu/web/people/josep-ramon-morros
 [MC-web]: http://www.costa-jussa.com/
+[SP-web]: https://scholar.google.com/citations?user=7cVOyh0AAAAJ&hl=en
 
 
 [dlai2017]: https://telecombcn-dl.github.io/2017-dlai/
-
 [dlcv2018]: https://telecombcn-dl.github.io/2018-dlcv/
 
 ## Deep Neural Networks
@@ -34,6 +36,8 @@ Central repository for all lectures on deep learning at UPC ETSETB TelecomBCN.
 |                | [Verónica Vilaplana][VV-web]  | [DLAI 2017][dlai2017] | [[Slideshare]][dlai2017-d5l1-slides] |  |
 | RNN     | | | | |
 |                | [Marta R. Costa-jussà][MC-web]  | [DLAI 2017][dlai2017] | [[Slideshare]][dlai2017-d7l1-slides] |  [[Video]][dlai2017-d7l1-video] |
+| Attention     | | | | |
+|                | [Marta R. Costa-jussà][MC-web]  | [DLAI 2017][dlai2017] | [[Slideshare]][dlai2017-d8l-slides] |  [[Video]][dlai2017-d8l2-video] |
 | Architectures  | | | | |
 |                | [Xavier Giro-i-Nieto][XG-web]| [DLCV 2018][dlcv2018] | [[Slides]][dlcv2018-d1l2-slides]  | [[Video]][dlcv2018-d1l2-video]            | 
 
@@ -48,6 +52,8 @@ Central repository for all lectures on deep learning at UPC ETSETB TelecomBCN.
 [dlai2017-d5l1-slides]: https://www.slideshare.net/xavigiro/convolutional-neural-networks-dlai-d5l2-2017-upc-deep-learning-for-artificial-intelligence
 [dlai2017-d7l1-slides]: https://www.slideshare.net/xavigiro/recurrent-neural-networks-dlai-d7l1-2017-upc-deep-learning-for-artificial-intelligence
 [dlai2017-d7l1-video]: https://youtu.be/N3DzDnzL19U
+[dlai2017-d8l-slides]: https://www.slideshare.net/xavigiro/attentionbased-models-dlai-d8l-2017-upc-deep-learning-for-artificial-intelligence
+[dlai2017-d8l2-video]: https://youtu.be/z_jufP2xdv4
 
 [dlcv2018-d1l2-slides]: https://www.slideshare.net/xavigiro/d1l2-the-neural-network-zoo-upc-2018-deep-learning-for-computer-vision
 [dlcv2018-d1l2-video]: https://youtu.be/P47KJJ4wbyo
@@ -61,11 +67,27 @@ Central repository for all lectures on deep learning at UPC ETSETB TelecomBCN.
 | Transfer learning     | | | | |
 |                | [Ramon Morros][RM-web] | [DLAI 2017][dlai2017] | [[Slideshare]][dlai2017-d5l2-slides] |   | 
 | Incremental learning     | | | | |
-|                | [Ramon Morros][RM-web] | [DLAI 2017][dlai2017] | [[Slideshare]][dlai2017-d6l1-slides] |  | 
+|                | [Ramon Morros][RM-web] | [DLAI 2017][dlai2017] | [[Slideshare]][dlai2017-d6l1-slides] |  |
+| Reinforcement learning     | | | | |
+|                | [[Xavier Giro-i-Nieto][XG-web] | [DLAI 2017][dlai2017] | [[Slideshare]][dlai2017-d7l2-slides] | [[Video]][dlai2017-d7l2-video]  |
+| Unsupervised learning     | | | | |
+|                | [Xavier Giro-i-Nieto][XG-web] | [DLAI 2017][dlai2017] | [[Slideshare]][dlai2017-d9l1-slides] | [[Video]][dlai2017-d9l1-video] |
+| Generative mdels     | | | | |
+|    | [Santiago Pascual][SP-web] | [DLAI 2017][dlai2017] (I) | [[Slideshare]][dlai2017-d9l2-slides] | [[Video]][dlai2017-d9l2-video] |
+|    | [Santiago Pascual][SP-web] | [DLAI 2017][dlai2017] (II) | [[Slideshare]][dlai2017-d10l1-slides] | [[Video]][dlai2017-d10l1-video] |
+
 
 [dlai2017-d5l2-slides]: https://www.slideshare.net/xavigiro/transfer-learning-and-domain-adaptation-dlai-d5l2-2017-upc-deep-learning-for-artificial-intelligence
 [dlai2017-d6l1-slides]: https://www.slideshare.net/xavigiro/lifelong-incremental-learning-dlai-d6l1-2017-upc-deep-learning-for-artificial-intelligence
 [dlai2017-d6l2-slides]: https://www.slideshare.net/xavigiro/methodology-dlai-d6l2-2017-upc-deep-learning-for-artificial-intelligence
+[dlai2017-d7l2-slides]: https://www.slideshare.net/xavigiro/reinforcement-learning-dlai-d7l2-2017-upc-deep-learning-for-artificial-intelligence
+[dlai2017-d7l2-video]: https://youtu.be/vPlWFj0-j7I
+[dlai2017-d9l1-slides]: https://www.slideshare.net/xavigiro/unsupervised-learning-dlai-d9l1-2017-upc-deep-learning-for-artificial-intelligence
+[dlai2017-d9l1-video]: https://youtu.be/RY7AF-DA0TU
+[dlai2017-d9l2-slides]: https://www.slideshare.net/xavigiro/deep-generative-models-i-dlai-d9l2-2017-upc-deep-learning-for-artificial-intelligence
+[dlai2017-d9l2-video]: https://youtu.be/FeJT8ejgsL0
+[dlai2017-d10l1-slides]: https://www.slideshare.net/xavigiro/deep-generative-models-ii-dlai-d10l1-2017-upc-deep-learning-for-artificial-intelligence
+[dlai2017-d10l1-video]: https://www.youtube.com/watch?v=a1aM0yUJXUI
 
 
 ## Computer Vision
