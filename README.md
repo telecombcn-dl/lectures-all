@@ -5,16 +5,29 @@ Central repository for all lectures on deep learning at UPC ETSETB TelecomBCN.
 [KM-web]: http://www.eeng.dcu.ie/~mcguinne/
 [EM-web]: https://www.insight-centre.org/users/eva-mohedano
 [LL-web]: https://dvl.in.tum.de/team/lealtaixe/
+[ES-web]: https://imatge.upc.edu/web/people/elisa-sayrol
+
+[dlai2017]: https://telecombcn-dl.github.io/2017-dlai/
 
 [dlcv2018]: https://telecombcn-dl.github.io/2018-dlcv/
 
 ## Machine Learning
 
-| Topic          | Lecturer                     | Course                 | Slides                                | Video             |
-| -------------- |  --------------------------- | ---------------------- | :-----------------------------------: | :---------------: |
+| Topic          | Lecturer                     | Course                 | Slides                    | Video             |
+| -------------- |  --------------------------- | ---------------------- | :-----------------------: | :---------------: |
 | Perceptron     | | | | |
+|                | [Xavier Giro-i-Nieto][XG-web] | [DLAI 2017][dlai2017] | [[Slideshare]][dlai2017-d1l2-slides] | [[Video]][dlai2017-d1l2-video]       | 
+| Multi-layer Perceptron     | | | | |
+|                | [Elisa Sayrol][ES-web] | [DLAI 2017][dlai2017] | [[Slideshare]][dlai2017-d2l1-slides] | [[Video]][dlai2017-d2l1-video]      | 
 | Architectures  | | | | |
 |                | [Xavier Giro-i-Nieto][XG-web]| [DLCV 2018][dlcv2018] | [[Slides]][dlcv2018-d1l2-slides]  | [[Video]][dlcv2018-d1l2-video]            | 
+
+[dlai2017-d1l2-slides]: https://www.slideshare.net/xavigiro/the-perceptron-audio-and-vision-d1l2-2017-upc-deep-learning-for-artificial-intelligence
+[dlai2017-d1l2-video]: https://youtu.be/7L75hHF4STM
+
+[dlai2017-d2l1-slides]: https://www.slideshare.net/xavigiro/multilayer-perceptron-dlai-d1l2-2017-upc-deep-learning-for-artificial-intelligence
+[dlai2017-d2l1-video]: https://youtu.be/F03UEq8yVkI
+
 
 [dlcv2018-d1l2-slides]: https://www.slideshare.net/xavigiro/d1l2-the-neural-network-zoo-upc-2018-deep-learning-for-computer-vision
 [dlcv2018-d1l2-video]: https://youtu.be/P47KJJ4wbyo
