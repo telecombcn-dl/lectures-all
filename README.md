@@ -8,13 +8,15 @@ Central repository for all lectures on deep learning at UPC ETSETB TelecomBCN.
 [ES-web]: https://imatge.upc.edu/web/people/elisa-sayrol
 [VV-web]: https://imatge.upc.edu/web/people/veronica-vilaplana
 [JR-web]: https://imatge.upc.edu/web/people/javier-ruiz-hidalgo
+[RM-web]: https://imatge.upc.edu/web/people/josep-ramon-morros
+[MC-web]: http://www.costa-jussa.com/
 
 
 [dlai2017]: https://telecombcn-dl.github.io/2017-dlai/
 
 [dlcv2018]: https://telecombcn-dl.github.io/2018-dlcv/
 
-## Deep Learning
+## Deep Neural Networks
 
 | Topic          | Lecturer                     | Course                 | Slides                    | Video             |
 | -------------- |  --------------------------- | ---------------------- | :-----------------------: | :---------------: |
@@ -30,7 +32,8 @@ Central repository for all lectures on deep learning at UPC ETSETB TelecomBCN.
 |                | [Javier Ruiz][JR-web] | [DLAI 2017][dlai2017] | [[Slideshare]][dlai2017-d4l2-slides] |  |
 | Convnets     | | | | |
 |                | [Verónica Vilaplana][VV-web]  | [DLAI 2017][dlai2017] | [[Slideshare]][dlai2017-d5l1-slides] |  |
-
+| RNN     | | | | |
+|                | [Marta R. Costa-jussà][MC-web]  | [DLAI 2017][dlai2017] | [[Slideshare]][dlai2017-d7l1-slides] |  [[Video]][dlai2017-d7l1-video] |
 | Architectures  | | | | |
 |                | [Xavier Giro-i-Nieto][XG-web]| [DLCV 2018][dlcv2018] | [[Slides]][dlcv2018-d1l2-slides]  | [[Video]][dlcv2018-d1l2-video]            | 
 
@@ -43,10 +46,27 @@ Central repository for all lectures on deep learning at UPC ETSETB TelecomBCN.
 [dlai2017-d4l1-slides]: https://www.slideshare.net/xavigiro/optimization-dlai-d4l1-2017-upc-deep-learning-for-artificial-intelligence
 [dlai2017-d4l2-slides]: https://www.slideshare.net/xavigiro/loss-functions-dlai-d4l2-2017-upc-deep-learning-for-artificial-intelligence/1
 [dlai2017-d5l1-slides]: https://www.slideshare.net/xavigiro/convolutional-neural-networks-dlai-d5l2-2017-upc-deep-learning-for-artificial-intelligence
-
+[dlai2017-d7l1-slides]: https://www.slideshare.net/xavigiro/recurrent-neural-networks-dlai-d7l1-2017-upc-deep-learning-for-artificial-intelligence
+[dlai2017-d7l1-video]: https://youtu.be/N3DzDnzL19U
 
 [dlcv2018-d1l2-slides]: https://www.slideshare.net/xavigiro/d1l2-the-neural-network-zoo-upc-2018-deep-learning-for-computer-vision
 [dlcv2018-d1l2-video]: https://youtu.be/P47KJJ4wbyo
+
+## Machine Learning
+
+| Topic          | Lecturer                     | Course                 | Slides                    | Video             |
+| -------------- |  --------------------------- | ---------------------- | :-----------------------: | :---------------: |
+| Methodology     | | | | |
+|                | [Javier Ruiz][JR-web] | [DLAI 2017][dlai2017] | [[Slideshare]][dlai2017-d6l2-slides] |  | 
+| Transfer learning     | | | | |
+|                | [Ramon Morros][RM-web] | [DLAI 2017][dlai2017] | [[Slideshare]][dlai2017-d5l2-slides] |   | 
+| Incremental learning     | | | | |
+|                | [Ramon Morros][RM-web] | [DLAI 2017][dlai2017] | [[Slideshare]][dlai2017-d6l1-slides] |  | 
+
+[dlai2017-d5l2-slides]: https://www.slideshare.net/xavigiro/transfer-learning-and-domain-adaptation-dlai-d5l2-2017-upc-deep-learning-for-artificial-intelligence
+[dlai2017-d6l1-slides]: https://www.slideshare.net/xavigiro/lifelong-incremental-learning-dlai-d6l1-2017-upc-deep-learning-for-artificial-intelligence
+[dlai2017-d6l2-slides]: https://www.slideshare.net/xavigiro/methodology-dlai-d6l2-2017-upc-deep-learning-for-artificial-intelligence
+
 
 ## Computer Vision
 
