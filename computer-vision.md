@@ -38,7 +38,8 @@
 |                | [Elisa Sayrol][ES-web] | [DLCV2018] | [[Slides]][dlcv2018-d2l2-slides]  |   |
 |                | [Elisa Sayrol][ES-web] | [DLCV2017] | [[Slides]][dlcv2017-d2l5-slides] | [[Video]][dlcv2017-D2L5-video]   |
 | Image Retrieval  | | | | |
-|                | [Eva Mohedano][EM-web]| [DLCV 2018][dlcv2018] | [[Slides]][dlcv2018-D1L4-slides]  | [[Video]][dlcv2018-D1L4-video]    |
+|        | [Eva Mohedano][EM-web]| [DLCV2018] | [[Slides]][dlcv2018-D1L4-slides]  | [[Video]][dlcv2018-D1L4-video]    |
+|        | [Kevin McGuinness][KM-web]| [DLCV2017] | [[Slides]][dlcv2017-d4l5-slides]  |    |
 | Semantic Segmentation  | | | | |
 |                | [Miriam Bellver][MB-web] | [DLCV2018] | [[Slides]][dlcv2018-d2l3-slides]  |   |
 |                | [Veronica Vilaplana][VV-web] | [DLCV2017] | [[Slides]][dlcv2017-d3l1-slides]  |   |
@@ -76,6 +77,7 @@
 [dlcv2017-d4l2-slides]: https://www.slideshare.net/xavigiro/video-analysis-d4l2-2017-upc-deep-learning-for-computer-vision
 [dlcv2017-d4l3-slides]: https://www.slideshare.net/xavigiro/visual-saliency-d4l3-2017-upc-deep-learning-for-computer-vision
 [dlcv2017-d4l3-video]: https://youtu.be/JDZgQz6hCWM
+[dlcv2017-d4l5-slides]: https://www.slideshare.net/xavigiro/image-retrieval-d4l5-2017-upc-deep-learning-for-computer-vision
 
 [dlcv2018-d1l3-slides]: https://www.slideshare.net/xavigiro/d1l3-image-classification-upc-2018-deep-learning-for-computer-vision
 [dlcv2018-d1l3-video]: https://youtu.be/NHvantNw1Kw
