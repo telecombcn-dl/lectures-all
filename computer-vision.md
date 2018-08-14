@@ -2,6 +2,7 @@
 [XG-web]: https://imatge.upc.edu/web/people/xavier-giro
 [KM-web]: http://www.eeng.dcu.ie/~mcguinne/
 [EM-web]: https://www.insight-centre.org/users/eva-mohedano
+[AS-web]: https://imatge.upc.edu/web/people/amaia-salvador
 [LL-web]: https://dvl.in.tum.de/team/lealtaixe/
 [ES-web]: https://imatge.upc.edu/web/people/elisa-sayrol
 [VV-web]: https://imatge.upc.edu/web/people/veronica-vilaplana
@@ -21,9 +22,11 @@
 | Topic          | Lecturer                     | Course                 |                                 |              |
 | -------------- |  --------------------------- | ---------------------- | :-----------------------------: | :----------: |
 | Image Classification  | | | | |
-|                | [Kevin McGuinness][KM-web]| [DLCV 2018][dlcv2018] | [[Slides]][dlcv2018-D1L3-slides]  | [[Video]][dlcv2018-D1L3-video]    |
+|                | [Kevin McGuinness][KM-web]| [DLCV2018] | [[Slides]][dlcv2018-D1L3-slides]  | [[Video]][dlcv2018-D1L3-video]    |
+|                | [Xavier Giro-i-Nieto][XG-web]| [DLCV2017] | [[Slides]][dlcv2017-d1l4-slides]  | [[Video]][dlcv2017-d1l4-video]            | 
 | Interpretability  | | | | |
-|                | [Eva Mohedano][EM-web] | [DLCV 2018][dlcv2018] | [[Slides]][dlcv2018-d3l4-slides]  | [[Video]][dlcv2018-d3l4-video]    |
+|                | [Eva Mohedano][EM-web] | [DLCV2018] | [[Slides]][dlcv2018-d3l4-slides]  | [[Video]][dlcv2018-d3l4-video]    |
+|                | [Amaia Salvador][AS-web] | [DLCV2017] | [[Slides]][dlcv2018-d1l6-slides]  |    |
 | Visual Saliency Prediction  | | | | |
 |                | [Kevin McGuinness][KM-web]| [DLCV 2018][dlcv2018] | [[Slides]][dlcv2018-d3l5-slides]  | [[Video]][dlcv2018-D3l5-video]    |
 | Object Detection  | | | | |
@@ -51,6 +54,9 @@
 | Medical Imaging  | | | | |
 |                | [Elisa Sayrol][ES-web] | [DLCV 2018][dlcv2018] | [[Slides]][dlcv2018-d2l5-slides]  |   |
 |                | [Kevin McGuinness][KM-web]| [DLCV 2018][dlcv2018] | [[Slides]][dlcv2018-D2l6-slides]  | [[Video]][dlcv2018-D2L6-video]    |
+
+[dlcv2017-d1l4-slides]: https://www.slideshare.net/xavigiro/image-classification-on-imagenet-d1l4-2017-upc-deep-learning-for-computer-vision
+[dlcv2017-d1l4-video]: https://youtu.be/Cng0btC-1uE
 
 [dlcv2018-d1l3-slides]: https://www.slideshare.net/xavigiro/d1l3-image-classification-upc-2018-deep-learning-for-computer-vision
 [dlcv2018-d1l3-video]: https://youtu.be/NHvantNw1Kw
