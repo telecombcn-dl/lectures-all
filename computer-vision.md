@@ -39,11 +39,13 @@
 |       | [Amaia Salvador][AS-web] | [DLCV2017] | [Slides][dlcv2017-d2l4-slides]  |  [Video][dlcv2017-d2l4-video]  |
 |       | [Amaia Salvador][AS-web] | [DLCV2016] | [Slides][dlcv2016-object-slides]  |  [Video][dlcv2016-object-video]  |
 | Face Recognition  | | | | |
-|                | [Elisa Sayrol][ES-web] | [DLCV2018] | [[Slides]][dlcv2018-d2l2-slides]  |   |
-|                | [Elisa Sayrol][ES-web] | [DLCV2017] | [[Slides]][dlcv2017-d2l5-slides] | [[Video]][dlcv2017-D2L5-video]   |
+|       | [Elisa Sayrol][ES-web] | [DLCV2018] | [[Slides]][dlcv2018-d2l2-slides]  |   |
+|       | [Elisa Sayrol][ES-web] | [DLCV2017] | [[Slides]][dlcv2017-d2l5-slides] | [[Video]][dlcv2017-D2L5-video]   |
+|       | [Elisa Sayrol][ES-web] | [DLCV2016] | [[Slides]][dlcv2016-face-slides] | [[Video]][dlcv2016-face-video]   |
 | Image Retrieval  | | | | |
-|        | [Eva Mohedano][EM-web]| [DLCV2018] | [[Slides]][dlcv2018-D1L4-slides]  | [[Video]][dlcv2018-D1L4-video]    |
-|        | [Kevin McGuinness][KM-web]| [DLCV2017] | [[Slides]][dlcv2017-d4l5-slides]  |    |
+|        | [Eva Mohedano][EM-web]| [DLCV2018] | [Slides][dlcv2018-D1L4-slides]  | [Video][dlcv2018-D1L4-video]    |
+|        | [Kevin McGuinness][KM-web]| [DLCV2017] | [Slides][dlcv2017-d4l5-slides]  |    |
+|        | [Eva Mohedano][EM-web]| [DLCV2016] | [Slides][dlcv2016-retrieval-slides]  | [Video][dlcv2016-retrieval-video] |
 | Semantic Segmentation  | | | | |
 |                | [Miriam Bellver][MB-web] | [DLCV2018] | [[Slides]][dlcv2018-d2l3-slides]  |   |
 |                | [Veronica Vilaplana][VV-web] | [DLCV2017] | [[Slides]][dlcv2017-d3l1-slides]  |   |
@@ -74,6 +76,10 @@
 [dlcv2016-saliency-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-saliency-prediction-upc-2016
 [dlcv2016-object-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-object-detection-upc-2016
 [dlcv2016-object-video]: https://www.youtube.com/watch?v=VuJu0t4mYKM
+[dlcv2016-face-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-face-detection-and-recognition-upc-2016
+[dlcv2016-face-video]: https://www.youtube.com/watch?v=uKYoyIwD42Y
+[dlcv2016-retrieval-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-image-retrieval-upc-2016
+[dlcv2016-retrieval-video]: https://www.youtube.com/watch?v=tsGhPsZiexQ
 
 [dlcv2017-d1l4-slides]: https://www.slideshare.net/xavigiro/image-classification-on-imagenet-d1l4-2017-upc-deep-learning-for-computer-vision
 [dlcv2017-d1l4-video]: https://youtu.be/Cng0btC-1uE
