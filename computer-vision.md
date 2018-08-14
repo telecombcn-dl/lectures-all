@@ -23,9 +23,9 @@
 | Topic          | Lecturer                     | Course                 |                                 |              |
 | -------------- |  --------------------------- | ---------------------- | :-----------------------------: | :----------: |
 | Image Classification  | | | | |
-|                | [Kevin McGuinness][KM-web]| [DLCV2018] | [[Slides]][dlcv2018-D1L3-slides]  | [[Video]][dlcv2018-D1L3-video]    |
-|   | [Xavier Giro-i-Nieto][XG-web]| [DLCV2017] | [[Slides]][dlcv2017-d1l4-slides]  | [[Video]][dlcv2017-d1l4-video] | 
-|   | [Xavier Giro-i-Nieto][XG-web]| [DLCV2016] | [[Slides]][dlcv2017-d1l4-slides]  |  | 
+|                | [Kevin McGuinness][KM-web]| [DLCV2018] | [Slides][dlcv2018-D1L3-slides]  | [Video][dlcv2018-D1L3-video]    |
+|   | [Xavier Giro-i-Nieto][XG-web]| [DLCV2017] | [Slides][dlcv2017-d1l4-slides]  | [Video][dlcv2017-d1l4-video] | 
+|   | [Xavier Giro-i-Nieto][XG-web]| [DLCV2016] | [Slides][dlcv2017-d1l4-slides]  |  | 
 | Interpretability  | | | | |
 |  | [Eva Mohedano][EM-web] | [DLCV2018] | [Slides][dlcv2018-d3l4-slides]  | [Video][dlcv2018-d3l4-video]    |
 |  | [Amaia Salvador][AS-web] | [DLCV2017] | [Slides][dlcv2018-d1l6-slides]  |    |
@@ -68,9 +68,11 @@
 | 3D Reconstruction  | | | | |
 |                | [Eduard Ramon][ER-web]| [DLCV 2018][dlcv2018] | [[Slides]][dlcv2018-d4l2-slides]  |  |
 | Medical Imaging  | | | | |
-|                | [Elisa Sayrol][ES-web] | [DLCV 2018][dlcv2018] | [[Slides]][dlcv2018-d2l5-slides]  |   |
-|  | [Kevin McGuinness][KM-web]| [DLCV2018] | [[Slides]][dlcv2018-D2l6-slides]  | [[Video]][dlcv2018-D2L6-video]    |
-|                | [Veronica Vilaplana][VV-web] | [DLCV2017] | [[Slides]][dlcv2017-d3l3-slides]  |   |
+|  | [Elisa Sayrol][ES-web] | [DLCV 2018][dlcv2018] | [Slides][dlcv2018-d2l5-slides]  |   |
+|  | [Kevin McGuinness][KM-web]| [DLCV2018] | [Slides][dlcv2018-D2l6-slides]  | [Video][dlcv2018-D2L6-video]    |
+|  | [Veronica Vilaplana][VV-web] | [DLCV2017] | [Slides][dlcv2017-d3l3-slides]  |   |
+|  | [Elisa Sayrol][ES-web] | [DLCV2016] | [Slides][dlcv2016-medical-slides]  |  [Video][dlcv2016-medical-video] |
+
 
 [dlcv2016-visualization-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-visualization-upc-2016
 [dlcv2016-visualization-video]: https://youtu.be/YQvTxkPV8LQ
@@ -86,6 +88,8 @@
 [dlcv2016-segmentation-video]: https://www.youtube.com/watch?v=_aTTlkZ0kTo
 [dlcv2016-video-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-video-analytics-upc-2016
 [dlcv2016-video-video]: https://www.youtube.com/watch?v=2ALNzI90ysA
+[dlcv2016-medical-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-medical-imaging-upc-2016 
+[dlcv2016-medical-video]: https://www.youtube.com/watch?v=3gzIilFAmmY
 
 [dlcv2017-d1l4-slides]: https://www.slideshare.net/xavigiro/image-classification-on-imagenet-d1l4-2017-upc-deep-learning-for-computer-vision
 [dlcv2017-d1l4-video]: https://youtu.be/Cng0btC-1uE
