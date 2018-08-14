@@ -24,6 +24,10 @@
 | -------------- |  --------------------------- | ---------------------- | :-----------------------------: | :----------: |
 | Image Classification  | | | | |
 |                | [Kevin McGuinness][KM-web]| [DLCV 2018][dlcv2018] | [[Slides]][dlcv2018-D1L3-slides]  | [[Video]][dlcv2018-D1L3-video]    |
+| Interpretability  | | | | |
+|                | [Eva Mohedano][EM-web] | [DLCV 2018][dlcv2018] | [[Slides]][dlcv2018-d3l4-slides]  | [[Video]][dlcv2018-d3l4-video]    |
+| Visual Saliency Prediction  | | | | |
+|                | [Kevin McGuinness][KM-web]| [DLCV 2018][dlcv2018] | [[Slides]][dlcv2018-d3l5-slides]  | [[Video]][dlcv2018-D3l5-video]    |
 | Object Detection  | | | | |
 |                | [Miriam Bellver][MB-web] | [DLCV 2018][dlcv2018] | [[Slides]][dlcv2018-d2l1-slides]  |   |
 | Face Recognition  | | | | |
@@ -63,6 +67,12 @@
 [dlcv2018-d3l12-slides]: https://www.slideshare.net/xavigiro/deep-video-analysis-vctor-campos-upc-barcelona-2018
 [dlcv2018-d3l3-slides]: https://www.slideshare.net/xavigiro/multiple-object-tracking-laura-lealtaixe-upc-barcelona-2018
 [dlcv2018-d3l3-video]: https://youtu.be/NQXRb3ViRuQ 
+[dlcv2018-d3l4-slides]: https://www.slideshare.net/xavigiro/interpretability-of-convolutional-neural-networks-eva-mohedano-upc-barcelona-2018
+[dlcv2018-d3l4-video]: https://youtu.be/SsHohytl1NA
+[dlcv2018-d3l5-slides]: https://www.slideshare.net/xavigiro/visual-saliency-prediction-with-deep-learning-kevin-mcguinness-upc-barcelona-2018
+[dlcv2018-d3l5-video]: https://youtu.be/iEgB1ZQ2W2I
+
+
 
 
 
