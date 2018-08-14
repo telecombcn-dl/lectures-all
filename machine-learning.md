@@ -51,6 +51,7 @@
 | Generative models     | | | | |
 |    | [Santiago Pascual][SP-web] | [DLAI 2017][dlai2017] (I) | [[Slideshare]][dlai2017-d9l2-slides] | [[Video]][dlai2017-d9l2-video] |
 |    | [Santiago Pascual][SP-web] | [DLAI 2017][dlai2017] (II) | [[Slideshare]][dlai2017-d10l1-slides] | [[Video]][dlai2017-d10l1-video] |
+|                | [Kevin McGuinness][KM-web]| [DLCV 2018][dlcv2018] | [[Slides]][dlcv2018-D4l3-slides]  |    |
 | Set learning     | | | | |
 |                | [Laura-Leal Taixé][LL-web]| [DLCV 2018][dlcv2018] | [[Slides]][dlcv2018-d3l6-slides]  | [[Video]][dlcv2018-d3l6-video]   |
 
@@ -70,5 +71,7 @@
 
 [dlcv2018-d3l6-slides]: https://www.slideshare.net/xavigiro/towards-set-learning-and-prediction-laura-lealtaixe-upc-barcelona-2018
 [dlcv2018-d3l6-video]: https://youtu.be/L4V-gdYYQcY
+[dlcv2018-D4L3-slides]: https://www.slideshare.net/xavigiro/deep-generative-models-kevin-mcguinness-upc-barcelona-2018
+
 
 
