@@ -58,7 +58,7 @@
 | RNN     | | | | |
 |      | [Marta R. Costa-jussà][MC-web]  | [DLAI2017] | [Slides][dlai2017-d7l1-slides] |  [Video][dlai2017-d7l1-video] |
 |      | [Xavier Giro-i-Nieto][XG-web] | [DLCV2017] | [Slides][dlcv2017-d2l2-slides] |  | 
-|      | [Xavier Giro-i-Nieto][XG-web] | [DLCV2016] | [Slides]][dlcv2016-rnn-slides] | [Video][dlcv2016-rnn-slides] | 
+|      | [Xavier Giro-i-Nieto][XG-web] | [DLCV2016] | [Slides][dlcv2016-rnn-slides] | [Video][dlcv2016-rnn-slides] | 
 | Attention     | | | | |
 |     | [Marta R. Costa-jussà][MC-web]  | [DLAI2017] | [[Slides]][dlai2017-d8l-slides] |  [[Video]][dlai2017-d8l2-video] |
 |     | [Amaia Salvador][AS-web]  | [DLCV2017] | [[Slides]][dlai2017-d3l6-slides] |  |
