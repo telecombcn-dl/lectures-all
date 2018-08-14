@@ -49,6 +49,7 @@
 | Semantic Segmentation  | | | | |
 |                | [Miriam Bellver][MB-web] | [DLCV2018] | [[Slides]][dlcv2018-d2l3-slides]  |   |
 |                | [Veronica Vilaplana][VV-web] | [DLCV2017] | [[Slides]][dlcv2017-d3l1-slides]  |   |
+| | [Amaia Salvador][AS-web] | [DLCV2016] | [Slides][dlcv2016-segmentation-slides] | [Video][dlcv2016-segmentation-video]|
 | Instance Segmentation  | | | | |
 |                | [Miriam Bellver][MB-web] | [DLCV 2018][dlcv2018] | [[Slides]][dlcv2018-d2l4-slides]  |   |
 | Video Analysis  | | | | |
@@ -80,6 +81,8 @@
 [dlcv2016-face-video]: https://www.youtube.com/watch?v=uKYoyIwD42Y
 [dlcv2016-retrieval-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-image-retrieval-upc-2016
 [dlcv2016-retrieval-video]: https://www.youtube.com/watch?v=tsGhPsZiexQ
+[dlcv2016-segmentation-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-segmentation-upc-2016
+[dlcv2016-segmentation-video]: https://www.youtube.com/watch?v=_aTTlkZ0kTo
 
 [dlcv2017-d1l4-slides]: https://www.slideshare.net/xavigiro/image-classification-on-imagenet-d1l4-2017-upc-deep-learning-for-computer-vision
 [dlcv2017-d1l4-video]: https://youtu.be/Cng0btC-1uE
