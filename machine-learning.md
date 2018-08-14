@@ -32,6 +32,7 @@
 [DLAI2017]: https://telecombcn-dl.github.io/2017-dlai/
 [DLAI2018]: https://telecombcn-dl.github.io/2018-dlai/
 
+[MCV2018]: https://mcv-m6-video.github.io/deepvideo-2018/
 
 ## Machine Learning
 
@@ -60,7 +61,8 @@
 |  | [Kevin McGuinness][KM-web]| [DLCV2017] | [Slides][dlcv2017-d2l6-slides] |  |
 |  | [Kevin McGuinness][KM-web]| [DLCV2016] | [Slides][dlcv2016-unsupervised-slides]|[Video][dlcv2016-unsupervised-video] |
 | Self-supervised learning     | | | | |
-|     | [Xavier Giro-i-Nieto][XG-web] | [DLCV2017] | [[Slideshare]][dlcv2017-d4l4-slides] |  |
+|     | [Xavier Giro-i-Nieto][XG-web] | [MCV2018] | [Slides][mcv2018-video-features] |  |
+|     | [Xavier Giro-i-Nieto][XG-web] | [DLCV2017] | [Slides][dlcv2017-d4l4-slides] |  |
 | Generative models     | | | | |
 |                | [Verónica Vilaplana][VV-web] | [IDL2018] | [Slides][idl2018-d4l3-slides] |  | 
 |    | [Santiago Pascual][SP-web] | [DLAI 2017][dlai2017] (I) | [[Slideshare]][dlai2017-d9l2-slides] | [[Video]][dlai2017-d9l2-video] |
@@ -101,6 +103,10 @@
 [dlai2017-d9l2-video]: https://youtu.be/FeJT8ejgsL0
 [dlai2017-d10l1-slides]: https://www.slideshare.net/xavigiro/deep-generative-models-ii-dlai-d10l1-2017-upc-deep-learning-for-artificial-intelligence
 [dlai2017-d10l1-video]: https://www.youtube.com/watch?v=a1aM0yUJXUI
+[mcv2018-video-language]: https://www.slideshare.net/xavigiro/deep-learning-for-video-language-upc-2018
+
+[mcv2018-video-features]: https://www.slideshare.net/xavigiro/deep-learning-from-videos-upc-2018
+
 
 [dlcv2018-d3l6-slides]: https://www.slideshare.net/xavigiro/towards-set-learning-and-prediction-laura-lealtaixe-upc-barcelona-2018
 [dlcv2018-d3l6-video]: https://youtu.be/L4V-gdYYQcY
