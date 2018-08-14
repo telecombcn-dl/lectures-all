@@ -18,6 +18,8 @@
 [DLCV2018]: https://telecombcn-dl.github.io/2018-dlcv/
 [DLCV2019]: https://telecombcn-dl.github.io/2019-dlcv/
 
+[MCV2018]: https://mcv-m6-video.github.io/deepvideo-2018/
+
 ## Computer Vision
 
 | Topic          | Lecturer                     | Course                 |                                 |              |
@@ -54,14 +56,24 @@
 |                | [Miriam Bellver][MB-web] | [DLCV 2018][dlcv2018] | [[Slides]][dlcv2018-d2l4-slides]  |   |
 | Video Analysis  | | | | |
 |   | [Victor Campos][VC-web] | [DLCV2018] | [Slides][dlcv2018-d3l12-slides]  |   |
+|   | [Xavier Giro-i-Nieto][XG-web]| [MCV2018] | [Slides][mcv2018-action-class]  |  |
 |   | [Xavier Giro-i-Nieto][XG-web]| [DLCV2017] | [Slides][dlcv2017-d4l2-slides]  |  | 
 |   | [Xavier Giro-i-Nieto][XG-web]| [DLCV2016] | [Slides][dlcv2016-video-slides]  | [Slides][dlcv2016-video-video] | 
+| Activity Detection  | | | | |
+|   | [Xavier Giro-i-Nieto][XG-web]| [MCV2018] | [Slides][mcv2018-action-detect]  |  |
 | Video Segmentation  | | | | |
-|                | [Laura-Leal Taixé][LL-web]| [DLCV 2018][dlcv2018] | [[Slides]][dlcv2018-D1l6-slides]  |  |
-| Object Tracking  | | | | |
-|                | [Laura-Leal Taixé][LL-web]| [DLCV 2018][dlcv2018] | [[Slides]][dlcv2018-D3l3-slides]  | [[Video]][dlcv2018-D3l3-video]   |
+|   | [Laura-Leal Taixé][LL-web]| [DLCV 2018][dlcv2018] | [[Slides]][dlcv2018-D1l6-slides]  |  |
+| Video Object Tracking  | | | | |
+|   | [Laura-Leal Taixé][LL-web]| [DLCV2018] | [[Slides]][dlcv2018-D3l3-slides]  | [[Video]][dlcv2018-D3l3-video]  |
+|   | [Xavier Giro-i-Nieto][XG-web]| [MCV2018] | [Slides][mcv2018-object-track]  |  |
+| Video Object Detection  | | | | |
+|   | [Xavier Giro-i-Nieto][XG-web]| [MCV2018] | [Slides][mcv2018-object-detect]  |  |
+| Motion Estimation  | | | | |
+|   | [Xavier Giro-i-Nieto][XG-web]| [MCV2018] | [Slides][mcv2018-motion]  |  |
+| Video Feature Learning  | | | | |
+|   | [Xavier Giro-i-Nieto][XG-web]| [MCV2018] | [Slides][mcv2018-video-features]  |  |
 | Visual Localization  | | | | |
-|                | [Laura-Leal Taixé][LL-web]| [DLCV 2018][dlcv2018] | [[Slides]][dlcv2018-D1l5-slides]  | [[Video]][dlcv2018-D1L5-video]   |
+|   | [Laura-Leal Taixé][LL-web]| [DLCV2018] | [[Slides]][dlcv2018-D1l5-slides]  | [[Video]][dlcv2018-D1L5-video]   |
 | 3D Analysis  | | | | |
 |                | [Javier Ruiz][JR-web]| [DLCV2018] | [[Slides]][dlcv2018-d4l1-slides]  |  |
 |                | [Javier Ruiz][JR-web]| [DLCV2017] | [[Slides]][dlcv2017-d4l1-slides]  | [Video][dlcv2017-d4l1-video] |
@@ -130,6 +142,12 @@
 [dlcv2018-D4L1-slides]: https://www.slideshare.net/xavigiro/deep-3d-analysis-javier-ruizhidalgo-upc-barcelona-2018
 [dlcv2018-D4L2-slides]: https://www.slideshare.net/xavigiro/deep-3d-reconstruction-eduarda-ramon-upc-barcelona-2018
 
+[mcv2018-action-class]: https://www.slideshare.net/xavigiro/deep-learning-for-video-action-recognition-upc-2018
+[mcv2018-action-detect]: https://www.slideshare.net/xavigiro/deep-learning-for-video-action-detection-upc-2018
+[mcv2018-object-track]: https://www.slideshare.net/xavigiro/deep-learning-for-video-object-tracking-upc-2018
+[mcv2018-object-detect]: https://www.slideshare.net/xavigiro/deep-learning-for-video-object-detection-segmentation-upc-2018
+[mcv2018-motion]: https://www.slideshare.net/xavigiro/deep-learning-for-video-motion-estimation-upc-2018
+[mcv2018-video-features]: https://www.slideshare.net/xavigiro/deep-learning-from-videos-upc-2018
 
 
 
