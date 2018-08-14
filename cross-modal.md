@@ -11,13 +11,17 @@
 | Topic          | Lecturer                     | Course                 |                                 |              |
 | -------------- |  --------------------------- | ---------------------- | :-----------------------------: | :----------: |
 | Language and Vision  | | | | |
-|   | [Xavier Giro-i-Nieto][XG-web]| [DLCV2018] | [[Slides]][DLCV2018-D4L4-slides]  | [[Video]][dlcv2018-d4l4-video]    |
-|   | [Xavier Giro-i-Nieto][XG-web]| [DLCV2017] | [[Slides]][DLCV2018-D4L4-slides]  |    |
+|   | [Xavier Giro-i-Nieto][XG-web]| [DLCV2018] | [Slides][DLCV2018-D4L4-slides]  | [Video][dlcv2018-d4l4-video]    |
+|   | [Xavier Giro-i-Nieto][XG-web]| [DLCV2017] | [Slides][DLCV2017-d3l5-slides]  |    |
+|   | [Xavier Giro-i-Nieto][XG-web]| [DLCV2016] | [Slides][dlcv2016-language-slides]  | [Video][dlcv2016-language-video]   |
 | Audio and Vision  | | | | |
 |              | [Eva Mohedano][EM-web] | [DLCV2018] | [[Slides]][dlcv2018-d4l5-slides]  | [[Video]][dlcv2018-D4L5-video] |
 |         | [Xavier Giro-i-Nieto][XG-web]| [DLCV2017] | [[Slides]][dlcv2017-d4l6-slides]  | [[Video]][dlcv2017-d4l6-video] |
 | Speech and Vision  | | | | |
 |         | [Xavier Giro-i-Nieto][XG-web]| [DLCV2018] | [[Slides]][dlcv2018-d4l6-slides]  | [[Video]][dlcv2018-D4L6-video] |
+
+[dlcv2016-language-slides]: http://www.slideshare.net/xavigiro/language-and-vision-dlcv-d4l3
+[dlcv2016-language-video]: https://www.youtube.com/watch?v=IkJkD_hefik
 
 [dlcv2017-d3l5-slides]: https://www.slideshare.net/xavigiro/language-and-vision-d3l5-2017-upc-deep-learning-for-computer-vision
 [dlcv2017-d4l6-slides]: https://www.slideshare.net/xavigiro/audio-and-vision-d4l6-2017-upc-deep-learning-for-computer-vision
