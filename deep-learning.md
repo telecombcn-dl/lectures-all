@@ -63,7 +63,8 @@
 |                | [Javier Ruiz][JR-web] | [IDL2018] | [Slides][idl2018-d2l3-slides] |  |
 |                | [Javier Ruiz][JR-web] | [DLAI2017] | [Slides][dlai2017-d4l2-slides] |  |
 | Convnets     | | | | |
-|                | [Verónica Vilaplana][VV-web]  | [DLAI 2017][dlai2017] | [[Slideshare]][dlai2017-d5l1-slides] |  |
+|                | [Verónica Vilaplana][VV-web]  | [IDL2018] | [Slides][idl2018-d3l1-slides] |  |
+|                | [Verónica Vilaplana][VV-web]  | [DLAI2017] | [Slideshare][dlai2017-d5l1-slides] |  |
 |                | [Elisa Sayrol][ES-web]  | [[DLCV2017] | [[Slideshare]][dlcv2016-training-slides] |  |
 | RNN     | | | | |
 |      | [Marta R. Costa-jussà][MC-web]  | [DLAI2017] | [Slides][dlai2017-d7l1-slides] |  [Video][dlai2017-d7l1-video] |
