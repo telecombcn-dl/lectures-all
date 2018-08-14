@@ -12,6 +12,9 @@
 [AB-web]: https://scholar.google.es/citations?user=C5AUXO4AAAAJ&hl=en
 [MB-web]: https://imatge.upc.edu/web/people/miriam-bellver
 
+[JS-web]: https://scholar.google.com/citations?user=sZLj96sAAAAJ&hl=en
+[JW-web]: https://scholar.google.com/citations?user=Gsw2iUEAAAAJ&hl=en
+
 [IDL2018]: https://telecombcn-dl.github.io/2018-idl/
 [IDL2019]: https://telecombcn-dl.github.io/2019-idl/
 
@@ -31,7 +34,9 @@
 [DLAI2017]: https://telecombcn-dl.github.io/2017-dlai/
 [DLAI2018]: https://telecombcn-dl.github.io/2018-dlai/
 
-## Deep Neural Networks
+# Deep Neural Networks
+
+# Lectures
 
 | Topic          | Lecturer                     | Course                 | Slides                    | Video             |
 | -------------- |  --------------------------- | ---------------------- | :-----------------------: | :---------------: |
@@ -66,6 +71,9 @@
 |     | [Amaia Salvador][AS-web]  | [DLCV2016] | [Slides][dlcv2016-attention-slides] | [Video][dlcv2016-attention-video] |
 | Architectures  | | | | |
 |     | [Xavier Giro-i-Nieto][XG-web]| [DLCV2018] | [Slides][dlcv2018-d1l2-slides]  | [Video][dlcv2018-d1l2-video] |
+| Keynotes     | | | | |
+|      | [Joost van der Weijer][JW-web] | [IDL2018] | [Slides][idl2018-d5l1-slides] |  |
+|      | [Joan Serra][JS-web] | [IDL2018] | [Slides][idl2018-d5l2-slides] |  |
 
 [dlcv2016-deep-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-deep-networks-upc-2016 
 [dlcv2016-backprop-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-backward-propagation-upc-2016
@@ -119,3 +127,4 @@
 
 [dlcv2018-d1l2-slides]: https://www.slideshare.net/xavigiro/d1l2-the-neural-network-zoo-upc-2018-deep-learning-for-computer-vision
 [dlcv2018-d1l2-video]: https://youtu.be/P47KJJ4wbyo
+
