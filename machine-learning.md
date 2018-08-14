@@ -39,23 +39,23 @@
 | Topic          | Lecturer                     | Course                 | Slides                    | Video             |
 | -------------- |  --------------------------- | ---------------------- | :-----------------------: | :---------------: |
 | Machine learning     | | | | |
-|                | [Verónica Vilaplana][VV-web] | [IDL2018] | [[Slides]][idl2018-d1l2-slides] |  | 
-|                | [Elisa Sayrol][ES-web] | [DLCV2016] | [[Slides]][dlcv2016-classification-slides]  |   |
+|                | [Verónica Vilaplana][VV-web] | [IDL2018] | [Slides][idl2018-d1l2-slides] |  | 
+|                | [Elisa Sayrol][ES-web] | [DLCV2016] | [Slides][dlcv2016-classification-slides]  |   |
 | Methodology     | | | | |
 |                | [Javier Ruiz][JR-web] | [IDL2018]  | [Slides][idl2018-d2l4-slides] |  | 
 |                | [Javier Ruiz][JR-web] | [DLAI2017] | [Slides][dlai2017-d6l2-slides] |  | 
 | Data augmentation     | | | | |
-|                | [Eva Mohedano][EM-web] | [DLCV2016] | [[Slides]][dlcv2016-augmentation-slides] |  | 
+|                | [Eva Mohedano][EM-web] | [DLCV2016] | [Slides][dlcv2016-augmentation-slides] |  | 
 | Transfer learning     | | | | |
 |       | [Ramon Morros][RM-web] | [IDL2018] | [Slides][idl2018-d3l2-slides] |   | 
 |       | [Ramon Morros][RM-web] | [DLAI2017] | [Slides][dlai2017-d5l2-slides] |   | 
 |       | [Eric Arazo][EA-web] | [DLCV2017] | [Slides][dlcv2017-d2l3-slides] |   | 
 |       | [Kevin McGuinness][KM-web]| [DLCV2016] | [Slides][dlcv2016-transfer-slides] | [Video][dlcv2016-transfer-video] |
 | Incremental learning     | | | | |
-|                | [Ramon Morros][RM-web] | [DLAI2017] | [[Slides]][dlai2017-d6l1-slides] |  |
-|                | [Ramon Morros][RM-web] | [DLCV2017] | [[Slides]][dlcv2017-d3l2-slides] |  |
+|                | [Ramon Morros][RM-web] | [DLAI2017] | [Slides][dlai2017-d6l1-slides] |  |
+|                | [Ramon Morros][RM-web] | [DLCV2017] | [Slides][dlcv2017-d3l2-slides] |  |
 | Reinforcement learning     | | | | |
-|                | [[Xavier Giro-i-Nieto][XG-web] | [DLAI 2017][dlai2017] | [[Slideshare]][dlai2017-d7l2-slides] | [[Video]][dlai2017-d7l2-video]  |
+|                | [[Xavier Giro-i-Nieto][XG-web] | [DLAI 2017][dlai2017] | [Slides][dlai2017-d7l2-slides] | [Video][dlai2017-d7l2-video]  |
 | Unsupervised learning     | | | | |
 |  | [Xavier Giro-i-Nieto][XG-web] | [DLAI2017] | [Slides][dlai2017-d9l1-slides] | [Video][dlai2017-d9l1-video] |
 |  | [Kevin McGuinness][KM-web]| [DLCV2017] | [Slides][dlcv2017-d2l6-slides] |  |
