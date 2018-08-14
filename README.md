@@ -60,6 +60,7 @@ We have grouped our lectures in the following tracks:
 * [Computer Vision with DNN](computer-vision)
 * [Natural Language Processing with DNN](nlp)
 * [Speech Processing with DNN](speech)
+* [Cross-modal Learning with DNN](cross-modal)
 
 # Guest lecturers
 
