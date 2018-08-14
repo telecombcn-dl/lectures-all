@@ -15,6 +15,7 @@ Central repository for all lectures on deep learning at UPC ETSETB TelecomBCN.
 [SP-web]: https://scholar.google.com/citations?user=7cVOyh0AAAAJ&hl=en
 [AB-web]: https://scholar.google.es/citations?user=C5AUXO4AAAAJ&hl=en
 [MB-web]: https://imatge.upc.edu/web/people/miriam-bellver
+[AS-web]: https://imatge.upc.edu/web/people/amaia-salvador
 
 # Our courses
 
