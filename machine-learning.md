@@ -62,6 +62,7 @@
 | Self-supervised learning     | | | | |
 |     | [Xavier Giro-i-Nieto][XG-web] | [DLCV2017] | [[Slideshare]][dlcv2017-d4l4-slides] |  |
 | Generative models     | | | | |
+|                | [Verónica Vilaplana][VV-web] | [IDL2018] | [Slides][idl2018-d4l3-slides] |  | 
 |    | [Santiago Pascual][SP-web] | [DLAI 2017][dlai2017] (I) | [[Slideshare]][dlai2017-d9l2-slides] | [[Video]][dlai2017-d9l2-video] |
 |    | [Santiago Pascual][SP-web] | [DLAI 2017][dlai2017] (II) | [[Slideshare]][dlai2017-d10l1-slides] | [[Video]][dlai2017-d10l1-video] |
 |                | [Kevin McGuinness][KM-web]| [DLCV2018] | [[Slides]][dlcv2018-D4l3-slides]  |    |
@@ -80,8 +81,7 @@
 
 [idl2018-d2l4-slides]: https://github.com/telecombcn-dl/2018-idl/raw/master/slides/D2L4_Methodology.pdf
 [idl2018-d3l2-slides]: https://github.com/telecombcn-dl/2018-idl/raw/master/slides/D3L2_TransferLearning.pdf
-
-
+[idl2018-d4l3-slides]: https://github.com/telecombcn-dl/2018-idl/raw/master/slides/D4L3_GAN.pdf
 
 [dlcv2017-d2l3-slides]: https://www.slideshare.net/xavigiro/transfer-learning-and-domain-adaptation-d2l3-2017-upc-deep-learning-for-computer-vision
 [dlcv2017-d2l6-slides]: https://www.slideshare.net/xavigiro/unsupervised-learning-d2l6-2017-upc-deep-learning-for-computer-vision
