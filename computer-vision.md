@@ -53,8 +53,9 @@
 | Instance Segmentation  | | | | |
 |                | [Miriam Bellver][MB-web] | [DLCV 2018][dlcv2018] | [[Slides]][dlcv2018-d2l4-slides]  |   |
 | Video Analysis  | | | | |
-|   | [Victor Campos][VC-web] | [DLCV 2018][dlcv2018] | [[Slides]][dlcv2018-d3l12-slides]  |   |
-|   | [Xavier Giro-i-Nieto][XG-web]| [DLCV2017] | [[Slides]][dlcv2017-d4l2-slides]  |  | 
+|   | [Victor Campos][VC-web] | [DLCV2018] | [Slides][dlcv2018-d3l12-slides]  |   |
+|   | [Xavier Giro-i-Nieto][XG-web]| [DLCV2017] | [Slides][dlcv2017-d4l2-slides]  |  | 
+|   | [Xavier Giro-i-Nieto][XG-web]| [DLCV2016] | [Slides][dlcv2016-video-slides]  | [Slides][dlcv2016-video-video] | 
 | Video Segmentation  | | | | |
 |                | [Laura-Leal Taixé][LL-web]| [DLCV 2018][dlcv2018] | [[Slides]][dlcv2018-D1l6-slides]  |  |
 | Object Tracking  | | | | |
@@ -83,6 +84,8 @@
 [dlcv2016-retrieval-video]: https://www.youtube.com/watch?v=tsGhPsZiexQ
 [dlcv2016-segmentation-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-segmentation-upc-2016
 [dlcv2016-segmentation-video]: https://www.youtube.com/watch?v=_aTTlkZ0kTo
+[dlcv2016-video-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-video-analytics-upc-2016
+[dlcv2016-video-video]: https://www.youtube.com/watch?v=2ALNzI90ysA
 
 [dlcv2017-d1l4-slides]: https://www.slideshare.net/xavigiro/image-classification-on-imagenet-d1l4-2017-upc-deep-learning-for-computer-vision
 [dlcv2017-d1l4-video]: https://youtu.be/Cng0btC-1uE
