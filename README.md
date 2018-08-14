@@ -1,5 +1,5 @@
 # lectures-all
-Central repository for all lectures on deep learning at UPC ETSETB TelecomBCN.
+Central repository for all lectures on deep learning at [UPC ETSETB TelecomBCN](https://etsetb.upc.edu/en).
 
 [XG-web]: https://imatge.upc.edu/web/people/xavier-giro
 [KM-web]: http://www.eeng.dcu.ie/~mcguinne/
@@ -15,7 +15,20 @@ Central repository for all lectures on deep learning at UPC ETSETB TelecomBCN.
 [MB-web]: https://imatge.upc.edu/web/people/miriam-bellver
 [AS-web]: https://imatge.upc.edu/web/people/amaia-salvador
 
-# Our courses
+
+# Our lectures
+
+We have grouped our lectures in the following tracks:
+
+* [Deep Neural Networks](deep-learning.md)
+* [Machine Learning with DNN](machine-learning.md)
+* [Computer Vision with DNN](computer-vision.md)
+* [Natural Language Processing with DNN](nlp.md)
+* [Speech Processing with DNN](speech.md)
+* [Cross-modal Learning with DNN](cross-modal.md)
+* [Hands on DNN](hands-on)
+
+# Our study programs
 
 * Introduction to Deep Learning. UPC TelecomBCN. [[2018]][IDL2018] [[2019]][IDL2019]
 * Deep Learning for Artificial Intelligence. UPC TelecomBCN. [[2017]][DLAI2017] [[2018]][DLAI2018]
@@ -50,17 +63,6 @@ Central repository for all lectures on deep learning at UPC ETSETB TelecomBCN.
 
 
 
-# Lectures
-
-We have grouped our lectures in the following tracks:
-
-* [Deep Neural Networks](deep-learning)
-* [Machine Learning with DNN](machine-learning)
-* [Computer Vision with DNN](computer-vision)
-* [Natural Language Processing with DNN](nlp)
-* [Speech Processing with DNN](speech)
-* [Cross-modal Learning with DNN](cross-modal)
-* [Hands on DNN](hands-on)
 
 # Guest lecturers
 
