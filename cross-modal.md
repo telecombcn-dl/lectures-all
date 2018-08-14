@@ -6,16 +6,20 @@
 [DLCV2018]: https://telecombcn-dl.github.io/2018-dlcv/
 [DLCV2019]: https://telecombcn-dl.github.io/2019-dlcv/
 
+[MCV2018]: https://mcv-m6-video.github.io/deepvideo-2018/
+
+
 ## Cross-modal
 
 | Topic          | Lecturer                     | Course                 |                                 |              |
 | -------------- |  --------------------------- | ---------------------- | :-----------------------------: | :----------: |
 | Language and Vision  | | | | |
-|   | [Xavier Giro-i-Nieto][XG-web]| [DLCV2018] | [Slides][DLCV2018-D4L4-slides]  | [Video][dlcv2018-d4l4-video]    |
-|   | [Xavier Giro-i-Nieto][XG-web]| [DLCV2017] | [Slides][DLCV2017-d3l5-slides]  |    |
+|   | [Xavier Giro-i-Nieto][XG-web]| [DLCV2018] | [Slides][DLCV2018-D4L4-slides]    | [Video][dlcv2018-d4l4-video]    |
+|   | [Xavier Giro-i-Nieto][XG-web]| [MCV2018]  | [Slides][mcv2018-video-language]  |     |
+|   | [Xavier Giro-i-Nieto][XG-web]| [DLCV2017] | [Slides][DLCV2017-d3l5-slides]    |    |
 |   | [Xavier Giro-i-Nieto][XG-web]| [DLCV2016] | [Slides][dlcv2016-language-slides]  | [Video][dlcv2016-language-video]   |
 | Audio and Vision  | | | | |
-|              | [Eva Mohedano][EM-web] | [DLCV2018] | [[Slides]][dlcv2018-d4l5-slides]  | [[Video]][dlcv2018-D4L5-video] |
+|         | [Eva Mohedano][EM-web] | [DLCV2018] | [[Slides]][dlcv2018-d4l5-slides]  | [[Video]][dlcv2018-D4L5-video] |
 |         | [Xavier Giro-i-Nieto][XG-web]| [DLCV2017] | [[Slides]][dlcv2017-d4l6-slides]  | [[Video]][dlcv2017-d4l6-video] |
 | Speech and Vision  | | | | |
 |         | [Xavier Giro-i-Nieto][XG-web]| [DLCV2018] | [[Slides]][dlcv2018-d4l6-slides]  | [[Video]][dlcv2018-D4L6-video] |
@@ -26,6 +30,8 @@
 [dlcv2017-d3l5-slides]: https://www.slideshare.net/xavigiro/language-and-vision-d3l5-2017-upc-deep-learning-for-computer-vision
 [dlcv2017-d4l6-slides]: https://www.slideshare.net/xavigiro/audio-and-vision-d4l6-2017-upc-deep-learning-for-computer-vision
 [dlcv2017-d4l6-video]: https://youtu.be/WcaaO1vkZ1U
+
+[mcv2018-video-language]: https://www.slideshare.net/xavigiro/deep-learning-for-video-language-upc-2018
 
 [dlcv2018-D4L4-slides]: https://www.slideshare.net/xavigiro/deep-language-and-vision-xavier-giroinieto-upc-barcelona-2018
 [dlcv2018-d4l4-video]: https://youtu.be/anghBcUQCgw
