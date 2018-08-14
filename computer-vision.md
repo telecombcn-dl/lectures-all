@@ -57,7 +57,9 @@
 |                | [Eduard Ramon][ER-web]| [DLCV 2018][dlcv2018] | [[Slides]][dlcv2018-d4l2-slides]  |  |
 | Medical Imaging  | | | | |
 |                | [Elisa Sayrol][ES-web] | [DLCV 2018][dlcv2018] | [[Slides]][dlcv2018-d2l5-slides]  |   |
-|                | [Kevin McGuinness][KM-web]| [DLCV 2018][dlcv2018] | [[Slides]][dlcv2018-D2l6-slides]  | [[Video]][dlcv2018-D2L6-video]    |
+|  | [Kevin McGuinness][KM-web]| [DLCV2018] | [[Slides]][dlcv2018-D2l6-slides]  | [[Video]][dlcv2018-D2L6-video]    |
+|                | [Veronica Vilaplana][VV-web] | [DLCV2017] | [[Slides]][dlcv2017-d3l3-slides]  |   |
+
 
 [dlcv2017-d1l4-slides]: https://www.slideshare.net/xavigiro/image-classification-on-imagenet-d1l4-2017-upc-deep-learning-for-computer-vision
 [dlcv2017-d1l4-video]: https://youtu.be/Cng0btC-1uE
@@ -66,6 +68,8 @@
 [dlcv2017-d2l5-slides]: https://www.slideshare.net/xavigiro/face-recognition-d2l5-2017-upc-deep-learning-for-computer-vision
 [dlcv2017-d2l5-video]: https://youtu.be/SX94NgeOPB4
 [dlcv2017-d3l1-slides]: https://www.slideshare.net/xavigiro/image-segmentation-d3l1-2017-upc-deep-learning-for-computer-vision
+[dlcv2017-d3l3-slides]: https://www.slideshare.net/xavigiro/medical-imaging-d3l3-2017-upc-deep-learning-for-computer-vision
+
 
 
 [dlcv2018-d1l3-slides]: https://www.slideshare.net/xavigiro/d1l3-image-classification-upc-2018-deep-learning-for-computer-vision
