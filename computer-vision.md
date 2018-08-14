@@ -15,11 +15,16 @@
 |                | [Eva Mohedano][EM-web]| [DLCV 2018][dlcv2018] | [[Slides]][dlcv2018-D1L4-slides]  | [[Video]][dlcv2018-D1L4-video]    |
 | Semantic Segmentation  | | | | |
 |                | [Miriam Bellver][MB-web] | [DLCV 2018][dlcv2018] | [[Slides]][dlcv2018-d2l3-slides]  |   |
+| Instance Segmentation  | | | | |
+|                | [Miriam Bellver][MB-web] | [DLCV 2018][dlcv2018] | [[Slides]][dlcv2018-d2l4-slides]  |   |
 | Face Recognition  | | | | |
 | Video Segmentation  | | | | |
 |                | [Laura-Leal Taixé][LL-web]| [DLCV 2018][dlcv2018] | [[Slides]][dlcv2018-D1l6-slides]  |  |
 | Visual Localization  | | | | |
 |                | [Laura-Leal Taixé][LL-web]| [DLCV 2018][dlcv2018] | [[Slides]][dlcv2018-D1l5-slides]  | [[Video]][dlcv2018-D1L5-video]   |
+| Medical Imaging  | | | | |
+|                | [Elisa Sayrol][ES-web] | [DLCV 2018][dlcv2018] | [[Slides]][dlcv2018-d2l5-slides]  |   |
+|                | [Kevin McGuinness][KM-web]| [DLCV 2018][dlcv2018] | [[Slides]][dlcv2018-D2l6-slides]  | [[Video]][dlcv2018-D2L6-video]    |
 
 [dlcv2018-d1l3-slides]: https://www.slideshare.net/xavigiro/d1l3-image-classification-upc-2018-deep-learning-for-computer-vision
 [dlcv2018-d1l3-video]: https://youtu.be/NHvantNw1Kw
@@ -31,6 +36,11 @@
 [dlcv2018-d2l1-slides]: https://www.slideshare.net/xavigiro/d2l1-object-detection-upc-2018-deep-learning-for-computer-vision
 [dlcv2018-d2l2-slides]: https://www.slideshare.net/xavigiro/d2l2-face-recognition-upc-2018-deep-learning-for-computer-vision
 [dlcv2018-d2l3-slides]: https://www.slideshare.net/xavigiro/d2l3-semantic-segmentation-upc-2018-deep-learning-for-computer-vision
+[dlcv2018-d2l4-slides]: https://www.slideshare.net/xavigiro/instance-segmentation-mriam-bellver-upc-barcelona-2018
+[dlcv2018-d2l5-slides]: https://www.slideshare.net/xavigiro/medical-imaging-at-upc-elisa-sayrol-upc-barcelona-2018
+[dlcv2018-d2l6-slides]: https://www.slideshare.net/xavigiro/medical-imaging-at-dcu-kevin-mcguinness-upc-barcelona-2018
+[dlcv2018-d2l6-video]: https://youtu.be/VdmY90YKLTI
+
 
 [XG-web]: https://imatge.upc.edu/web/people/xavier-giro
 [KM-web]: http://www.eeng.dcu.ie/~mcguinne/
