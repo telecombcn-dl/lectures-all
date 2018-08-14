@@ -64,6 +64,7 @@
 |    | [Santiago Pascual][SP-web] | [DLAI 2017][dlai2017] (II) | [[Slideshare]][dlai2017-d10l1-slides] | [[Video]][dlai2017-d10l1-video] |
 |                | [Kevin McGuinness][KM-web]| [DLCV2018] | [[Slides]][dlcv2018-D4l3-slides]  |    |
 |                | [Kevin McGuinness][KM-web]| [DLCV2017] | [[Slides]][dlcv2017-d3l4-slides]  |    |
+|                | [Kevin McGuinness][KM-web]| [DLCV2016] | [[Slides]][dlcv2016-generative-slides]  |    |
 | Set learning     | | | | |
 |                | [Laura-Leal Taixé][LL-web]| [DLCV 2018][dlcv2018] | [[Slides]][dlcv2018-d3l6-slides]  | [[Video]][dlcv2018-d3l6-video]   |
 
@@ -73,6 +74,7 @@
 [dlcv2016-transfer-video]: https://www.youtube.com/watch?v=UKleTP1Zy1U
 [dlcv2016-unsupervised-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-unsupervised-learning-upc-2016
 [dlcv2016-unsupervised-video]: https://www.youtube.com/watch?v=5fxj0R4U2F4
+[dlcv2016-generative-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-generative-models-and-adversarial-training-upc-2016
 
 [dlcv2017-d2l3-slides]: https://www.slideshare.net/xavigiro/transfer-learning-and-domain-adaptation-d2l3-2017-upc-deep-learning-for-computer-vision
 [dlcv2017-d2l6-slides]: https://www.slideshare.net/xavigiro/unsupervised-learning-d2l6-2017-upc-deep-learning-for-computer-vision
