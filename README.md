@@ -1,8 +1,6 @@
 # lectures-all
 Central repository for all lectures on deep learning at UPC ETSETB TelecomBCN.
 
-
-
 [XG-web]: https://imatge.upc.edu/web/people/xavier-giro
 [KM-web]: http://www.eeng.dcu.ie/~mcguinne/
 [EM-web]: https://www.insight-centre.org/users/eva-mohedano
