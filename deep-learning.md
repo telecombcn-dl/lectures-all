@@ -67,10 +67,13 @@
 |                | [Verónica Vilaplana][VV-web]  | [DLAI2017] | [Slideshare][dlai2017-d5l1-slides] |  |
 |                | [Elisa Sayrol][ES-web]  | [[DLCV2017] | [[Slideshare]][dlcv2016-training-slides] |  |
 | RNN     | | | | |
+|      | [Marta R. Costa-jussà][MC-web]  | [IDL2018] | [Slides (I)][idl2018-d3l3-slides] |  |
+|      | [Marta R. Costa-jussà][MC-web]  | [IDL2018] | [Slides (II)][idl2018-d3l4-slides] |  |
 |      | [Marta R. Costa-jussà][MC-web]  | [DLAI2017] | [Slides][dlai2017-d7l1-slides] |  [Video][dlai2017-d7l1-video] |
 |      | [Xavier Giro-i-Nieto][XG-web] | [DLCV2017] | [Slides][dlcv2017-d2l2-slides] |  | 
 |      | [Xavier Giro-i-Nieto][XG-web] | [DLCV2016] | [Slides][dlcv2016-rnn-slides] | [Video][dlcv2016-rnn-slides] | 
 | Attention     | | | | |
+|     | [Marta R. Costa-jussà][MC-web]  | [IDL2018] | [idl2018-d4l1-slides][dlai2017-d8l-slides] |  |
 |     | [Marta R. Costa-jussà][MC-web]  | [DLAI2017] | [Slides][dlai2017-d8l-slides] |  [Video][dlai2017-d8l2-video] |
 |     | [Amaia Salvador][AS-web]  | [DLCV2017] | [Slides][dlcv2017-d3l6-slides] |  |
 |     | [Amaia Salvador][AS-web]  | [DLCV2016] | [Slides][dlcv2016-attention-slides] | [Video][dlcv2016-attention-video] |
