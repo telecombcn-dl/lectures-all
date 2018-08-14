@@ -46,7 +46,8 @@
 | Data augmentation     | | | | |
 |                | [Eva Mohedano][EM-web] | [DLCV2016] | [[Slides]][dlcv2016-augmentation-slides] |  | 
 | Transfer learning     | | | | |
-|       | [Ramon Morros][RM-web] | [DLAI 2017][dlai2017] | [Slides][dlai2017-d5l2-slides] |   | 
+|       | [Ramon Morros][RM-web] | [IDL2018] | [Slides][idl2018-d3l2-slides] |   | 
+|       | [Ramon Morros][RM-web] | [DLAI2017] | [Slides][dlai2017-d5l2-slides] |   | 
 |       | [Eric Arazo][EA-web] | [DLCV2017] | [Slides][dlcv2017-d2l3-slides] |   | 
 |       | [Kevin McGuinness][KM-web]| [DLCV2016] | [Slides][dlcv2016-transfer-slides] | [Video][dlcv2016-transfer-video] |
 | Incremental learning     | | | | |
@@ -78,6 +79,8 @@
 [dlcv2016-generative-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-generative-models-and-adversarial-training-upc-2016
 
 [idl2018-d2l4-slides]: https://github.com/telecombcn-dl/2018-idl/raw/master/slides/D2L4_Methodology.pdf
+[idl2018-d3l2-slides]: https://github.com/telecombcn-dl/2018-idl/raw/master/slides/D3L2_TransferLearning.pdf
+
 
 
 [dlcv2017-d2l3-slides]: https://www.slideshare.net/xavigiro/transfer-learning-and-domain-adaptation-d2l3-2017-upc-deep-learning-for-computer-vision
