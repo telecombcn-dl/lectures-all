@@ -49,7 +49,8 @@
 | Reinforcement learning     | | | | |
 |                | [[Xavier Giro-i-Nieto][XG-web] | [DLAI 2017][dlai2017] | [[Slideshare]][dlai2017-d7l2-slides] | [[Video]][dlai2017-d7l2-video]  |
 | Unsupervised learning     | | | | |
-|                | [Xavier Giro-i-Nieto][XG-web] | [DLAI 2017][dlai2017] | [[Slideshare]][dlai2017-d9l1-slides] | [[Video]][dlai2017-d9l1-video] |
+|                | [Xavier Giro-i-Nieto][XG-web] | [DLAI2017] | [[Slideshare]][dlai2017-d9l1-slides] | [[Video]][dlai2017-d9l1-video] |
+|  | [Kevin McGuinness][KM-web]| [DLCV2017] | [[Slides]][dlcv2017-d2l6-slides] |  |
 | Generative models     | | | | |
 |    | [Santiago Pascual][SP-web] | [DLAI 2017][dlai2017] (I) | [[Slideshare]][dlai2017-d9l2-slides] | [[Video]][dlai2017-d9l2-video] |
 |    | [Santiago Pascual][SP-web] | [DLAI 2017][dlai2017] (II) | [[Slideshare]][dlai2017-d10l1-slides] | [[Video]][dlai2017-d10l1-video] |
@@ -57,8 +58,8 @@
 | Set learning     | | | | |
 |                | [Laura-Leal Taixé][LL-web]| [DLCV 2018][dlcv2018] | [[Slides]][dlcv2018-d3l6-slides]  | [[Video]][dlcv2018-d3l6-video]   |
 
-
 [dlcv2017-d2l3-slides]: https://www.slideshare.net/xavigiro/transfer-learning-and-domain-adaptation-d2l3-2017-upc-deep-learning-for-computer-vision
+[dlcv2017-d2l6-slides]: https://www.slideshare.net/xavigiro/unsupervised-learning-d2l6-2017-upc-deep-learning-for-computer-vision
 
 [idl2018-d1l2-slides]: https://github.com/telecombcn-dl/2018-idl/raw/master/slides/D1L2-MachineLearning.pdf
 [dlai2017-d5l2-slides]: https://www.slideshare.net/xavigiro/transfer-learning-and-domain-adaptation-dlai-d5l2-2017-upc-deep-learning-for-artificial-intelligence
