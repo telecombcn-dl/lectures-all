@@ -41,9 +41,9 @@
 | Topic          | Lecturer                     | Course                 | Slides                    | Video             |
 | -------------- |  --------------------------- | ---------------------- | :-----------------------: | :---------------: |
 | Perceptron     | | | | |
-|      | [Antonio Bonafonte][AB-web] | [IDL 2018][idl2018] | [[PDF]][idl2018-d1l3-slides] |  |
-|      | [Xavier Giro-i-Nieto][XG-web] | [DLAI2017] | [[Slides]][dlai2017-d1l2-slides] | [[Video]][dlai2017-d1l2-video]  | 
-|      | [Kevin McGuinness][KM-web]| [DLCV2017] | [[Slides]][dlcv2017-d1l2-slides]  |  |
+|      | [Antonio Bonafonte][AB-web] | [IDL2018] | [Slides][idl2018-d1l3-slides] |  |
+|      | [Xavier Giro-i-Nieto][XG-web] | [DLAI2017] | [Slides][dlai2017-d1l2-slides] | [Video][dlai2017-d1l2-video]  | 
+|      | [Kevin McGuinness][KM-web]| [DLCV2017] | [Slides][dlcv2017-d1l2-slides]  |  |
 | Multi-layer Perceptron     | | | | |
 |      | [Elisa Sayrol][ES-web] | [IDL2018] | [Slides][idl2018-d1l4-slides] |       | 
 |      | [Elisa Sayrol][ES-web] | [DLAI2017] | [[Slides]][dlai2017-d2l1-slides] | [[Video]][dlai2017-d2l1-video]      | 
@@ -73,12 +73,13 @@
 |      | [Xavier Giro-i-Nieto][XG-web] | [DLCV2017] | [Slides][dlcv2017-d2l2-slides] |  | 
 |      | [Xavier Giro-i-Nieto][XG-web] | [DLCV2016] | [Slides][dlcv2016-rnn-slides] | [Video][dlcv2016-rnn-slides] | 
 | Attention     | | | | |
-|     | [Marta R. Costa-jussà][MC-web]  | [IDL2018] | [idl2018-d4l1-slides][dlai2017-d8l-slides] |  |
+|     | [Marta R. Costa-jussà][MC-web] | [IDL2018] | [Slides][idl2018-d4l1-slides] | [Video][idl2018-d4l1-video]  |
 |     | [Marta R. Costa-jussà][MC-web]  | [DLAI2017] | [Slides][dlai2017-d8l-slides] |  [Video][dlai2017-d8l2-video] |
 |     | [Amaia Salvador][AS-web]  | [DLCV2017] | [Slides][dlcv2017-d3l6-slides] |  |
 |     | [Amaia Salvador][AS-web]  | [DLCV2016] | [Slides][dlcv2016-attention-slides] | [Video][dlcv2016-attention-video] |
 | Architectures  | | | | |
 |     | [Xavier Giro-i-Nieto][XG-web]| [DLCV2018] | [Slides][dlcv2018-d1l2-slides]  | [Video][dlcv2018-d1l2-video] |
+|     | [Xavier Giro-i-Nieto][XG-web]| [IDL2018] | [Slides][dlcv2018-d1l2-slides]  | [Video][dlcv2018-d1l2-video] |
 | Keynotes     | | | | |
 |      | [Joost van der Weijer][JW-web] | [IDL2018] | [Slides][idl2018-d5l1-slides] |  |
 |      | [Joan Serra][JS-web] | [IDL2018] | [Slides][idl2018-d5l2-slides] |  |
@@ -126,8 +127,7 @@
 [idl2018-d3l3-slides]: https://github.com/telecombcn-dl/2018-idl/raw/master/slides/D3L3_RecurrentNeuralNetworks.pdf
 [idl2018-d3l4-slides]: https://github.com/telecombcn-dl/2018-idl/raw/master/slides/D3L4_GatedUnits.pdf
 [idl2018-d4l1-slides]: https://github.com/telecombcn-dl/2018-idl/raw/master/slides/D4L1_Attention.pdf
-[idl2018-d4l2-slides]: https://github.com/telecombcn-dl/2018-idl/raw/master/slides/D4L2_TransferLearning.pdf
-[idl2018-d4l3-slides]: https://github.com/telecombcn-dl/2018-idl/raw/master/slides/D4L3_GAN.pdf
+[idl2018-d4l1-video]: https://youtu.be/9oMVVx98Hk4
 [idl2018-d4l4-slides]: https://github.com/telecombcn-dl/2018-idl/raw/master/slides/D4L4_TheNeuralNetworkZoo.pdf
 [idl2018-d5l1-slides]: https://github.com/telecombcn-dl/2018-idl/raw/master/slides/D5L1_CompressionRankings.pdf
 [idl2018-d5l2-slides]: https://github.com/telecombcn-dl/2018-idl/raw/master/slides/D5L2_UnintuitiveDNN.pdf
