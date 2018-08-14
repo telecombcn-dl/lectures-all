@@ -7,11 +7,9 @@
 [VV-web]: https://imatge.upc.edu/web/people/veronica-vilaplana
 [JR-web]: https://imatge.upc.edu/web/people/javier-ruiz-hidalgo
 [RM-web]: https://imatge.upc.edu/web/people/josep-ramon-morros
-[MC-web]: http://www.costa-jussa.com/
-[SP-web]: https://scholar.google.com/citations?user=7cVOyh0AAAAJ&hl=en
-[AB-web]: https://scholar.google.es/citations?user=C5AUXO4AAAAJ&hl=en
 [MB-web]: https://imatge.upc.edu/web/people/miriam-bellver
 [VC-web]: https://imatge.upc.edu/web/people/victor-campos
+[ER-web]: https://imatge.upc.edu/web/people/eduard-ramon
 
 [DLCV2016]: http://imatge-upc.github.io/telecombcn-2016-dlcv/
 [DLCV2017]: https://telecombcn-dl.github.io/2017-dlcv/
@@ -46,6 +44,10 @@
 |                | [Laura-Leal Taixé][LL-web]| [DLCV 2018][dlcv2018] | [[Slides]][dlcv2018-D3l3-slides]  | [[Video]][dlcv2018-D3l3-video]   |
 | Visual Localization  | | | | |
 |                | [Laura-Leal Taixé][LL-web]| [DLCV 2018][dlcv2018] | [[Slides]][dlcv2018-D1l5-slides]  | [[Video]][dlcv2018-D1L5-video]   |
+| 3D Analysis  | | | | |
+|                | [Javier Ruiz][JR-web]| [DLCV 2018][dlcv2018] | [[Slides]][dlcv2018-d4l1-slides]  |  |
+| 3D Reconstruction  | | | | |
+|                | [Eduard Ramon][ER-web]| [DLCV 2018][dlcv2018] | [[Slides]][dlcv2018-d4l2-slides]  |  |
 | Medical Imaging  | | | | |
 |                | [Elisa Sayrol][ES-web] | [DLCV 2018][dlcv2018] | [[Slides]][dlcv2018-d2l5-slides]  |   |
 |                | [Kevin McGuinness][KM-web]| [DLCV 2018][dlcv2018] | [[Slides]][dlcv2018-D2l6-slides]  | [[Video]][dlcv2018-D2L6-video]    |
@@ -71,6 +73,10 @@
 [dlcv2018-d3l4-video]: https://youtu.be/SsHohytl1NA
 [dlcv2018-d3l5-slides]: https://www.slideshare.net/xavigiro/visual-saliency-prediction-with-deep-learning-kevin-mcguinness-upc-barcelona-2018
 [dlcv2018-d3l5-video]: https://youtu.be/iEgB1ZQ2W2I
+[dlcv2018-D4L1-slides]: https://www.slideshare.net/xavigiro/deep-3d-analysis-javier-ruizhidalgo-upc-barcelona-2018
+[dlcv2018-D4L2-slides]: https://www.slideshare.net/xavigiro/deep-3d-reconstruction-eduarda-ramon-upc-barcelona-2018
+
+
 
 
 
