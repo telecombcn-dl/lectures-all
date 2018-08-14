@@ -36,9 +36,7 @@
 
 # Deep Neural Networks
 
-# Lectures
-
-| Topic          | Lecturer                     | Course                 | Slides                    | Video             |
+| Lecture          | Instructor                 | Course                 | Slides                    | Video             |
 | -------------- |  --------------------------- | ---------------------- | :-----------------------: | :---------------: |
 | Perceptron     | | | | |
 |      | [Antonio Bonafonte][AB-web] | [IDL2018] | [Slides][idl2018-d1l3-slides] |  |
