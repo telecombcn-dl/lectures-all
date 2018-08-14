@@ -39,7 +39,8 @@
 | Image Retrieval  | | | | |
 |                | [Eva Mohedano][EM-web]| [DLCV 2018][dlcv2018] | [[Slides]][dlcv2018-D1L4-slides]  | [[Video]][dlcv2018-D1L4-video]    |
 | Semantic Segmentation  | | | | |
-|                | [Miriam Bellver][MB-web] | [DLCV 2018][dlcv2018] | [[Slides]][dlcv2018-d2l3-slides]  |   |
+|                | [Miriam Bellver][MB-web] | [DLCV2018] | [[Slides]][dlcv2018-d2l3-slides]  |   |
+|                | [Veronica Vilaplana][VV-web] | [DLCV2017] | [[Slides]][dlcv2017-d3l1-slides]  |   |
 | Instance Segmentation  | | | | |
 |                | [Miriam Bellver][MB-web] | [DLCV 2018][dlcv2018] | [[Slides]][dlcv2018-d2l4-slides]  |   |
 | Video Analysis  | | | | |
@@ -64,6 +65,8 @@
 [dlcv2017-d2l4-video]: https://youtu.be/CaZZOx3koBQ
 [dlcv2017-d2l5-slides]: https://www.slideshare.net/xavigiro/face-recognition-d2l5-2017-upc-deep-learning-for-computer-vision
 [dlcv2017-d2l5-video]: https://youtu.be/SX94NgeOPB4
+[dlcv2017-d3l1-slides]: https://www.slideshare.net/xavigiro/image-segmentation-d3l1-2017-upc-deep-learning-for-computer-vision
+
 
 [dlcv2018-d1l3-slides]: https://www.slideshare.net/xavigiro/d1l3-image-classification-upc-2018-deep-learning-for-computer-vision
 [dlcv2018-d1l3-video]: https://youtu.be/NHvantNw1Kw
