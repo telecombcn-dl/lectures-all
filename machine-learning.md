@@ -1,3 +1,23 @@
+[XG-web]: https://imatge.upc.edu/web/people/xavier-giro
+[KM-web]: http://www.eeng.dcu.ie/~mcguinne/
+[EM-web]: https://www.insight-centre.org/users/eva-mohedano
+[LL-web]: https://dvl.in.tum.de/team/lealtaixe/
+[ES-web]: https://imatge.upc.edu/web/people/elisa-sayrol
+[VV-web]: https://imatge.upc.edu/web/people/veronica-vilaplana
+[JR-web]: https://imatge.upc.edu/web/people/javier-ruiz-hidalgo
+[RM-web]: https://imatge.upc.edu/web/people/josep-ramon-morros
+[MC-web]: http://www.costa-jussa.com/
+[SP-web]: https://scholar.google.com/citations?user=7cVOyh0AAAAJ&hl=en
+[AB-web]: https://scholar.google.es/citations?user=C5AUXO4AAAAJ&hl=en
+[MB-web]: https://imatge.upc.edu/web/people/miriam-bellver
+[VC-web]: https://imatge.upc.edu/web/people/victor-campos
+
+[DLCV2016]: http://imatge-upc.github.io/telecombcn-2016-dlcv/
+[DLCV2017]: https://telecombcn-dl.github.io/2017-dlcv/
+[DLCV2018]: https://telecombcn-dl.github.io/2018-dlcv/
+[DLCV2019]: https://telecombcn-dl.github.io/2019-dlcv/
+
+
 ## Machine Learning
 
 | Topic          | Lecturer                     | Course                 | Slides                    | Video             |
@@ -17,6 +37,9 @@
 | Generative models     | | | | |
 |    | [Santiago Pascual][SP-web] | [DLAI 2017][dlai2017] (I) | [[Slideshare]][dlai2017-d9l2-slides] | [[Video]][dlai2017-d9l2-video] |
 |    | [Santiago Pascual][SP-web] | [DLAI 2017][dlai2017] (II) | [[Slideshare]][dlai2017-d10l1-slides] | [[Video]][dlai2017-d10l1-video] |
+| Set learning     | | | | |
+|                | [Laura-Leal Taixé][LL-web]| [DLCV 2018][dlcv2018] | [[Slides]][dlcv2018-d3l6-slides]  | [[Video]][dlcv2018-d3l6-video]   |
+
 
 [idl2018-d1l2-slides]: https://github.com/telecombcn-dl/2018-idl/raw/master/slides/D1L2-MachineLearning.pdf
 [dlai2017-d5l2-slides]: https://www.slideshare.net/xavigiro/transfer-learning-and-domain-adaptation-dlai-d5l2-2017-upc-deep-learning-for-artificial-intelligence
@@ -30,3 +53,8 @@
 [dlai2017-d9l2-video]: https://youtu.be/FeJT8ejgsL0
 [dlai2017-d10l1-slides]: https://www.slideshare.net/xavigiro/deep-generative-models-ii-dlai-d10l1-2017-upc-deep-learning-for-artificial-intelligence
 [dlai2017-d10l1-video]: https://www.youtube.com/watch?v=a1aM0yUJXUI
+
+[dlcv2018-d3l6-slides]: https://www.slideshare.net/xavigiro/towards-set-learning-and-prediction-laura-lealtaixe-upc-barcelona-2018
+[dlcv2018-d3l6-video]: https://youtu.be/L4V-gdYYQcY
+
+
