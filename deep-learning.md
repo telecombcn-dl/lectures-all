@@ -61,10 +61,11 @@
 |      | [Xavier Giro-i-Nieto][XG-web] | [DLCV2017] | [Slides][dlcv2017-d2l2-slides] |  | 
 |      | [Xavier Giro-i-Nieto][XG-web] | [DLCV2016] | [Slides][dlcv2016-rnn-slides] | [Video][dlcv2016-rnn-slides] | 
 | Attention     | | | | |
-|     | [Marta R. Costa-jussà][MC-web]  | [DLAI2017] | [[Slides]][dlai2017-d8l-slides] |  [[Video]][dlai2017-d8l2-video] |
-|     | [Amaia Salvador][AS-web]  | [DLCV2017] | [[Slides]][dlai2017-d3l6-slides] |  |
+|     | [Marta R. Costa-jussà][MC-web]  | [DLAI2017] | [Slides][dlai2017-d8l-slides] |  [Video][dlai2017-d8l2-video] |
+|     | [Amaia Salvador][AS-web]  | [DLCV2017] | [Slides][dlcv2017-d3l6-slides] |  |
+|     | [Amaia Salvador][AS-web]  | [DLCV2016] | [Slides][dlcv2016-attention-slides] | [Video][dlcv2016-attention-video] |
 | Architectures  | | | | |
-|     | [Xavier Giro-i-Nieto][XG-web]| [DLCV2018] | [[Slides]][dlcv2018-d1l2-slides]  | [[Video]][dlcv2018-d1l2-video] |
+|     | [Xavier Giro-i-Nieto][XG-web]| [DLCV2018] | [Slides][dlcv2018-d1l2-slides]  | [Video][dlcv2018-d1l2-video] |
 
 [dlcv2016-deep-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-deep-networks-upc-2016 
 [dlcv2016-backprop-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-backward-propagation-upc-2016
@@ -73,7 +74,8 @@
 [dlcv2016-optimization-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-optimization-upc-2016
 [dlcv2016-rnn-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-recurrent-neural-networks-upc-2016
 [dlcv2016-rnn-video]: https://www.youtube.com/watch?v=fQuv90i3Dlg
-
+[dlcv2016-attention-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-attention-models-upc-2016
+[dlcv2016-attention-video]: https://www.youtube.com/watch?v=omHLeV1aicw
 
 [dlcv2017-d1l2-slides]: https://www.slideshare.net/xavigiro/perceptrons-d1l2-2017-upc-deep-learning-for-computer-vision
 [dlcv2017-d1l3-slides]: https://www.slideshare.net/xavigiro/convolutional-neural-networks-d1l3-2017-upc-deep-learning-for-computer-vision
