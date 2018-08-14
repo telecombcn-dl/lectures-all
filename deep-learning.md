@@ -43,8 +43,9 @@
 | Backpropagation     | | | | |
 |                | [Elisa Sayrol][ES-web] | [DLAI2017] | [[Slideshare]][dlai2017-d3l1-slides]|  |
 |                | [Elisa Sayrol][ES-web] | [DLCV2017] | [[Slideshare]][dlcv2017-d1l5-slides]|  |
-| Optimizers     | | | | |
+| Optimizations     | | | | |
 |                | [Verónica Vilaplana][VV-web] | [DLAI 2017][dlai2017] | [[Slideshare]][dlai2017-d4l1-slides] |  |
+|                | [Kevin McGuinness][KM-web]| [DLCV2017] | [[Slides]][dlcv2017-d2l1-slides]  |  |
 | Loss functions     | | | | |
 |                | [Javier Ruiz][JR-web] | [DLAI 2017][dlai2017] | [[Slideshare]][dlai2017-d4l2-slides] |  |
 | Convnets     | | | | |
@@ -52,6 +53,7 @@
 |                | [Elisa Sayrol][ES-web]  | [[DLCV2017] | [[Slideshare]][dlcv2017-d1l3-slides] |  |
 | RNN     | | | | |
 |                | [Marta R. Costa-jussà][MC-web]  | [DLAI 2017][dlai2017] | [[Slideshare]][dlai2017-d7l1-slides] |  [[Video]][dlai2017-d7l1-video] |
+|                | [Xavier Giro-i-Nieto][XG-web] | [DLAI 2017][dlai2017] | [[Slideshare]][dlai2017-d1l2-slides] |  | 
 | Attention     | | | | |
 |                | [Marta R. Costa-jussà][MC-web]  | [DLAI 2017][dlai2017] | [[Slideshare]][dlai2017-d8l-slides] |  [[Video]][dlai2017-d8l2-video] |
 | Architectures  | | | | |
@@ -61,6 +63,8 @@
 [dlcv2017-d1l2-slides]: https://www.slideshare.net/xavigiro/perceptrons-d1l2-2017-upc-deep-learning-for-computer-vision
 [dlcv2017-d1l3-slides]: https://www.slideshare.net/xavigiro/convolutional-neural-networks-d1l3-2017-upc-deep-learning-for-computer-vision
 [dlcv2017-d1l5-slides]: https://www.slideshare.net/xavigiro/training-deep-networks-d1l5-2017-upc-deep-learning-for-computer-vision
+[dlcv2017-d2l1-slides]: https://www.slideshare.net/xavigiro/optimization-for-deep-networks-d2l1-2017-upc-deep-learning-for-computer-vision
+[dlcv2017-d2l2-slides]: https://www.slideshare.net/xavigiro/recurrent-neural-networks-d2l2-2017-upc-deep-learning-for-computer-vision
 
 
 
