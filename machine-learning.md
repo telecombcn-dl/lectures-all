@@ -41,7 +41,8 @@
 |                | [Verónica Vilaplana][VV-web] | [IDL2018] | [[Slides]][idl2018-d1l2-slides] |  | 
 |                | [Elisa Sayrol][ES-web] | [DLCV2016] | [[Slides]][dlcv2016-classification-slides]  |   |
 | Methodology     | | | | |
-|                | [Javier Ruiz][JR-web] | [DLAI 2017][dlai2017] | [[Slideshare]][dlai2017-d6l2-slides] |  | 
+|                | [Javier Ruiz][JR-web] | [IDL2018]  | [Slides][idl2018-d2l4-slides] |  | 
+|                | [Javier Ruiz][JR-web] | [DLAI2017] | [Slides][dlai2017-d6l2-slides] |  | 
 | Data augmentation     | | | | |
 |                | [Eva Mohedano][EM-web] | [DLCV2016] | [[Slides]][dlcv2016-augmentation-slides] |  | 
 | Transfer learning     | | | | |
@@ -75,6 +76,9 @@
 [dlcv2016-unsupervised-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-unsupervised-learning-upc-2016
 [dlcv2016-unsupervised-video]: https://www.youtube.com/watch?v=5fxj0R4U2F4
 [dlcv2016-generative-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-generative-models-and-adversarial-training-upc-2016
+
+[idl2018-d2l4-slides]: https://github.com/telecombcn-dl/2018-idl/raw/master/slides/D2L4_Methodology.pdf
+
 
 [dlcv2017-d2l3-slides]: https://www.slideshare.net/xavigiro/transfer-learning-and-domain-adaptation-d2l3-2017-upc-deep-learning-for-computer-vision
 [dlcv2017-d2l6-slides]: https://www.slideshare.net/xavigiro/unsupervised-learning-d2l6-2017-upc-deep-learning-for-computer-vision
