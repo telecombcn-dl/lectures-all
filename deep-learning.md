@@ -36,22 +36,25 @@
 | Topic          | Lecturer                     | Course                 | Slides                    | Video             |
 | -------------- |  --------------------------- | ---------------------- | :-----------------------: | :---------------: |
 | Perceptron     | | | | |
-|                | [Antonio Bonafonte][AB-web] | [IDL 2018][idl2018] | [[PDF]][idl2018-d1l3-slides] |  |
-|                | [Xavier Giro-i-Nieto][XG-web] | [DLAI 2017][dlai2017] | [[Slideshare]][dlai2017-d1l2-slides] | [[Video]][dlai2017-d1l2-video]       | 
-|                | [Kevin McGuinness][KM-web]| [DLCV2017] | [[Slides]][dlcv2017-d1l2-slides]  |  |
+|      | [Antonio Bonafonte][AB-web] | [IDL 2018][idl2018] | [[PDF]][idl2018-d1l3-slides] |  |
+|      | [Xavier Giro-i-Nieto][XG-web] | [DLAI2017] | [[Slides]][dlai2017-d1l2-slides] | [[Video]][dlai2017-d1l2-video]  | 
+|      | [Kevin McGuinness][KM-web]| [DLCV2017] | [[Slides]][dlcv2017-d1l2-slides]  |  |
 | Multi-layer Perceptron     | | | | |
-|                | [Elisa Sayrol][ES-web] | [DLAI 2017][dlai2017] | [[Slideshare]][dlai2017-d2l1-slides] | [[Video]][dlai2017-d2l1-video]      | 
+|      | [Elisa Sayrol][ES-web] | [DLAI2017] | [[Slides]][dlai2017-d2l1-slides] | [[Video]][dlai2017-d2l1-video]      | 
+|      | [Xavier Giro-i-Nieto][XG-web] | [DLCV2016] | [[Slides]][dlcv2016-deep-slides] |   | 
 | Backpropagation     | | | | |
-|                | [Elisa Sayrol][ES-web] | [DLAI2017] | [[Slideshare]][dlai2017-d3l1-slides]|  |
-|                | [Elisa Sayrol][ES-web] | [DLCV2017] | [[Slideshare]][dlcv2017-d1l5-slides]|  |
+|    | [Elisa Sayrol][ES-web] | [DLAI2017] | [[Slides]][dlai2017-d3l1-slides]|  |
+|    | [Elisa Sayrol][ES-web] | [DLCV2017] | [[Slides]][dlcv2017-d1l5-slides]|  |
+|    | [Elisa Sayrol][ES-web] | [DLCV2016] | [[Slides]][dlcv2016-backprop-slides]| | [[Video]][dlai2016-backprop-slides]|  |
 | Optimizations     | | | | |
 |                | [Verónica Vilaplana][VV-web] | [DLAI 2017][dlai2017] | [[Slideshare]][dlai2017-d4l1-slides] |  |
 |                | [Kevin McGuinness][KM-web]| [DLCV2017] | [[Slides]][dlcv2017-d2l1-slides]  |  |
+|                | [Eva Mohedano][EM-web]| [DLCV2016] | [[Slides]][dlcv2017-d2l1-slides]  |  |
 | Loss functions     | | | | |
 |                | [Javier Ruiz][JR-web] | [DLAI 2017][dlai2017] | [[Slideshare]][dlai2017-d4l2-slides] |  |
 | Convnets     | | | | |
 |                | [Verónica Vilaplana][VV-web]  | [DLAI 2017][dlai2017] | [[Slideshare]][dlai2017-d5l1-slides] |  |
-|                | [Elisa Sayrol][ES-web]  | [[DLCV2017] | [[Slideshare]][dlcv2017-d1l3-slides] |  |
+|                | [Elisa Sayrol][ES-web]  | [[DLCV2017] | [[Slideshare]][dlcv2016-training-slides] |  |
 | RNN     | | | | |
 |                | [Marta R. Costa-jussà][MC-web]  | [DLAI 2017][dlai2017] | [[Slideshare]][dlai2017-d7l1-slides] |  [[Video]][dlai2017-d7l1-video] |
 |                | [Xavier Giro-i-Nieto][XG-web] | [DLAI 2017][dlai2017] | [[Slideshare]][dlai2017-d1l2-slides] |  | 
@@ -59,8 +62,13 @@
 |     | [Marta R. Costa-jussà][MC-web]  | [DLAI2017] | [[Slides]][dlai2017-d8l-slides] |  [[Video]][dlai2017-d8l2-video] |
 |     | [Amaia Salvador][AS-web]  | [DLCV2017] | [[Slides]][dlai2017-d3l6-slides] |  |
 | Architectures  | | | | |
-|                | [Xavier Giro-i-Nieto][XG-web]| [DLCV 2018][dlcv2018] | [[Slides]][dlcv2018-d1l2-slides]  | [[Video]][dlcv2018-d1l2-video]            | 
+|     | [Xavier Giro-i-Nieto][XG-web]| [DLCV2018] | [[Slides]][dlcv2018-d1l2-slides]  | [[Video]][dlcv2018-d1l2-video] |
 
+
+[dlcv2016-deep-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-deep-networks-upc-2016 
+[dlcv2016-backprop-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-backward-propagation-upc-2016
+[dlcv2016-backprop-video]: https://www.youtube.com/watch?v=jg8Hb4VMJg8
+[dlcv2016-training-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-training-upc-2016
 
 [dlcv2017-d1l2-slides]: https://www.slideshare.net/xavigiro/perceptrons-d1l2-2017-upc-deep-learning-for-computer-vision
 [dlcv2017-d1l3-slides]: https://www.slideshare.net/xavigiro/convolutional-neural-networks-d1l3-2017-upc-deep-learning-for-computer-vision
