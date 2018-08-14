@@ -54,8 +54,9 @@
 | Reinforcement learning     | | | | |
 |                | [[Xavier Giro-i-Nieto][XG-web] | [DLAI 2017][dlai2017] | [[Slideshare]][dlai2017-d7l2-slides] | [[Video]][dlai2017-d7l2-video]  |
 | Unsupervised learning     | | | | |
-|                | [Xavier Giro-i-Nieto][XG-web] | [DLAI2017] | [[Slideshare]][dlai2017-d9l1-slides] | [[Video]][dlai2017-d9l1-video] |
-|  | [Kevin McGuinness][KM-web]| [DLCV2017] | [[Slides]][dlcv2017-d2l6-slides] |  |
+|  | [Xavier Giro-i-Nieto][XG-web] | [DLAI2017] | [Slides][dlai2017-d9l1-slides] | [Video][dlai2017-d9l1-video] |
+|  | [Kevin McGuinness][KM-web]| [DLCV2017] | [Slides][dlcv2017-d2l6-slides] |  |
+|  | [Kevin McGuinness][KM-web]| [DLCV2016] | [Slides][dlcv2016-unsupervised-slides]|[Video][dlcv2016-unsupervised-video] |
 | Self-supervised learning     | | | | |
 |     | [Xavier Giro-i-Nieto][XG-web] | [DLCV2017] | [[Slideshare]][dlcv2017-d4l4-slides] |  |
 | Generative models     | | | | |
@@ -70,6 +71,8 @@
 [dlcv2016-augmentation-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-data-augmentation-upc-2016
 [dlcv2016-transfer-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-transfer-learning-and-domain-adaptation-upc-2016
 [dlcv2016-transfer-video]: https://www.youtube.com/watch?v=UKleTP1Zy1U
+[dlcv2016-unsupervised-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-unsupervised-learning-upc-2016
+[dlcv2016-unsupervised-video]: https://www.youtube.com/watch?v=5fxj0R4U2F4
 
 [dlcv2017-d2l3-slides]: https://www.slideshare.net/xavigiro/transfer-learning-and-domain-adaptation-d2l3-2017-upc-deep-learning-for-computer-vision
 [dlcv2017-d2l6-slides]: https://www.slideshare.net/xavigiro/unsupervised-learning-d2l6-2017-upc-deep-learning-for-computer-vision
