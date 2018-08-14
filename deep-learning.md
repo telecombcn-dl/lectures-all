@@ -1,5 +1,6 @@
 [XG-web]: https://imatge.upc.edu/web/people/xavier-giro
 [KM-web]: http://www.eeng.dcu.ie/~mcguinne/
+[AS-web]: https://imatge.upc.edu/web/people/amaia-salvador
 [EM-web]: https://www.insight-centre.org/users/eva-mohedano
 [LL-web]: https://dvl.in.tum.de/team/lealtaixe/
 [ES-web]: https://imatge.upc.edu/web/people/elisa-sayrol
@@ -55,7 +56,8 @@
 |                | [Marta R. Costa-jussà][MC-web]  | [DLAI 2017][dlai2017] | [[Slideshare]][dlai2017-d7l1-slides] |  [[Video]][dlai2017-d7l1-video] |
 |                | [Xavier Giro-i-Nieto][XG-web] | [DLAI 2017][dlai2017] | [[Slideshare]][dlai2017-d1l2-slides] |  | 
 | Attention     | | | | |
-|                | [Marta R. Costa-jussà][MC-web]  | [DLAI 2017][dlai2017] | [[Slideshare]][dlai2017-d8l-slides] |  [[Video]][dlai2017-d8l2-video] |
+|     | [Marta R. Costa-jussà][MC-web]  | [DLAI2017] | [[Slides]][dlai2017-d8l-slides] |  [[Video]][dlai2017-d8l2-video] |
+|     | [Amaia Salvador][AS-web]  | [DLCV2017] | [[Slides]][dlai2017-d3l6-slides] |  |
 | Architectures  | | | | |
 |                | [Xavier Giro-i-Nieto][XG-web]| [DLCV 2018][dlcv2018] | [[Slides]][dlcv2018-d1l2-slides]  | [[Video]][dlcv2018-d1l2-video]            | 
 
@@ -65,8 +67,7 @@
 [dlcv2017-d1l5-slides]: https://www.slideshare.net/xavigiro/training-deep-networks-d1l5-2017-upc-deep-learning-for-computer-vision
 [dlcv2017-d2l1-slides]: https://www.slideshare.net/xavigiro/optimization-for-deep-networks-d2l1-2017-upc-deep-learning-for-computer-vision
 [dlcv2017-d2l2-slides]: https://www.slideshare.net/xavigiro/recurrent-neural-networks-d2l2-2017-upc-deep-learning-for-computer-vision
-
-
+[dlcv2017-d3l6-slides]: https://www.slideshare.net/xavigiro/attention-models-d3l6-2017-upc-deep-learning-for-computer-vision
 
 
 [dlai2017-d1l2-slides]: https://www.slideshare.net/xavigiro/the-perceptron-audio-and-vision-d1l2-2017-upc-deep-learning-for-artificial-intelligence
