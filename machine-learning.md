@@ -45,8 +45,9 @@
 | Data augmentation     | | | | |
 |                | [Eva Mohedano][EM-web] | [DLCV2016] | [[Slides]][dlcv2016-augmentation-slides] |  | 
 | Transfer learning     | | | | |
-|                | [Ramon Morros][RM-web] | [DLAI 2017][dlai2017] | [[Slideshare]][dlai2017-d5l2-slides] |   | 
-|                | [Eric Arazo][EA-web] | [DLCV2017] | [[Slides]][dlcv2017-d2l3-slides] |   | 
+|       | [Ramon Morros][RM-web] | [DLAI 2017][dlai2017] | [Slides][dlai2017-d5l2-slides] |   | 
+|       | [Eric Arazo][EA-web] | [DLCV2017] | [Slides][dlcv2017-d2l3-slides] |   | 
+|       | [Kevin McGuinness][KM-web]| [DLCV2016] | [Slides][dlcv2016-transfer-slides] | [Video][dlcv2016-transfer-video] |
 | Incremental learning     | | | | |
 |                | [Ramon Morros][RM-web] | [DLAI2017] | [[Slides]][dlai2017-d6l1-slides] |  |
 |                | [Ramon Morros][RM-web] | [DLCV2017] | [[Slides]][dlcv2017-d3l2-slides] |  |
@@ -67,6 +68,8 @@
 
 [dlcv2016-classification-slides]: http://www.slideshare.net/xavigiro/image-classification-dlcv-d1l2
 [dlcv2016-augmentation-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-data-augmentation-upc-2016
+[dlcv2016-transfer-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-transfer-learning-and-domain-adaptation-upc-2016
+[dlcv2016-transfer-video]: https://www.youtube.com/watch?v=UKleTP1Zy1U
 
 [dlcv2017-d2l3-slides]: https://www.slideshare.net/xavigiro/transfer-learning-and-domain-adaptation-d2l3-2017-upc-deep-learning-for-computer-vision
 [dlcv2017-d2l6-slides]: https://www.slideshare.net/xavigiro/unsupervised-learning-d2l6-2017-upc-deep-learning-for-computer-vision
