@@ -1,26 +1,69 @@
+[XG-web]: https://imatge.upc.edu/web/people/xavier-giro
+[KM-web]: http://www.eeng.dcu.ie/~mcguinne/
+[EM-web]: https://www.insight-centre.org/users/eva-mohedano
+[LL-web]: https://dvl.in.tum.de/team/lealtaixe/
+[ES-web]: https://imatge.upc.edu/web/people/elisa-sayrol
+[VV-web]: https://imatge.upc.edu/web/people/veronica-vilaplana
+[JR-web]: https://imatge.upc.edu/web/people/javier-ruiz-hidalgo
+[RM-web]: https://imatge.upc.edu/web/people/josep-ramon-morros
+[MC-web]: http://www.costa-jussa.com/
+[SP-web]: https://scholar.google.com/citations?user=7cVOyh0AAAAJ&hl=en
+[AB-web]: https://scholar.google.es/citations?user=C5AUXO4AAAAJ&hl=en
+[MB-web]: https://imatge.upc.edu/web/people/miriam-bellver
+
+[IDL2018]: https://telecombcn-dl.github.io/2018-idl/
+[IDL2019]: https://telecombcn-dl.github.io/2019-idl/
+
+[DLCV2016]: http://imatge-upc.github.io/telecombcn-2016-dlcv/
+[DLCV2017]: https://telecombcn-dl.github.io/2017-dlcv/
+[DLCV2018]: https://telecombcn-dl.github.io/2018-dlcv/
+[DLCV2019]: https://telecombcn-dl.github.io/2019-dlcv/
+
+[DLV2018]: https://mcv-m6-video.github.io/deepvideo-2018/
+
+[DLSL2017]: https://telecombcn-dl.github.io/2017-dlsl/
+[DLSL2018]: https://telecombcn-dl.github.io/2018-dlsl/
+
+[DLMM2017]: https://telecombcn-dl.github.io/dlmm-2017-dcu/
+[DLMM2018]: https://telecombcn-dl.github.io/2018-dlmm/
+
+[DLAI2017]: https://telecombcn-dl.github.io/2017-dlai/
+[DLAI2018]: https://telecombcn-dl.github.io/2018-dlai/
+
 ## Deep Neural Networks
 
 | Topic          | Lecturer                     | Course                 | Slides                    | Video             |
 | -------------- |  --------------------------- | ---------------------- | :-----------------------: | :---------------: |
 | Perceptron     | | | | |
-|                | [Xavier Giro-i-Nieto][XG-web] | [DLAI 2017][dlai2017] | [[Slideshare]][dlai2017-d1l2-slides] | [[Video]][dlai2017-d1l2-video]       | 
 |                | [Antonio Bonafonte][AB-web] | [IDL 2018][idl2018] | [[PDF]][idl2018-d1l3-slides] |  |
+|                | [Xavier Giro-i-Nieto][XG-web] | [DLAI 2017][dlai2017] | [[Slideshare]][dlai2017-d1l2-slides] | [[Video]][dlai2017-d1l2-video]       | 
+|                | [Kevin McGuinness][KM-web]| [DLCV2017] | [[Slides]][dlcv2017-d1l2-slides]  |  |
 | Multi-layer Perceptron     | | | | |
 |                | [Elisa Sayrol][ES-web] | [DLAI 2017][dlai2017] | [[Slideshare]][dlai2017-d2l1-slides] | [[Video]][dlai2017-d2l1-video]      | 
 | Backpropagation     | | | | |
-|                | [Elisa Sayrol][ES-web] | [DLAI 2017][dlai2017] | [[Slideshare]][dlai2017-d3l1-slides]|  |
+|                | [Elisa Sayrol][ES-web] | [DLAI2017] | [[Slideshare]][dlai2017-d3l1-slides]|  |
+|                | [Elisa Sayrol][ES-web] | [DLCV2017] | [[Slideshare]][dlcv2017-d1l5-slides]|  |
 | Optimizers     | | | | |
 |                | [Verónica Vilaplana][VV-web] | [DLAI 2017][dlai2017] | [[Slideshare]][dlai2017-d4l1-slides] |  |
 | Loss functions     | | | | |
 |                | [Javier Ruiz][JR-web] | [DLAI 2017][dlai2017] | [[Slideshare]][dlai2017-d4l2-slides] |  |
 | Convnets     | | | | |
 |                | [Verónica Vilaplana][VV-web]  | [DLAI 2017][dlai2017] | [[Slideshare]][dlai2017-d5l1-slides] |  |
+|                | [Elisa Sayrol][ES-web]  | [[DLCV2017] | [[Slideshare]][dlcv2017-d1l3-slides] |  |
 | RNN     | | | | |
 |                | [Marta R. Costa-jussà][MC-web]  | [DLAI 2017][dlai2017] | [[Slideshare]][dlai2017-d7l1-slides] |  [[Video]][dlai2017-d7l1-video] |
 | Attention     | | | | |
 |                | [Marta R. Costa-jussà][MC-web]  | [DLAI 2017][dlai2017] | [[Slideshare]][dlai2017-d8l-slides] |  [[Video]][dlai2017-d8l2-video] |
 | Architectures  | | | | |
 |                | [Xavier Giro-i-Nieto][XG-web]| [DLCV 2018][dlcv2018] | [[Slides]][dlcv2018-d1l2-slides]  | [[Video]][dlcv2018-d1l2-video]            | 
+
+
+[dlcv2017-d1l2-slides]: https://www.slideshare.net/xavigiro/perceptrons-d1l2-2017-upc-deep-learning-for-computer-vision
+[dlcv2017-d1l3-slides]: https://www.slideshare.net/xavigiro/convolutional-neural-networks-d1l3-2017-upc-deep-learning-for-computer-vision
+[dlcv2017-d1l5-slides]: https://www.slideshare.net/xavigiro/training-deep-networks-d1l5-2017-upc-deep-learning-for-computer-vision
+
+
+
 
 [dlai2017-d1l2-slides]: https://www.slideshare.net/xavigiro/the-perceptron-audio-and-vision-d1l2-2017-upc-deep-learning-for-artificial-intelligence
 [dlai2017-d1l2-video]: https://youtu.be/7L75hHF4STM
