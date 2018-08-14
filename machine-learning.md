@@ -38,7 +38,8 @@
 | Topic          | Lecturer                     | Course                 | Slides                    | Video             |
 | -------------- |  --------------------------- | ---------------------- | :-----------------------: | :---------------: |
 | Machine learning     | | | | |
-|                | [Verónica Vilaplana][VV-web] | [IDL 2018][idl2018] | [[PDF]][idl2018-d1l2-slides] |  | 
+|                | [Verónica Vilaplana][VV-web] | [IDL2018] | [[Slides]][idl2018-d1l2-slides] |  | 
+|                | [Elisa Sayrol][ES-web] | [DLCV2016] | [[Slides]][dlcv2016-classification-slides]  |   |
 | Methodology     | | | | |
 |                | [Javier Ruiz][JR-web] | [DLAI 2017][dlai2017] | [[Slideshare]][dlai2017-d6l2-slides] |  | 
 | Transfer learning     | | | | |
@@ -61,6 +62,9 @@
 |                | [Kevin McGuinness][KM-web]| [DLCV2017] | [[Slides]][dlcv2017-d3l4-slides]  |    |
 | Set learning     | | | | |
 |                | [Laura-Leal Taixé][LL-web]| [DLCV 2018][dlcv2018] | [[Slides]][dlcv2018-d3l6-slides]  | [[Video]][dlcv2018-d3l6-video]   |
+
+[dlcv2016-classification-slides]: http://www.slideshare.net/xavigiro/image-classification-dlcv-d1l2
+
 
 [dlcv2017-d2l3-slides]: https://www.slideshare.net/xavigiro/transfer-learning-and-domain-adaptation-d2l3-2017-upc-deep-learning-for-computer-vision
 [dlcv2017-d2l6-slides]: https://www.slideshare.net/xavigiro/unsupervised-learning-d2l6-2017-upc-deep-learning-for-computer-vision
