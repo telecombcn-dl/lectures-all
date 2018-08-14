@@ -1,5 +1,22 @@
 
+[XG-web]: https://imatge.upc.edu/web/people/xavier-giro
+[KM-web]: http://www.eeng.dcu.ie/~mcguinne/
+[EM-web]: https://www.insight-centre.org/users/eva-mohedano
+[LL-web]: https://dvl.in.tum.de/team/lealtaixe/
+[ES-web]: https://imatge.upc.edu/web/people/elisa-sayrol
+[VV-web]: https://imatge.upc.edu/web/people/veronica-vilaplana
+[JR-web]: https://imatge.upc.edu/web/people/javier-ruiz-hidalgo
+[RM-web]: https://imatge.upc.edu/web/people/josep-ramon-morros
+[MC-web]: http://www.costa-jussa.com/
+[SP-web]: https://scholar.google.com/citations?user=7cVOyh0AAAAJ&hl=en
+[AB-web]: https://scholar.google.es/citations?user=C5AUXO4AAAAJ&hl=en
+[MB-web]: https://imatge.upc.edu/web/people/miriam-bellver
+[VC-web]: https://imatge.upc.edu/web/people/victor-campos
 
+[DLCV2016]: http://imatge-upc.github.io/telecombcn-2016-dlcv/
+[DLCV2017]: https://telecombcn-dl.github.io/2017-dlcv/
+[DLCV2018]: https://telecombcn-dl.github.io/2018-dlcv/
+[DLCV2019]: https://telecombcn-dl.github.io/2019-dlcv/
 
 ## Computer Vision
 
@@ -17,9 +34,12 @@
 |                | [Miriam Bellver][MB-web] | [DLCV 2018][dlcv2018] | [[Slides]][dlcv2018-d2l3-slides]  |   |
 | Instance Segmentation  | | | | |
 |                | [Miriam Bellver][MB-web] | [DLCV 2018][dlcv2018] | [[Slides]][dlcv2018-d2l4-slides]  |   |
-| Face Recognition  | | | | |
+| Video Analysis  | | | | |
+|                | [Victor Campos][VC-web] | [DLCV 2018][dlcv2018] | [[Slides]][dlcv2018-d3l12-slides]  |   |
 | Video Segmentation  | | | | |
 |                | [Laura-Leal Taixé][LL-web]| [DLCV 2018][dlcv2018] | [[Slides]][dlcv2018-D1l6-slides]  |  |
+| Object Tracking  | | | | |
+|                | [Laura-Leal Taixé][LL-web]| [DLCV 2018][dlcv2018] | [[Slides]][dlcv2018-D3l3-slides]  | [[Video]][dlcv2018-D3l3-video]   |
 | Visual Localization  | | | | |
 |                | [Laura-Leal Taixé][LL-web]| [DLCV 2018][dlcv2018] | [[Slides]][dlcv2018-D1l5-slides]  | [[Video]][dlcv2018-D1L5-video]   |
 | Medical Imaging  | | | | |
@@ -40,22 +60,10 @@
 [dlcv2018-d2l5-slides]: https://www.slideshare.net/xavigiro/medical-imaging-at-upc-elisa-sayrol-upc-barcelona-2018
 [dlcv2018-d2l6-slides]: https://www.slideshare.net/xavigiro/medical-imaging-at-dcu-kevin-mcguinness-upc-barcelona-2018
 [dlcv2018-d2l6-video]: https://youtu.be/VdmY90YKLTI
+[dlcv2018-d3l12-slides]: https://www.slideshare.net/xavigiro/deep-video-analysis-vctor-campos-upc-barcelona-2018
+[dlcv2018-d3l3-slides]: https://www.slideshare.net/xavigiro/multiple-object-tracking-laura-lealtaixe-upc-barcelona-2018
+[dlcv2018-d3l3-video]: https://youtu.be/NQXRb3ViRuQ 
 
 
-[XG-web]: https://imatge.upc.edu/web/people/xavier-giro
-[KM-web]: http://www.eeng.dcu.ie/~mcguinne/
-[EM-web]: https://www.insight-centre.org/users/eva-mohedano
-[LL-web]: https://dvl.in.tum.de/team/lealtaixe/
-[ES-web]: https://imatge.upc.edu/web/people/elisa-sayrol
-[VV-web]: https://imatge.upc.edu/web/people/veronica-vilaplana
-[JR-web]: https://imatge.upc.edu/web/people/javier-ruiz-hidalgo
-[RM-web]: https://imatge.upc.edu/web/people/josep-ramon-morros
-[MC-web]: http://www.costa-jussa.com/
-[SP-web]: https://scholar.google.com/citations?user=7cVOyh0AAAAJ&hl=en
-[AB-web]: https://scholar.google.es/citations?user=C5AUXO4AAAAJ&hl=en
-[MB-web]: https://imatge.upc.edu/web/people/miriam-bellver
 
-[DLCV2016]: http://imatge-upc.github.io/telecombcn-2016-dlcv/
-[DLCV2017]: https://telecombcn-dl.github.io/2017-dlcv/
-[DLCV2018]: https://telecombcn-dl.github.io/2018-dlcv/
-[DLCV2019]: https://telecombcn-dl.github.io/2019-dlcv/
+
