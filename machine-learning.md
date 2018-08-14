@@ -11,6 +11,7 @@
 [AB-web]: https://scholar.google.es/citations?user=C5AUXO4AAAAJ&hl=en
 [MB-web]: https://imatge.upc.edu/web/people/miriam-bellver
 [VC-web]: https://imatge.upc.edu/web/people/victor-campos
+[EA-web]: https://www.insight-centre.org/users/eric-arazo-sanchez
 
 [IDL2018]: https://telecombcn-dl.github.io/2018-idl/
 [IDL2019]: https://telecombcn-dl.github.io/2019-idl/
@@ -42,6 +43,7 @@
 |                | [Javier Ruiz][JR-web] | [DLAI 2017][dlai2017] | [[Slideshare]][dlai2017-d6l2-slides] |  | 
 | Transfer learning     | | | | |
 |                | [Ramon Morros][RM-web] | [DLAI 2017][dlai2017] | [[Slideshare]][dlai2017-d5l2-slides] |   | 
+|                | [Eric Arazo][EA-web] | [DLCV2017] | [[Slides]][dlcv2017-d2l3-slides] |   | 
 | Incremental learning     | | | | |
 |                | [Ramon Morros][RM-web] | [DLAI 2017][dlai2017] | [[Slideshare]][dlai2017-d6l1-slides] |  |
 | Reinforcement learning     | | | | |
@@ -55,6 +57,8 @@
 | Set learning     | | | | |
 |                | [Laura-Leal Taixé][LL-web]| [DLCV 2018][dlcv2018] | [[Slides]][dlcv2018-d3l6-slides]  | [[Video]][dlcv2018-d3l6-video]   |
 
+
+[dlcv2017-d2l3-slides]: https://www.slideshare.net/xavigiro/transfer-learning-and-domain-adaptation-d2l3-2017-upc-deep-learning-for-computer-vision
 
 [idl2018-d1l2-slides]: https://github.com/telecombcn-dl/2018-idl/raw/master/slides/D1L2-MachineLearning.pdf
 [dlai2017-d5l2-slides]: https://www.slideshare.net/xavigiro/transfer-learning-and-domain-adaptation-dlai-d5l2-2017-upc-deep-learning-for-artificial-intelligence
