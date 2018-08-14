@@ -45,7 +45,8 @@
 |                | [Ramon Morros][RM-web] | [DLAI 2017][dlai2017] | [[Slideshare]][dlai2017-d5l2-slides] |   | 
 |                | [Eric Arazo][EA-web] | [DLCV2017] | [[Slides]][dlcv2017-d2l3-slides] |   | 
 | Incremental learning     | | | | |
-|                | [Ramon Morros][RM-web] | [DLAI 2017][dlai2017] | [[Slideshare]][dlai2017-d6l1-slides] |  |
+|                | [Ramon Morros][RM-web] | [DLAI2017] | [[Slides]][dlai2017-d6l1-slides] |  |
+|                | [Ramon Morros][RM-web] | [DLCV2017] | [[Slides]][dlcv2017-d3l2-slides] |  |
 | Reinforcement learning     | | | | |
 |                | [[Xavier Giro-i-Nieto][XG-web] | [DLAI 2017][dlai2017] | [[Slideshare]][dlai2017-d7l2-slides] | [[Video]][dlai2017-d7l2-video]  |
 | Unsupervised learning     | | | | |
@@ -60,6 +61,8 @@
 
 [dlcv2017-d2l3-slides]: https://www.slideshare.net/xavigiro/transfer-learning-and-domain-adaptation-d2l3-2017-upc-deep-learning-for-computer-vision
 [dlcv2017-d2l6-slides]: https://www.slideshare.net/xavigiro/unsupervised-learning-d2l6-2017-upc-deep-learning-for-computer-vision
+[dlcv2017-d3l2-slides]: https://www.slideshare.net/xavigiro/lifelong-incremental-learning-d3l2-2017-upc-deep-learning-for-computer-vision
+
 
 [idl2018-d1l2-slides]: https://github.com/telecombcn-dl/2018-idl/raw/master/slides/D1L2-MachineLearning.pdf
 [dlai2017-d5l2-slides]: https://www.slideshare.net/xavigiro/transfer-learning-and-domain-adaptation-dlai-d5l2-2017-upc-deep-learning-for-artificial-intelligence
