@@ -24,12 +24,13 @@
 | -------------- |  --------------------------- | ---------------------- | :-----------------------------: | :----------: |
 | Image Classification  | | | | |
 |                | [Kevin McGuinness][KM-web]| [DLCV2018] | [[Slides]][dlcv2018-D1L3-slides]  | [[Video]][dlcv2018-D1L3-video]    |
-|                | [Xavier Giro-i-Nieto][XG-web]| [DLCV2017] | [[Slides]][dlcv2017-d1l4-slides]  | [[Video]][dlcv2017-d1l4-video]            | 
+|   | [Xavier Giro-i-Nieto][XG-web]| [DLCV2017] | [[Slides]][dlcv2017-d1l4-slides]  | [[Video]][dlcv2017-d1l4-video] | 
 | Interpretability  | | | | |
-|                | [Eva Mohedano][EM-web] | [DLCV2018] | [[Slides]][dlcv2018-d3l4-slides]  | [[Video]][dlcv2018-d3l4-video]    |
+|          | [Eva Mohedano][EM-web] | [DLCV2018] | [[Slides]][dlcv2018-d3l4-slides]  | [[Video]][dlcv2018-d3l4-video]    |
 |                | [Amaia Salvador][AS-web] | [DLCV2017] | [[Slides]][dlcv2018-d1l6-slides]  |    |
 | Visual Saliency Prediction  | | | | |
-|                | [Kevin McGuinness][KM-web]| [DLCV 2018][dlcv2018] | [[Slides]][dlcv2018-d3l5-slides]  | [[Video]][dlcv2018-D3l5-video]    |
+|       | [Kevin McGuinness][KM-web]| [DLCV2018] | [[Slides]][dlcv2018-d3l5-slides]  | [[Video]][dlcv2018-D3l5-video]    |
+|       | [Kevin McGuinness][KM-web]| [DLCV2017] | [[Slides]][dlcv2017-d4l3-slides]  | [[Video]][dlcv2017-d4l3-video]    |
 | Object Detection  | | | | |
 |                | [Miriam Bellver][MB-web] | [DLCV2018] | [[Slides]][dlcv2018-d2l1-slides]  |   |
 |                | [Amaia Salvador][AS-web] | [DLCV2017] | [[Slides]][dlcv2017-d2l4-slides]  |  [[Video]][dlcv2017-d2l4-video]  |
@@ -44,7 +45,8 @@
 | Instance Segmentation  | | | | |
 |                | [Miriam Bellver][MB-web] | [DLCV 2018][dlcv2018] | [[Slides]][dlcv2018-d2l4-slides]  |   |
 | Video Analysis  | | | | |
-|                | [Victor Campos][VC-web] | [DLCV 2018][dlcv2018] | [[Slides]][dlcv2018-d3l12-slides]  |   |
+|   | [Victor Campos][VC-web] | [DLCV 2018][dlcv2018] | [[Slides]][dlcv2018-d3l12-slides]  |   |
+|   | [Xavier Giro-i-Nieto][XG-web]| [DLCV2017] | [[Slides]][dlcv2017-d4l2-slides]  |  | 
 | Video Segmentation  | | | | |
 |                | [Laura-Leal Taixé][LL-web]| [DLCV 2018][dlcv2018] | [[Slides]][dlcv2018-D1l6-slides]  |  |
 | Object Tracking  | | | | |
@@ -52,14 +54,14 @@
 | Visual Localization  | | | | |
 |                | [Laura-Leal Taixé][LL-web]| [DLCV 2018][dlcv2018] | [[Slides]][dlcv2018-D1l5-slides]  | [[Video]][dlcv2018-D1L5-video]   |
 | 3D Analysis  | | | | |
-|                | [Javier Ruiz][JR-web]| [DLCV 2018][dlcv2018] | [[Slides]][dlcv2018-d4l1-slides]  |  |
+|                | [Javier Ruiz][JR-web]| [DLCV2018] | [[Slides]][dlcv2018-d4l1-slides]  |  |
+|                | [Javier Ruiz][JR-web]| [DLCV2017] | [[Slides]][dlcv2017-d4l1-slides]  | [Video][dlcv2017-d4l1-video] |
 | 3D Reconstruction  | | | | |
 |                | [Eduard Ramon][ER-web]| [DLCV 2018][dlcv2018] | [[Slides]][dlcv2018-d4l2-slides]  |  |
 | Medical Imaging  | | | | |
 |                | [Elisa Sayrol][ES-web] | [DLCV 2018][dlcv2018] | [[Slides]][dlcv2018-d2l5-slides]  |   |
 |  | [Kevin McGuinness][KM-web]| [DLCV2018] | [[Slides]][dlcv2018-D2l6-slides]  | [[Video]][dlcv2018-D2L6-video]    |
 |                | [Veronica Vilaplana][VV-web] | [DLCV2017] | [[Slides]][dlcv2017-d3l3-slides]  |   |
-
 
 [dlcv2017-d1l4-slides]: https://www.slideshare.net/xavigiro/image-classification-on-imagenet-d1l4-2017-upc-deep-learning-for-computer-vision
 [dlcv2017-d1l4-video]: https://youtu.be/Cng0btC-1uE
@@ -69,8 +71,11 @@
 [dlcv2017-d2l5-video]: https://youtu.be/SX94NgeOPB4
 [dlcv2017-d3l1-slides]: https://www.slideshare.net/xavigiro/image-segmentation-d3l1-2017-upc-deep-learning-for-computer-vision
 [dlcv2017-d3l3-slides]: https://www.slideshare.net/xavigiro/medical-imaging-d3l3-2017-upc-deep-learning-for-computer-vision
-
-
+[dlcv2017-d4l1-slides]: https://www.slideshare.net/xavigiro/3d-images-d4l1-2017-upc-deep-learning-for-computer-vision
+[dlcv2017-d4l1-video]: https://youtu.be/DZk2LQkPbUw
+[dlcv2017-d4l2-slides]: https://www.slideshare.net/xavigiro/video-analysis-d4l2-2017-upc-deep-learning-for-computer-vision
+[dlcv2017-d4l3-slides]: https://www.slideshare.net/xavigiro/visual-saliency-d4l3-2017-upc-deep-learning-for-computer-vision
+[dlcv2017-d4l3-video]: https://youtu.be/JDZgQz6hCWM
 
 [dlcv2018-d1l3-slides]: https://www.slideshare.net/xavigiro/d1l3-image-classification-upc-2018-deep-learning-for-computer-vision
 [dlcv2018-d1l3-video]: https://youtu.be/NHvantNw1Kw
