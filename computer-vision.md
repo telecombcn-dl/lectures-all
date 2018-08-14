@@ -35,8 +35,9 @@
 |       | [Kevin McGuinness][KM-web]| [DLCV2017] | [Slides][dlcv2017-d4l3-slides]  | [Video][dlcv2017-d4l3-video]    |
 |       | [Elisa Sayrol][ES-web] | [DLCV2016] | [Slides][dlcv2016-saliency-slides]  |   |
 | Object Detection  | | | | |
-|                | [Miriam Bellver][MB-web] | [DLCV2018] | [[Slides]][dlcv2018-d2l1-slides]  |   |
-|                | [Amaia Salvador][AS-web] | [DLCV2017] | [[Slides]][dlcv2017-d2l4-slides]  |  [[Video]][dlcv2017-d2l4-video]  |
+|       | [Miriam Bellver][MB-web] | [DLCV2018] | [Slides][dlcv2018-d2l1-slides]  |   |
+|       | [Amaia Salvador][AS-web] | [DLCV2017] | [Slides][dlcv2017-d2l4-slides]  |  [Video][dlcv2017-d2l4-video]  |
+|       | [Amaia Salvador][AS-web] | [DLCV2016] | [Slides][dlcv2016-object-slides]  |  [Video][dlcv2016-object-video]  |
 | Face Recognition  | | | | |
 |                | [Elisa Sayrol][ES-web] | [DLCV2018] | [[Slides]][dlcv2018-d2l2-slides]  |   |
 |                | [Elisa Sayrol][ES-web] | [DLCV2017] | [[Slides]][dlcv2017-d2l5-slides] | [[Video]][dlcv2017-D2L5-video]   |
@@ -71,6 +72,8 @@
 [dlcv2016-visualization-video]: https://youtu.be/YQvTxkPV8LQ
 [dlcv2016-imagenet-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-imagenet-challenge-upc-2016
 [dlcv2016-saliency-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-saliency-prediction-upc-2016
+[dlcv2016-object-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-object-detection-upc-2016
+[dlcv2016-object-video]: https://www.youtube.com/watch?v=VuJu0t4mYKM
 
 [dlcv2017-d1l4-slides]: https://www.slideshare.net/xavigiro/image-classification-on-imagenet-d1l4-2017-upc-deep-learning-for-computer-vision
 [dlcv2017-d1l4-video]: https://youtu.be/Cng0btC-1uE
