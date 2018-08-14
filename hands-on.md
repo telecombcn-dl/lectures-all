@@ -31,9 +31,14 @@
 | Software frameworks  | | | | |
 | | [Kevin McGuinness][KM-web]| [DLCV2017] | [Slides][dlcv2017-D1L7-slides]  |    |
 | | [Kevin McGuinness][KM-web]| [DLCV2016] | [Slides][dlcv2016-frameworks-slides] | [Video][dlcv2016-frameworks-video]  |
+| Computation | | | | |
+| | [Kevin McGuinness][KM-web]| [DLCV2016] | [Slides][dlcv2016-memory-slides] | [Video][dlcv2016-memory-video]  |
+
 
 [dlcv2017-d1l7-slides]: https://www.slideshare.net/xavigiro/software-frameworks-for-deep-learning-d1l7-2017-upc-deep-learning-for-computer-vision
 [dlcv2016-frameworks-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-software-frameworks-upc-2016
 [dlcv2016-frameworks-video]: https://www.youtube.com/watch?v=_VODQgCOBL8
+[dlcv2016-memory-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-memory-usage-and-computational-considerations-upc-2016
+[dlcv2016-memory-video]: https://youtu.be/Hqtg7fznlnM
 
 
