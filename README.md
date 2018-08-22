@@ -62,8 +62,6 @@ We have grouped our lectures in the following tracks:
 [PyTorched2017]: https://github.com/santi-pdp/pytorch_tutorials
 
 
-
-
 # Guest lecturers
 
 | Lecturer              | Institution               | Course                 | 
@@ -79,5 +77,12 @@ We have grouped our lectures in the following tracks:
 | Joost van der Weijer  | CVC - UAB                 | [DLAI 2017][idl2018]  | 
 | Carlos Segura         | Telefonica R&D            | [DLSL 2018][dlsl2018]  |
 | Jordi Torres          | BSC                       | [IDL 2019][idl2019] |
+
+# Our slides were used by...
+
+* [Chaim Baskin @ CS department of Technion - Israel Institute of Technology](https://www.youtube.com/watch?v=fiCRQwv23cY)
+* [Ali Ghodsi @ University of Waterloo](https://www.youtube.com/watch?v=7G4_Y5rsvi8&t=1694)
+
+
 
 
