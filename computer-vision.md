@@ -50,10 +50,10 @@
 |        | [Eva Mohedano][EM-web]| [DLCV2016] | [Slides][dlcv2016-retrieval-slides]  | [Video][dlcv2016-retrieval-video] |
 | Semantic Segmentation  | | | | |
 |                | [Miriam Bellver][MB-web] | [DLCV2018] | [Slides][dlcv2018-d2l3-slides]  | [Video][dlcv2018-d2l3-video]  |
-|                | [Veronica Vilaplana][VV-web] | [DLCV2017] | [[Slides]][dlcv2017-d3l1-slides]  |   |
+|                | [Veronica Vilaplana][VV-web] | [DLCV2017] | [Slides][dlcv2017-d3l1-slides]  |   |
 | | [Amaia Salvador][AS-web] | [DLCV2016] | [Slides][dlcv2016-segmentation-slides] | [Video][dlcv2016-segmentation-video]|
 | Instance Segmentation  | | | | |
-|                | [Miriam Bellver][MB-web] | [DLCV 2018][dlcv2018] | [[Slides]][dlcv2018-d2l4-slides]  |   |
+|                | [Miriam Bellver][MB-web] | [DLCV 2018][dlcv2018] | [Slides][dlcv2018-d2l4-slides]  | [Video][dlcv2018-d2l4-video]   |
 | Video Analysis  | | | | |
 |   | [Victor Campos][VC-web] | [DLCV2018] | [Slides][dlcv2018-d3l12-slides]  |   |
 |   | [Xavier Giro-i-Nieto][XG-web]| [MCV2018] | [Slides][mcv2018-action-class]  |  |
@@ -130,6 +130,7 @@
 [dlcv2018-d2l3-slides]: https://www.slideshare.net/xavigiro/d2l3-semantic-segmentation-upc-2018-deep-learning-for-computer-vision
 [dlcv2018-d2l3-video]: https://youtu.be/82BlA_7LHcQ
 [dlcv2018-d2l4-slides]: https://www.slideshare.net/xavigiro/instance-segmentation-mriam-bellver-upc-barcelona-2018
+[dlcv2018-d2l4-video]: https://youtu.be/ayVJp31GFUM
 [dlcv2018-d2l5-slides]: https://www.slideshare.net/xavigiro/medical-imaging-at-upc-elisa-sayrol-upc-barcelona-2018
 [dlcv2018-d2l6-slides]: https://www.slideshare.net/xavigiro/medical-imaging-at-dcu-kevin-mcguinness-upc-barcelona-2018
 [dlcv2018-d2l6-video]: https://youtu.be/VdmY90YKLTI
