@@ -75,10 +75,10 @@
 | Visual Localization  | | | | |
 |   | [Laura-Leal Taixé][LL-web]| [DLCV2018] | [[Slides]][dlcv2018-D1l5-slides]  | [[Video]][dlcv2018-D1L5-video]   |
 | 3D Analysis  | | | | |
-|                | [Javier Ruiz][JR-web]| [DLCV2018] | [[Slides]][dlcv2018-d4l1-slides]  |  |
+|                | [Javier Ruiz][JR-web]| [DLCV2018] | [[Slides]][dlcv2018-d4l1-slides]  | [Slides][dlcv2018-d4l1-video] |
 |                | [Javier Ruiz][JR-web]| [DLCV2017] | [[Slides]][dlcv2017-d4l1-slides]  | [Video][dlcv2017-d4l1-video] |
 | 3D Reconstruction  | | | | |
-|                | [Eduard Ramon][ER-web]| [DLCV 2018][dlcv2018] | [[Slides]][dlcv2018-d4l2-slides]  |  |
+|                | [Eduard Ramon][ER-web]| [DLCV 2018][dlcv2018] | [[Slides]][dlcv2018-d4l2-slides]  | [Video][dlcv2018-d4l2-video] |
 | Medical Imaging  | | | | |
 |  | [Elisa Sayrol][ES-web] | [DLCV 2018][dlcv2018] | [Slides][dlcv2018-d2l5-slides]  | [Video][dlcv2018-d2l5-video]  |
 |  | [Kevin McGuinness][KM-web]| [DLCV2018] | [Slides][dlcv2018-D2l6-slides]  | [Video][dlcv2018-D2L6-video]    |
@@ -146,7 +146,9 @@
 [dlcv2018-d3l5-slides]: https://www.slideshare.net/xavigiro/visual-saliency-prediction-with-deep-learning-kevin-mcguinness-upc-barcelona-2018
 [dlcv2018-d3l5-video]: https://youtu.be/iEgB1ZQ2W2I
 [dlcv2018-D4L1-slides]: https://www.slideshare.net/xavigiro/deep-3d-analysis-javier-ruizhidalgo-upc-barcelona-2018
+[dlcv2018-d4l1-video]: https://youtu.be/YAdgbX5THs8
 [dlcv2018-D4L2-slides]: https://www.slideshare.net/xavigiro/deep-3d-reconstruction-eduarda-ramon-upc-barcelona-2018
+[dlcv2018-d4l2-video]: https://youtu.be/Tc0L2w34wEg
 
 [mcv2018-action-class]: https://www.slideshare.net/xavigiro/deep-learning-for-video-action-recognition-upc-2018
 [mcv2018-action-detect]: https://www.slideshare.net/xavigiro/deep-learning-for-video-action-detection-upc-2018
