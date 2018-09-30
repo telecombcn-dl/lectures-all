@@ -37,13 +37,13 @@
 |       | [Kevin McGuinness][KM-web]| [DLCV2017] | [Slides][dlcv2017-d4l3-slides]  | [Video][dlcv2017-d4l3-video]    |
 |       | [Elisa Sayrol][ES-web] | [DLCV2016] | [Slides][dlcv2016-saliency-slides]  |   |
 | Object Detection  | | | | |
-|       | [Miriam Bellver][MB-web] | [DLCV2018] | [Slides][dlcv2018-d2l1-slides]  |   |
+|       | [Miriam Bellver][MB-web] | [DLCV2018] | [Slides][dlcv2018-d2l1-slides]  | [Video][dlcv2018-d2l1-video]  |
 |       | [Amaia Salvador][AS-web] | [DLCV2017] | [Slides][dlcv2017-d2l4-slides]  |  [Video][dlcv2017-d2l4-video]  |
 |       | [Amaia Salvador][AS-web] | [DLCV2016] | [Slides][dlcv2016-object-slides]  |  [Video][dlcv2016-object-video]  |
 | Face Recognition  | | | | |
-|       | [Elisa Sayrol][ES-web] | [DLCV2018] | [[Slides]][dlcv2018-d2l2-slides]  |   |
-|       | [Elisa Sayrol][ES-web] | [DLCV2017] | [[Slides]][dlcv2017-d2l5-slides] | [[Video]][dlcv2017-D2L5-video]   |
-|       | [Elisa Sayrol][ES-web] | [DLCV2016] | [[Slides]][dlcv2016-face-slides] | [[Video]][dlcv2016-face-video]   |
+|       | [Elisa Sayrol][ES-web] | [DLCV2018] | [Slides][dlcv2018-d2l2-slides]  | [Video][dlcv2018-d2l2-video]  |
+|       | [Elisa Sayrol][ES-web] | [DLCV2017] | [Slides][dlcv2017-d2l5-slides] | [[Video]][dlcv2017-D2L5-video]   |
+|       | [Elisa Sayrol][ES-web] | [DLCV2016] | [Slides][dlcv2016-face-slides] | [[Video]][dlcv2016-face-video]   |
 | Image Retrieval  | | | | |
 |        | [Eva Mohedano][EM-web]| [DLCV2018] | [Slides][dlcv2018-D1L4-slides]  | [Video][dlcv2018-D1L4-video]    |
 |        | [Kevin McGuinness][KM-web]| [DLCV2017] | [Slides][dlcv2017-d4l5-slides]  |    |
@@ -62,7 +62,7 @@
 | Activity Detection  | | | | |
 |   | [Xavier Giro-i-Nieto][XG-web]| [MCV2018] | [Slides][mcv2018-action-detect]  |  |
 | Video Segmentation  | | | | |
-|   | [Laura-Leal Taixé][LL-web]| [DLCV 2018][dlcv2018] | [[Slides]][dlcv2018-D1l6-slides]  |  |
+|   | [Laura-Leal Taixé][LL-web]| [DLCV 2018][dlcv2018] | [Slides][dlcv2018-D1l6-slides]  | [Slides][dlcv2018-D1l6-video] |
 | Video Object Tracking  | | | | |
 |   | [Laura-Leal Taixé][LL-web]| [DLCV2018] | [[Slides]][dlcv2018-D3l3-slides]  | [[Video]][dlcv2018-D3l3-video]  |
 |   | [Xavier Giro-i-Nieto][XG-web]| [MCV2018] | [Slides][mcv2018-object-track]  |  |
@@ -80,7 +80,7 @@
 | 3D Reconstruction  | | | | |
 |                | [Eduard Ramon][ER-web]| [DLCV 2018][dlcv2018] | [[Slides]][dlcv2018-d4l2-slides]  |  |
 | Medical Imaging  | | | | |
-|  | [Elisa Sayrol][ES-web] | [DLCV 2018][dlcv2018] | [Slides][dlcv2018-d2l5-slides]  |   |
+|  | [Elisa Sayrol][ES-web] | [DLCV 2018][dlcv2018] | [Slides][dlcv2018-d2l5-slides]  | [Video][dlcv2018-d2l5-video]  |
 |  | [Kevin McGuinness][KM-web]| [DLCV2018] | [Slides][dlcv2018-D2l6-slides]  | [Video][dlcv2018-D2L6-video]    |
 |  | [Veronica Vilaplana][VV-web] | [DLCV2017] | [Slides][dlcv2017-d3l3-slides]  |   |
 |  | [Elisa Sayrol][ES-web] | [DLCV2016] | [Slides][dlcv2016-medical-slides]  |  [Video][dlcv2016-medical-video] |
@@ -125,13 +125,17 @@
 [dlcv2018-d1l5-slides]: https://www.slideshare.net/xavigiro/d1l5-cnn-vs-siftbased-visual-localization-upc-2018-deep-learning-for-computer-vision
 [dlcv2018-d1l5-video]: https://youtu.be/LnfXTFJPpeE
 [dlcv2018-d1l6-slides]: https://www.slideshare.net/xavigiro/d1l6-video-object-segmentation-upc-2018-deep-learning-for-computer-vision
+[dlcv2018-D1l6-video]: https://youtu.be/g7PVm4TuvxM
 [dlcv2018-d2l1-slides]: https://www.slideshare.net/xavigiro/d2l1-object-detection-upc-2018-deep-learning-for-computer-vision
+[dlcv2018-d2l1-video]: https://youtu.be/O_U9uT_mRq0
 [dlcv2018-d2l2-slides]: https://www.slideshare.net/xavigiro/d2l2-face-recognition-upc-2018-deep-learning-for-computer-vision
+[dlcv2018-d2l2-video]: https://youtu.be/c5bPaAc0h-g
 [dlcv2018-d2l3-slides]: https://www.slideshare.net/xavigiro/d2l3-semantic-segmentation-upc-2018-deep-learning-for-computer-vision
 [dlcv2018-d2l3-video]: https://youtu.be/82BlA_7LHcQ
 [dlcv2018-d2l4-slides]: https://www.slideshare.net/xavigiro/instance-segmentation-mriam-bellver-upc-barcelona-2018
 [dlcv2018-d2l4-video]: https://youtu.be/ayVJp31GFUM
 [dlcv2018-d2l5-slides]: https://www.slideshare.net/xavigiro/medical-imaging-at-upc-elisa-sayrol-upc-barcelona-2018
+[dlcv2018-d2l5-video]: https://youtu.be/iMpCJI7Lntg
 [dlcv2018-d2l6-slides]: https://www.slideshare.net/xavigiro/medical-imaging-at-dcu-kevin-mcguinness-upc-barcelona-2018
 [dlcv2018-d2l6-video]: https://youtu.be/VdmY90YKLTI
 [dlcv2018-d3l12-slides]: https://www.slideshare.net/xavigiro/deep-video-analysis-vctor-campos-upc-barcelona-2018
