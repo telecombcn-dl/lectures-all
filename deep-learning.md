@@ -46,7 +46,7 @@
 | Multi-layer Perceptron     | | | | |
 |      | [Elisa Sayrol][ES-web] | [DLAI2018] | [Slides][dlai2018-d02l1-slides] |       | 
 |      | [Elisa Sayrol][ES-web] | [IDL2018] | [Slides][idl2018-d1l4-slides] |       | 
-|      | [Elisa Sayrol][ES-web] | [DLAI2017] | [Slides][dlai2017-d2l1-slides] | [[Video]][dlai2017-d2l1-video]      | 
+|      | [Elisa Sayrol][ES-web] | [DLAI2017] | [Slides][dlai2017-d2l1-slides] | [Video][dlai2017-d2l1-video]      | 
 |      | [Xavier Giro-i-Nieto][XG-web] | [DLCV2016] | [Slides][dlcv2016-deep-slides] |   | 
 | Backpropagation     | | | | |
 |    | [Elisa Sayrol][ES-web] | [IDL2018] | [Slides][dlai2018-d02l2-slides] |       | 
