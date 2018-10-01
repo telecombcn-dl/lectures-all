@@ -46,14 +46,14 @@
 | Multi-layer Perceptron     | | | | |
 |      | [Elisa Sayrol][ES-web] | [DLAI2018] | [Slides][dlai2018-d02l1-slides] |       | 
 |      | [Elisa Sayrol][ES-web] | [IDL2018] | [Slides][idl2018-d1l4-slides] |       | 
-|      | [Elisa Sayrol][ES-web] | [DLAI2017] | [[Slides]][dlai2017-d2l1-slides] | [[Video]][dlai2017-d2l1-video]      | 
-|      | [Xavier Giro-i-Nieto][XG-web] | [DLCV2016] | [[Slides]][dlcv2016-deep-slides] |   | 
+|      | [Elisa Sayrol][ES-web] | [DLAI2017] | [Slides][dlai2017-d2l1-slides] | [[Video]][dlai2017-d2l1-video]      | 
+|      | [Xavier Giro-i-Nieto][XG-web] | [DLCV2016] | [Slides][dlcv2016-deep-slides] |   | 
 | Backpropagation     | | | | |
 |    | [Elisa Sayrol][ES-web] | [IDL2018] | [Slides][dlai2018-d02l2-slides] |       | 
 |    | [Elisa Sayrol][ES-web] | [IDL2018] | [Slides][idl2018-d2l1-slides] |       | 
-|    | [Elisa Sayrol][ES-web] | [DLAI2017] | [[Slides]][dlai2017-d3l1-slides]|  |
-|    | [Elisa Sayrol][ES-web] | [DLCV2017] | [[Slides]][dlcv2017-d1l5-slides]|  |
-|    | [Elisa Sayrol][ES-web] | [DLCV2016] | [[Slides]][dlcv2016-backprop-slides]| | [[Video]][dlai2016-backprop-video]|  |
+|    | [Elisa Sayrol][ES-web] | [DLAI2017] | [Slides][dlai2017-d3l1-slides]| [Video][dlai2017-d3l1-video] |
+|    | [Elisa Sayrol][ES-web] | [DLCV2017] | [Slides][dlcv2017-d1l5-slides]|  |
+|    | [Elisa Sayrol][ES-web] | [DLCV2016] | [Slides][dlcv2016-backprop-slides]| | [[Video]][dlcv2016-backprop-video]|  |
 | Optimizations     | | | | |
 |                | [Verónica Vilaplana][VV-web] | [IDL2018] | [Slides][idl2018-d2l2-slides] |  |
 |                | [Verónica Vilaplana][VV-web] | [DLAI2017] | [Slides][dlai2017-d4l1-slides] |  |
@@ -66,7 +66,7 @@
 | Convnets     | | | | |
 |                | [Verónica Vilaplana][VV-web]  | [IDL2018] | [Slides][idl2018-d3l1-slides] |  |
 |                | [Verónica Vilaplana][VV-web]  | [DLAI2017] | [Slideshare][dlai2017-d5l1-slides] |  |
-|                | [Elisa Sayrol][ES-web]  | [[DLCV2017] | [[Slideshare]][dlcv2016-training-slides] |  |
+|                | [Elisa Sayrol][ES-web]  | [DLCV2017] | [Slideshare][dlcv2016-training-slides] |  |
 | RNN     | | | | |
 |      | [Marta R. Costa-jussà][MC-web]  | [IDL2018] | [Slides (I)][idl2018-d3l3-slides] |  |
 |      | [Marta R. Costa-jussà][MC-web]  | [IDL2018] | [Slides (II)][idl2018-d3l4-slides] |  |
@@ -108,6 +108,7 @@
 [dlai2017-d2l1-slides]: https://www.slideshare.net/xavigiro/multilayer-perceptron-dlai-d1l2-2017-upc-deep-learning-for-artificial-intelligence
 [dlai2017-d2l1-video]: https://youtu.be/F03UEq8yVkI
 [dlai2017-d3l1-slides]: https://www.slideshare.net/xavigiro/backpropagation-dlai-d3l1-2017-upc-deep-learning-for-artificial-intelligence
+[dlai2017-d3l1-video]: https://www.youtube.com/watch?v=F03UEq8yVkI
 [dlai2017-d4l1-slides]: https://www.slideshare.net/xavigiro/optimization-dlai-d4l1-2017-upc-deep-learning-for-artificial-intelligence
 [dlai2017-d4l2-slides]: https://www.slideshare.net/xavigiro/loss-functions-dlai-d4l2-2017-upc-deep-learning-for-artificial-intelligence/1
 [dlai2017-d5l1-slides]: https://www.slideshare.net/xavigiro/convolutional-neural-networks-dlai-d5l2-2017-upc-deep-learning-for-artificial-intelligence
