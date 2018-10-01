@@ -44,14 +44,16 @@
 |      | [Xavier Giro-i-Nieto][XG-web] | [DLAI2017] | [Slides][dlai2017-d1l2-slides] | [Video][dlai2017-d1l2-video]  | 
 |      | [Kevin McGuinness][KM-web] | [DLCV2017] | [Slides][dlcv2017-d1l2-slides]  |  |
 | Multi-layer Perceptron     | | | | |
+|      | [Elisa Sayrol][ES-web] | [DLAI2018] | [Slides][dlai2018-d02l1-slides] |       | 
 |      | [Elisa Sayrol][ES-web] | [IDL2018] | [Slides][idl2018-d1l4-slides] |       | 
 |      | [Elisa Sayrol][ES-web] | [DLAI2017] | [[Slides]][dlai2017-d2l1-slides] | [[Video]][dlai2017-d2l1-video]      | 
 |      | [Xavier Giro-i-Nieto][XG-web] | [DLCV2016] | [[Slides]][dlcv2016-deep-slides] |   | 
 | Backpropagation     | | | | |
-|     | [Elisa Sayrol][ES-web] | [IDL2018] | [Slides][idl2018-d2l1-slides] |       | 
+|    | [Elisa Sayrol][ES-web] | [IDL2018] | [Slides][dlai2018-d02l2-slides] |       | 
+|    | [Elisa Sayrol][ES-web] | [IDL2018] | [Slides][idl2018-d2l1-slides] |       | 
 |    | [Elisa Sayrol][ES-web] | [DLAI2017] | [[Slides]][dlai2017-d3l1-slides]|  |
 |    | [Elisa Sayrol][ES-web] | [DLCV2017] | [[Slides]][dlcv2017-d1l5-slides]|  |
-|    | [Elisa Sayrol][ES-web] | [DLCV2016] | [[Slides]][dlcv2016-backprop-slides]| | [[Video]][dlai2016-backprop-slides]|  |
+|    | [Elisa Sayrol][ES-web] | [DLCV2016] | [[Slides]][dlcv2016-backprop-slides]| | [[Video]][dlai2016-backprop-video]|  |
 | Optimizations     | | | | |
 |                | [Verónica Vilaplana][VV-web] | [IDL2018] | [Slides][idl2018-d2l2-slides] |  |
 |                | [Verónica Vilaplana][VV-web] | [DLAI2017] | [Slides][dlai2017-d4l1-slides] |  |
@@ -137,5 +139,6 @@
 
 [dlai2018-d01l2-slides]: https://www.slideshare.net/xavigiro/the-perceptron-xavier-giroinieto-upc-barcelona-2018
 [dlai2018-d01l2-video]: https://www.youtube.com/watch?v=cshjMqYJrTo
-
+[dlai2018-d02l1-slides]: https://www.slideshare.net/xavigiro/multilayer-perceptron-elisa-sayrol-upc-barcelona-2018
+[dlai2018-d02l2-slides]: https://www.slideshare.net/xavigiro/backpropagation-elisa-sayrol-upc-barcelona-2018
 
