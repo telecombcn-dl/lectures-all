@@ -39,10 +39,10 @@
 | Lecture          | Instructor                 | Course                 | Slides                    | Video             |
 | -------------- |  --------------------------- | ---------------------- | :-----------------------: | :---------------: |
 | Perceptron     | | | | |
+|      | [Xavier Giro-i-Nieto][XG-web] | [DLAI2018] | [Slides][dlai2018-d01l2-slides]  | [Video][dlai2018-d01l2-video] |
 |      | [Antonio Bonafonte][AB-web] | [IDL2018] | [Slides][idl2018-d1l3-slides] |  |
 |      | [Xavier Giro-i-Nieto][XG-web] | [DLAI2017] | [Slides][dlai2017-d1l2-slides] | [Video][dlai2017-d1l2-video]  | 
 |      | [Kevin McGuinness][KM-web] | [DLCV2017] | [Slides][dlcv2017-d1l2-slides]  |  |
-|      | [Xavier Giro-i-Nieto][XG-web] | [DLAI2018] | [Slides][dlai2018-d01l2-slides]  |  |
 | Multi-layer Perceptron     | | | | |
 |      | [Elisa Sayrol][ES-web] | [IDL2018] | [Slides][idl2018-d1l4-slides] |       | 
 |      | [Elisa Sayrol][ES-web] | [DLAI2017] | [[Slides]][dlai2017-d2l1-slides] | [[Video]][dlai2017-d2l1-video]      | 
@@ -136,5 +136,6 @@
 [dlcv2018-d1l2-video]: https://youtu.be/P47KJJ4wbyo
 
 [dlai2018-d01l2-slides]: https://www.slideshare.net/xavigiro/the-perceptron-xavier-giroinieto-upc-barcelona-2018
+[dlai2018-d01l2-video]: https://www.youtube.com/watch?v=cshjMqYJrTo
 
 
