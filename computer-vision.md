@@ -55,16 +55,16 @@
 | Instance Segmentation  | | | | |
 |                | [Miriam Bellver][MB-web] | [DLCV 2018][dlcv2018] | [Slides][dlcv2018-d2l4-slides]  | [Video][dlcv2018-d2l4-video]   |
 | Video Analysis  | | | | |
-|   | [Victor Campos][VC-web] | [DLCV2018] | [Slides][dlcv2018-d3l12-slides]  |   |
+|   | [Victor Campos][VC-web] | [DLCV2018] | [Slides][dlcv2018-d3l12-slides]  |  [Video][dlcv2018-d3l12-video] |
 |   | [Xavier Giro-i-Nieto][XG-web]| [MCV2018] | [Slides][mcv2018-action-class]  |  |
 |   | [Xavier Giro-i-Nieto][XG-web]| [DLCV2017] | [Slides][dlcv2017-d4l2-slides]  |  | 
-|   | [Xavier Giro-i-Nieto][XG-web]| [DLCV2016] | [Slides][dlcv2016-video-slides]  | [Slides][dlcv2016-video-video] | 
+|   | [Xavier Giro-i-Nieto][XG-web]| [DLCV2016] | [Slides][dlcv2016-video-slides]  | [Video][dlcv2016-video-video] | 
 | Activity Detection  | | | | |
 |   | [Xavier Giro-i-Nieto][XG-web]| [MCV2018] | [Slides][mcv2018-action-detect]  |  |
 | Video Segmentation  | | | | |
 |   | [Laura-Leal Taixé][LL-web]| [DLCV 2018][dlcv2018] | [Slides][dlcv2018-D1l6-slides]  | [Slides][dlcv2018-D1l6-video] |
 | Video Object Tracking  | | | | |
-|   | [Laura-Leal Taixé][LL-web]| [DLCV2018] | [[Slides]][dlcv2018-D3l3-slides]  | [[Video]][dlcv2018-D3l3-video]  |
+|   | [Laura-Leal Taixé][LL-web]| [DLCV2018] | [[Slides]][dlcv2018-D3l3-slides]  | [Video][dlcv2018-D3l3-video]  |
 |   | [Xavier Giro-i-Nieto][XG-web]| [MCV2018] | [Slides][mcv2018-object-track]  |  |
 | Video Object Detection  | | | | |
 |   | [Xavier Giro-i-Nieto][XG-web]| [MCV2018] | [Slides][mcv2018-object-detect]  |  |
@@ -139,6 +139,7 @@
 [dlcv2018-d2l6-slides]: https://www.slideshare.net/xavigiro/medical-imaging-at-dcu-kevin-mcguinness-upc-barcelona-2018
 [dlcv2018-d2l6-video]: https://youtu.be/VdmY90YKLTI
 [dlcv2018-d3l12-slides]: https://www.slideshare.net/xavigiro/deep-video-analysis-vctor-campos-upc-barcelona-2018
+[dlcv2018-d3l12-video]: https://youtu.be/dY7j5dBqS5g
 [dlcv2018-d3l3-slides]: https://www.slideshare.net/xavigiro/multiple-object-tracking-laura-lealtaixe-upc-barcelona-2018
 [dlcv2018-d3l3-video]: https://youtu.be/NQXRb3ViRuQ 
 [dlcv2018-d3l4-slides]: https://www.slideshare.net/xavigiro/interpretability-of-convolutional-neural-networks-eva-mohedano-upc-barcelona-2018
