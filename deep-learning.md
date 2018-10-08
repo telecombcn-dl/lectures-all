@@ -49,10 +49,11 @@
 |      | [Elisa Sayrol][ES-web] | [DLAI2017] | [Slides][dlai2017-d2l1-slides] | [Video][dlai2017-d2l1-video]      | 
 |      | [Xavier Giro-i-Nieto][XG-web] | [DLCV2016] | [Slides][dlcv2016-deep-slides] |   | 
 | Backpropagation     | | | | |
-|    | [Elisa Sayrol][ES-web] | [IDL2018] | [Slides][dlai2018-d02l2-slides] |       | 
+|    | [Elisa Sayrol][ES-web] | [DLAI2018] | [Slides][dlai2018-d02l2-slides] |       | 
 |    | [Elisa Sayrol][ES-web] | [IDL2018] | [Slides][idl2018-d2l1-slides] |       | 
 |    | [Elisa Sayrol][ES-web] | [DLAI2017] | [Slides][dlai2017-d3l1-slides]| [Video][dlai2017-d3l1-video] |
 |    | [Elisa Sayrol][ES-web] | [DLCV2017] | [Slides][dlcv2017-d1l5-slides]|  |
+|    | [Elisa Sayrol][ES-web] | [DLSL2017] |    | [Video][dlsl2017-backprop-video] |
 |    | [Elisa Sayrol][ES-web] | [DLCV2016] | [Slides][dlcv2016-backprop-slides]| | [[Video]][dlcv2016-backprop-video]|  |
 | Optimizations     | | | | |
 |                | [Verónica Vilaplana][VV-web] | [IDL2018] | [Slides][idl2018-d2l2-slides] |  |
@@ -94,6 +95,8 @@
 [dlcv2016-rnn-video]: https://www.youtube.com/watch?v=fQuv90i3Dlg
 [dlcv2016-attention-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-attention-models-upc-2016
 [dlcv2016-attention-video]: https://www.youtube.com/watch?v=omHLeV1aicw
+
+[dlsl2017-backprop-video]: https://www.youtube.com/watch?v=uub_hqDlqjc
 
 [dlcv2017-d1l2-slides]: https://www.slideshare.net/xavigiro/perceptrons-d1l2-2017-upc-deep-learning-for-computer-vision
 [dlcv2017-d1l3-slides]: https://www.slideshare.net/xavigiro/convolutional-neural-networks-d1l3-2017-upc-deep-learning-for-computer-vision
