@@ -25,7 +25,7 @@ We have grouped our lectures in the following tracks:
 * [Computer Vision with DNN](computer-vision.md)
 * [Natural Language Processing with DNN](nlp.md)
 * [Speech Processing with DNN](speech.md)
-* [Cross-modal Learning with DNN](cross-modal.md)
+* [Multimodal Learning with DNN](cross-modal.md)
 * [Hands on DNN](hands-on)
 
 # Our study programs
