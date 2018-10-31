@@ -9,7 +9,7 @@
 [MCV2018]: https://mcv-m6-video.github.io/deepvideo-2018/
 
 
-## Cross-modal
+## Multimodal
 
 | Topic          | Lecturer                     | Course                 |                                 |              |
 | -------------- |  --------------------------- | ---------------------- | :-----------------------------: | :----------: |
