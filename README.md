@@ -33,6 +33,7 @@ We have grouped our lectures in the following tracks:
 * Introduction to Deep Learning. UPC TelecomBCN. [[2018]][IDL2018] [[2019]][IDL2019]
 * Deep Learning for Artificial Intelligence. UPC TelecomBCN. [[2017]][DLAI2017] [[2018]][DLAI2018]
 * Deep Learning for Computer Vision UPC TelecomBCN. [[2016]][DLCV2016] [[2017]][DLCV2017] [[2018]][DLCV2018] [[2019]][DLCV2019]
+* Deep Learning for Natual Language Processing. UPC TelecomBCN. [[2019]][DLNL2019] 
 * Deep Learning for Speech and Language UPC TelecomBCN. [[2017]][DLSL2017] [[2018]][DLSL2018]
 * Deep Learning for Video. Master in Computer Vision Barcelona. [[2018]][DLV2018]
 * Deep Learning for Multimedia. Insight Dublin City University 2017. [[2017]][DLMM2017] [[2018]][DLMM2018]
@@ -51,6 +52,7 @@ We have grouped our lectures in the following tracks:
 
 [DLSL2017]: https://telecombcn-dl.github.io/2017-dlsl/
 [DLSL2018]: https://telecombcn-dl.github.io/2018-dlsl/
+[DLNL2019]: https://sites.google.com/view/dlnlp2019/home
 
 [DLMM2017]: https://telecombcn-dl.github.io/dlmm-2017-dcu/
 [DLMM2018]: https://telecombcn-dl.github.io/2018-dlmm/
