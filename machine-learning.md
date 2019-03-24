@@ -64,6 +64,9 @@
 |     | [Xavier Giro-i-Nieto][XG-web] | [MCV2018] | [Slides][mcv2018-video-features] |  |
 |     | [Xavier Giro-i-Nieto][XG-web] | [DLCV2017] | [Slides][dlcv2017-d4l4-slides] |  |
 | Generative models     | | | | |
+|    | [Santiago Pascual][SP-web] | [DLAI 2018][dlai2018] (VAE) | [Slides][dlai2018-d07l1-slides] | [Video][dlai2018-d07l1-video] |
+|    | [Santiago Pascual][SP-web] | [DLAI 2018][dlai2018] (GAN) | [Slides][dlai2018-d09l1-slides] | [Video][dlai2018-d09l1-video] |
+|    | [Santiago Pascual][SP-web] | [DLAI 2018][dlai2018] (Flows) | [Slides][dlai2018-d09l2-slides] | [Video][dlai2018-d09l2-video] |
 |                | [Kevin McGuinness][KM-web]| [DLCV2018] | [Slides][dlcv2018-D4l3-slides]  |  [Video][dlcv2018-d4l3-video]  |
 |                | [Verónica Vilaplana][VV-web] | [IDL2018] | [Slides][idl2018-d4l3-slides] |  | 
 |    | [Santiago Pascual][SP-web] | [DLAI 2017][dlai2017] (I) | [Slides][dlai2017-d9l2-slides] | [Video][dlai2017-d9l2-video] |
@@ -112,5 +115,14 @@
 [dlcv2018-d3l6-video]: https://youtu.be/L4V-gdYYQcY
 [dlcv2018-D4L3-slides]: https://www.slideshare.net/xavigiro/deep-generative-models-kevin-mcguinness-upc-barcelona-2018
 [dlcv2018-d4l3-video]: https://youtu.be/p19sJjA-le0
+
+[dlai2018-d07l1-slides]: https://www.slideshare.net/xavigiro/variational-autoencoders-vae-santiago-pascual-upc-barcelona-2018
+[dlai2018-d07l1-video]: https://youtu.be/nSyj85PbhkI
+[dlai2018-d09l1-slides]: https://www.slideshare.net/xavigiro/generative-adversarial-networks-gan-santiago-pascual-upc-barcelona-2018
+[dlai2018-d09l1-video]: https://youtu.be/b3CI46RSOjU
+[dlai2018-d09l2-slides]: https://www.slideshare.net/xavigiro/pixelcnn-wavenet-normalizing-flows-santiago-pascual-upc-barcelona-2018
+[dlai2018-d09l2-video]: https://youtu.be/7XRpVKpbxq8
+
+
 
 
