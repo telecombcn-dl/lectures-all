@@ -11,6 +11,7 @@
 [MB-web]: https://imatge.upc.edu/web/people/miriam-bellver
 [VC-web]: https://imatge.upc.edu/web/people/victor-campos
 [EA-web]: https://www.insight-centre.org/users/eric-arazo-sanchez
+[SP-web]: https://scholar.google.es/citations?user=7cVOyh0AAAAJ&hl=ca
 
 [IDL2018]: https://telecombcn-dl.github.io/2018-idl/
 [IDL2019]: https://telecombcn-dl.github.io/2019-idl/
@@ -54,7 +55,9 @@
 |                | [Ramon Morros][RM-web] | [DLAI2017] | [Slides][dlai2017-d6l1-slides] |  |
 |                | [Ramon Morros][RM-web] | [DLCV2017] | [Slides][dlcv2017-d3l2-slides] |  |
 | Reinforcement learning     | | | | |
-|                | [[Xavier Giro-i-Nieto][XG-web] | [DLAI 2017][dlai2017] | [Slides][dlai2017-d7l2-slides] | [Video][dlai2017-d7l2-video]  |
+|                | [Xavier Giro-i-Nieto][XG-web] | [DLAI 2018][dlai2018] (PG) | [Slides][dlai2018-d11l1-slides] |   |
+|                | [Xavier Giro-i-Nieto][XG-web] | [DLAI 2018][dlai2018] (DQN) | [Slides][dlai2018-d05l2-slides] | [Video][dlai2018-d05l2-video]  |
+|                | [Xavier Giro-i-Nieto][XG-web] | [DLAI 2017][dlai2017] | [Slides][dlai2017-d7l2-slides] | [Video][dlai2017-d7l2-video]  |
 | Unsupervised learning     | | | | |
 |  | [Xavier Giro-i-Nieto][XG-web] | [DLAI2017] | [Slides][dlai2017-d9l1-slides] | [Video][dlai2017-d9l1-video] |
 |  | [Kevin McGuinness][KM-web]| [DLCV2017] | [Slides][dlcv2017-d2l6-slides] |  |
@@ -115,11 +118,15 @@
 [dlcv2018-D4L3-slides]: https://www.slideshare.net/xavigiro/deep-generative-models-kevin-mcguinness-upc-barcelona-2018
 [dlcv2018-d4l3-video]: https://youtu.be/p19sJjA-le0
 
+[dlai2018-d05l2-slides]: https://www.slideshare.net/xavigiro/deep-reinforcement-learning-mdp-dqn-xavier-giroinieto-upc-barcelona-2018
+[dlai2018-d05l2-video]: https://youtu.be/HBeevCctYXM
 [dlai2018-d07l1-slides]: https://www.slideshare.net/xavigiro/variational-autoencoders-vae-santiago-pascual-upc-barcelona-2018
 [dlai2018-d07l1-video]: https://youtu.be/nSyj85PbhkI
 [dlai2018-d09l1-slides]: https://www.slideshare.net/xavigiro/generative-adversarial-networks-gan-santiago-pascual-upc-barcelona-2018
 [dlai2018-d09l1-video]: https://youtu.be/b3CI46RSOjU
 [dlai2018-d09l2-slides]: https://www.slideshare.net/xavigiro/pixelcnn-wavenet-normalizing-flows-santiago-pascual-upc-barcelona-2018
+[dlai2018-d11l1-slides]: https://www.slideshare.net/xavigiro/reinforcement-learning-reloaded-xavier-girinieto-upc-barcelona-2018
+
 
 
 
