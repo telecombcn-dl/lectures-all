@@ -7,7 +7,6 @@
 [JR-web]: https://imatge.upc.edu/web/people/javier-ruiz-hidalgo
 [RM-web]: https://imatge.upc.edu/web/people/josep-ramon-morros
 [MC-web]: http://www.costa-jussa.com/
-[SP-web]: https://scholar.google.com/citations?user=7cVOyh0AAAAJ&hl=en
 [AB-web]: https://scholar.google.es/citations?user=C5AUXO4AAAAJ&hl=en
 [MB-web]: https://imatge.upc.edu/web/people/miriam-bellver
 [VC-web]: https://imatge.upc.edu/web/people/victor-campos
@@ -121,7 +120,6 @@
 [dlai2018-d09l1-slides]: https://www.slideshare.net/xavigiro/generative-adversarial-networks-gan-santiago-pascual-upc-barcelona-2018
 [dlai2018-d09l1-video]: https://youtu.be/b3CI46RSOjU
 [dlai2018-d09l2-slides]: https://www.slideshare.net/xavigiro/pixelcnn-wavenet-normalizing-flows-santiago-pascual-upc-barcelona-2018
-[dlai2018-d09l2-video]: https://youtu.be/7XRpVKpbxq8
 
 
 
