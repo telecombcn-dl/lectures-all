@@ -25,23 +25,30 @@ We have grouped our lectures in the following tracks:
 * [Computer Vision with DNN](computer-vision.md)
 * [Natural Language Processing with DNN](nlp.md)
 * [Speech Processing with DNN](speech.md)
-* [Multimodal Learning with DNN](cross-modal.md)
-* [Hands on DNN](hands-on)
+* [Multimodal Learning with DNN](multimodal.md)
+* [Hands on DNN](hands-on.md)
 
 # Our study programs
 
 * Introduction to Deep Learning. UPC TelecomBCN. [[2018]][IDL2018] [[2019]][IDL2019]
 * Deep Learning for Artificial Intelligence. UPC TelecomBCN. [[2017]][DLAI2017] [[2018]][DLAI2018]
+* Artificial Intelligence with Deep Learning. UPC School. [[2019]][AIDL2019]
 * Deep Learning for Computer Vision UPC TelecomBCN. [[2016]][DLCV2016] [[2017]][DLCV2017] [[2018]][DLCV2018] [[2019]][DLCV2019]
 * Deep Learning for Natual Language Processing. UPC TelecomBCN. [[2019]][DLNL2019] 
 * Deep Learning for Speech and Language UPC TelecomBCN. [[2017]][DLSL2017] [[2018]][DLSL2018]
-* Deep Learning for Video. Master in Computer Vision Barcelona. [[2018]][DLV2018]
+* Deep Learning for Video. Master in Computer Vision Barcelona. [[2018]][DLV2018] [[2019]][DLV2019]
 * Deep Learning for Multimedia. Insight Dublin City University 2017. [[2017]][DLMM2017] [[2018]][DLMM2018]
+* Multimodal Deep Learning. MMM, Thessaloniki, Grrece 2019.
 * Amaia Salvador and Santiago Pascual. ["Hands on Keras and TensorFlow"][Persontyle2017]. Persontyle 2017.
 * Santiago Pascual. ["RNN & GANs in PyTorch"][PyTorched2017]. UPC TelecomBCN 2017.
 
 [IDL2018]: https://telecombcn-dl.github.io/2018-idl/
 [IDL2019]: https://telecombcn-dl.github.io/2019-idl/
+
+[DLAI2017]: https://telecombcn-dl.github.io/2017-dlai/
+[DLAI2018]: https://telecombcn-dl.github.io/2018-dlai/
+
+[AIDL2019]: https://github.com/upcschool-ai/2019-spring/blob/master/README.md
 
 [DLCV2016]: http://imatge-upc.github.io/telecombcn-2016-dlcv/
 [DLCV2017]: https://telecombcn-dl.github.io/2017-dlcv/
@@ -49,6 +56,7 @@ We have grouped our lectures in the following tracks:
 [DLCV2019]: https://telecombcn-dl.github.io/2019-dlcv/
 
 [DLV2018]: https://mcv-m6-video.github.io/deepvideo-2018/
+[DLV2019]: https://mcv-m6-video.github.io/deepvideo-2018/
 
 [DLSL2017]: https://telecombcn-dl.github.io/2017-dlsl/
 [DLSL2018]: https://telecombcn-dl.github.io/2018-dlsl/
@@ -57,8 +65,7 @@ We have grouped our lectures in the following tracks:
 [DLMM2017]: https://telecombcn-dl.github.io/dlmm-2017-dcu/
 [DLMM2018]: https://telecombcn-dl.github.io/2018-dlmm/
 
-[DLAI2017]: https://telecombcn-dl.github.io/2017-dlai/
-[DLAI2018]: https://telecombcn-dl.github.io/2018-dlai/
+[MMM2019]: https://telecombcn-dl.github.io/2019-mmm-tutorial/
 
 [Persontyle2017]: https://github.com/telecombcn-dl/2017-persontyle
 [PyTorched2017]: https://github.com/santi-pdp/pytorch_tutorials
@@ -78,7 +85,8 @@ We have grouped our lectures in the following tracks:
 | Amaia Salvador        | UPC - MIT                 | [DLAI 2017][dlai2017]  | 
 | Joost van der Weijer  | CVC - UAB                 | [DLAI 2017][idl2018]  | 
 | Carlos Segura         | Telefonica R&D            | [DLSL 2018][dlsl2018]  |
-| Jordi Torres          | BSC                       | [IDL 2019][idl2019] |
+| Petia Radeva          | UB                        | [DLAI 2019][dlai2018] |
+| Xavier Gonzalvo        | Google AI                | [DLAI 2019][dlai2018] |
 
 # Our slides were used by...
 
