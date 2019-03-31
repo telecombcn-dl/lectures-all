@@ -30,15 +30,15 @@ We have grouped our lectures in the following tracks:
 
 # Our study programs
 
-* Introduction to Deep Learning. UPC TelecomBCN. [[2018]][IDL2018] [[2019]][IDL2019]
-* Deep Learning for Artificial Intelligence. UPC TelecomBCN. [[2017]][DLAI2017] [[2018]][DLAI2018]
-* Artificial Intelligence with Deep Learning. UPC School. [[2019]][AIDL2019]
-* Deep Learning for Computer Vision UPC TelecomBCN. [[2016]][DLCV2016] [[2017]][DLCV2017] [[2018]][DLCV2018] [[2019]][DLCV2019]
-* Deep Learning for Natual Language Processing. UPC TelecomBCN. [[2019]][DLNL2019] 
-* Deep Learning for Speech and Language UPC TelecomBCN. [[2017]][DLSL2017] [[2018]][DLSL2018]
-* Deep Learning for Video. Master in Computer Vision Barcelona. [[2018]][DLV2018] [[2019]][DLV2019]
-* Deep Learning for Multimedia. Insight Dublin City University 2017. [[2017]][DLMM2017] [[2018]][DLMM2018]
-* Multimodal Deep Learning. MMM, Thessaloniki, Grrece 2019.
+* IDL - Introduction to Deep Learning. UPC TelecomBCN. [[2018]][IDL2018] [[2019]][IDL2019]
+* DLAI - Deep Learning for Artificial Intelligence. UPC TelecomBCN. [[2017]][DLAI2017] [[2018]][DLAI2018]
+* AIDL - Artificial Intelligence with Deep Learning. UPC School. [[2019]][AIDL2019]
+* DLCV - Deep Learning for Computer Vision UPC TelecomBCN. [[2016]][DLCV2016] [[2017]][DLCV2017] [[2018]][DLCV2018] [[2019]][DLCV2019]
+* NLPDL - Natural Language Processing with Deep Learning. UPC TelecomBCN. [[2019]][DLNL2019] 
+* DLSL - Deep Learning for Speech and Language UPC TelecomBCN. [[2017]][DLSL2017] [[2018]][DLSL2018]
+* DLV - Deep Learning for Video. Master in Computer Vision Barcelona. [[2018]][DLV2018] [[2019]][DLV2019]
+* DLMM - Deep Learning for Multimedia. Insight Dublin City University 2017. [[2017]][DLMM2017] [[2018]][DLMM2018]
+* MMDL - Multimodal Deep Learning. MMM, Thessaloniki, Grrece 2019.
 * Amaia Salvador and Santiago Pascual. ["Hands on Keras and TensorFlow"][Persontyle2017]. Persontyle 2017.
 * Santiago Pascual. ["RNN & GANs in PyTorch"][PyTorched2017]. UPC TelecomBCN 2017.
 
