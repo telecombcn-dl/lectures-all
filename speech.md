@@ -43,8 +43,18 @@
 [dlsl2017-wavenet-slides]: http://www.slideshare.net/xavigiro/speech-synthesis-wavenet-d4l1-deep-learning-for-speech-and-language-upc-2017
 [dlsl2017-wavenet-video]: https://www.youtube.com/watch?v=enWBo9B6pXw
 
-
-
-
 [dlsl2017-music-slides]: https://github.com/telecombcn-dl/2017-dlsl/raw/master/DL4Music_Pons.pdf
 
+
+
+# Our lectures
+
+We have grouped our lectures in the following tracks:
+
+* [Deep Neural Networks](deep-learning.md)
+* [Machine Learning with DNN](machine-learning.md)
+* [Computer Vision with DNN](computer-vision.md)
+* [Natural Language Processing with DNN](nlp.md)
+* [Speech Processing with DNN](speech.md)
+* [Multimodal Learning with DNN](multimodal.md)
+* [Hands on DNN](hands-on.md)
