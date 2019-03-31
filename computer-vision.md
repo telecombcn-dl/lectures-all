@@ -73,27 +73,28 @@
 
 | Topic          | Lecturer                     | Course                 |                                 |              |
 | -------------- |  --------------------------- | ---------------------- | :-----------------------------: | :----------: |
-| Video Analysis  | | | | |
+| Video Architectures  | | | | |
 |   | [Xavier Giro-i-Nieto][XG-web] | [MCV2019][mcv2019] | [Slides][mcv2019-architectures-slides]  |  |
 |   | [Victor Campos][VC-web] | [DLCV2018] | [Slides][dlcv2018-d3l12-slides]  |  [Video][dlcv2018-d3l12-video] |
 |   | [Xavier Giro-i-Nieto][XG-web]| [MCV2018] | [Slides][mcv2018-action-class]  |  |
 |   | [Xavier Giro-i-Nieto][XG-web]| [DLCV2017] | [Slides][dlcv2017-d4l2-slides]  |  | 
 |   | [Xavier Giro-i-Nieto][XG-web]| [DLCV2016] | [Slides][dlcv2016-video-slides]  | [Video][dlcv2016-video-video] | 
-| Activity Detection  | | | | |
-|   | [Xavier Giro-i-Nieto][XG-web]| [MCV2018] | [Slides][mcv2018-action-detect]  |  |
-| Video Object Segmentation  | | | | |
+| Video Feature Learning  | | | | |
+|   | [Xavier Giro-i-Nieto][XG-web]| [MCV2018] | [Slides][mcv2019-self-slides]  | [Slides][mcv2019-self-video] |
+|   | [Xavier Giro-i-Nieto][XG-web]| [MCV2018] | [Slides][mcv2018-video-features]  |  |
+|  Object Segmentation  | | | | |
 |   | [Xavier Giro-i-Nieto][XG-web] | [MCV2019][mcv2019] | [Slides][mcv2019-vos-slides]  | [Video][mcv2019-vos-video] |
 |   | [Laura-Leal Taixé][LL-web]| [DLCV 2018][dlcv2018] | [Slides][dlcv2018-D1l6-slides]  | [Video][dlcv2018-D1l6-video] |
-| Video Object Tracking  | | | | |
+|  Object Tracking  | | | | |
 |   | [Laura-Leal Taixé][LL-web]| [DLCV2018] | [Slides][dlcv2018-D3l3-slides]  | [Video][dlcv2018-D3l3-video]  |
 |   | [Xavier Giro-i-Nieto][XG-web]| [MCV2018] | [Slides][mcv2018-object-track]  |  |
+| Activity Detection  | | | | |
+|   | [Xavier Giro-i-Nieto][XG-web]| [MCV2018] | [Slides][mcv2018-action-detect]  |  |
 | Video Object Detection  | | | | |
 |   | [Xavier Giro-i-Nieto][XG-web]| [MCV2018] | [Slides][mcv2018-object-detect]  |  |
 | Motion Estimation  | | | | |
 |   | [Xavier Giro-i-Nieto][XG-web]| [MCV2018] | [Slides][mcv2018-motion]  |  |
-| Video Feature Learning  | | | | |
-|   | [Xavier Giro-i-Nieto][XG-web]| [MCV2018] | [Slides][mcv2019-self-slides]  | [Slides][mcv2019-self-video] |
-|   | [Xavier Giro-i-Nieto][XG-web]| [MCV2018] | [Slides][mcv2018-video-features]  |  |
+
 | Visual Localization  | | | | |
 |   | [Laura-Leal Taixé][LL-web]| [DLCV2018] | [[Slides]][dlcv2018-D1l5-slides]  | [[Video]][dlcv2018-D1L5-video]   |
 
