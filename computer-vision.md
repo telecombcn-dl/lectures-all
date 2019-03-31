@@ -94,11 +94,8 @@
 |   | [Xavier Giro-i-Nieto][XG-web]| [MCV2018] | [Slides][mcv2018-object-detect]  |  |
 | Motion Estimation  | | | | |
 |   | [Xavier Giro-i-Nieto][XG-web]| [MCV2018] | [Slides][mcv2018-motion]  |  |
-
 | Visual Localization  | | | | |
 |   | [Laura-Leal Taixé][LL-web]| [DLCV2018] | [[Slides]][dlcv2018-D1l5-slides]  | [[Video]][dlcv2018-D1L5-video]   |
-
-
 
 [dlcv2016-visualization-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-visualization-upc-2016
 [dlcv2016-visualization-video]: https://youtu.be/YQvTxkPV8LQ
