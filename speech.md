@@ -55,7 +55,7 @@
 * Artificial Intelligence with Deep Learning. UPC School. [[2019]][AIDL2019]
 
 
-# Our lectures
+# Our tracks
 
 We have grouped our lectures in the following tracks:
 
