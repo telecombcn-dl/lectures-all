@@ -16,7 +16,7 @@ Central repository for all lectures on deep learning at [UPC ETSETB TelecomBCN](
 [AS-web]: https://imatge.upc.edu/web/people/amaia-salvador
 
 
-# Our lectures
+# Our tracks
 
 We have grouped our lectures in the following tracks:
 
