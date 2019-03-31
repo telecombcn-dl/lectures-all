@@ -8,6 +8,9 @@
 [DLSL2017]: https://telecombcn-dl.github.io/2017-dlsl/
 [DLSL2018]: https://telecombcn-dl.github.io/2018-dlsl/
 
+[AIDL2019]: https://github.com/upcschool-ai/2019-spring/blob/master/README.md
+
+
 ## Speech & Audio Processing
 
 | Lecture          | Instructor                 | Course                 | Slides                    | Video             |
@@ -45,6 +48,11 @@
 
 [dlsl2017-music-slides]: https://github.com/telecombcn-dl/2017-dlsl/raw/master/DL4Music_Pons.pdf
 
+
+# Related Courses
+
+* Deep Learning for Speech and Language UPC TelecomBCN. [[2017]][DLSL2017] [[2018]][DLSL2018]
+* Artificial Intelligence with Deep Learning. UPC School. [[2019]][AIDL2019]
 
 
 # Our lectures
