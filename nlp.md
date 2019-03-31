@@ -47,10 +47,20 @@
 [dlsl2017-nmt2-video]: https://www.youtube.com/watch?v=Y70PMNxov-0
 
 
-
-
 # Our courses
 
 * Deep Learning for Natual Language Processing. UPC TelecomBCN. [[2019]][DLNL2019] 
 * Deep Learning for Speech and Language UPC TelecomBCN. [[2017]][DLSL2017] [[2018]][DLSL2018]
 * Artificial Intelligence with Deep Learning. UPC School. [[2019]][AIDL2019]
+
+# Our tracks
+
+We have grouped our lectures in the following tracks:
+
+* [Deep Neural Networks](deep-learning.md)
+* [Machine Learning with DNN](machine-learning.md)
+* [Computer Vision with DNN](computer-vision.md)
+* [Natural Language Processing with DNN](nlp.md)
+* [Speech Processing with DNN](speech.md)
+* [Multimodal Learning with DNN](multimodal.md)
+* [Hands on DNN](hands-on.md)
