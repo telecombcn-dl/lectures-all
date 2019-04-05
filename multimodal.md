@@ -7,6 +7,7 @@
 [DLCV2019]: https://telecombcn-dl.github.io/2019-dlcv/
 
 [MCV2018]: https://mcv-m6-video.github.io/deepvideo-2018/
+[MCV2019]: https://mcv-m6-video.github.io/deepvideo-2019/
 
 [MMM2019]: https://telecombcn-dl.github.io/2019-mmm-tutorial/
 
@@ -18,11 +19,12 @@
 | Vision, Audio & Language  | | | | |
 |   | [Xavier Giro-i-Nieto][XG-web]| [MMM2019] | [Slides][DLCV2018-D4L4-slides]    |     |
 | Language and Vision  | | | | |
-|   | [Xavier Giro-i-Nieto][XG-web]| [DLCV2018] | [Slides][DLCV2018-D4L4-slides]    | [Video][dlcv2018-d4l4-video]    |
+|   | [Xavier Giro-i-Nieto][XG-web]| [DLCV2018] | [Slides][mcv2019-audiovisual-slides]    | [Video][dlcv2018-d4l4-video]    |
 |   | [Xavier Giro-i-Nieto][XG-web]| [MCV2018]  | [Slides][mcv2018-video-language]  |     |
 |   | [Xavier Giro-i-Nieto][XG-web]| [DLCV2017] | [Slides][DLCV2017-d3l5-slides]    |    |
 |   | [Xavier Giro-i-Nieto][XG-web]| [DLCV2016] | [Slides][dlcv2016-language-slides]  | [Video][dlcv2016-language-video]   |
 | Audio and Vision  | | | | |
+|         | [Xavier Giro-i-Nieto][XG-web]| [MCV2019] | [[Slides]][dlcv2017-d4l6-slides]  | [[Video]][mcv2019-audiovisual-video] |
 |         | [Eva Mohedano][EM-web] | [DLCV2018] | [[Slides]][dlcv2018-d4l5-slides]  | [[Video]][dlcv2018-D4L5-video] |
 |         | [Xavier Giro-i-Nieto][XG-web]| [DLCV2017] | [[Slides]][dlcv2017-d4l6-slides]  | [[Video]][dlcv2017-d4l6-video] |
 | Speech and Vision  | | | | |
@@ -45,6 +47,9 @@
 [dlcv2018-d4l5-video]: https://youtu.be/1ci2l7TTbtA
 [dlcv2018-D4L6-slides]: https://www.slideshare.net/xavigiro/deep-speech-and-vision-xavier-giroinieto-upc-barcelona-2018
 [dlcv2018-D4l6-video]: https://youtu.be/QvxKCQddTVE
+
+[mcv2019-audiovisual-slides]: https://www.slideshare.net/xavigiro/selfsupervised-audiovisual-learning-xavier-giro-upc-barcelona-2019
+[mcv2019-audiovisual-video]: https://youtu.be/J2NnOVBdvAw
 
 # Our tracks
 
