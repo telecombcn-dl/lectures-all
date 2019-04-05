@@ -86,7 +86,7 @@
 |   | [Xavier Giro-i-Nieto][XG-web] | [MCV2019][mcv2019] | [Slides][mcv2019-vos-slides]  | [Video][mcv2019-vos-video] |
 |   | [Laura-Leal Taixé][LL-web]| [DLCV 2018][dlcv2018] | [Slides][dlcv2018-D1l6-slides]  | [Video][dlcv2018-D1l6-video] |
 |  Object Tracking  | | | | |
-|   | [Xavier Giro-i-Nieto][XG-web]| [MCV2019] | [Slides][mcv2019-object-track]  |  |
+|   | [Xavier Giro-i-Nieto][XG-web]| [MCV2019] | [Slides][mcv2019-track-slides]  | [Video][mcv2019-track-video] |
 |   | [Laura-Leal Taixé][LL-web]   | [DLCV2018] | [Slides][dlcv2018-D3l3-slides]  | [Video][dlcv2018-D3l3-video]  |
 |   | [Xavier Giro-i-Nieto][XG-web]| [MCV2018] | [Slides][mcv2018-object-track]  |  |
 | Activity Detection  | | | | |
@@ -175,8 +175,8 @@
 [mcv2019-self-video]: https://youtu.be/5vAStAKszhk
 [mcv2019-vos-slides]: https://www.slideshare.net/xavigiro/deep-video-object-segmentation-xavier-giroinieto-upc-2019
 [mcv2019-vos-video]: https://youtu.be/yDsBZXLCObM
-[mcv2019-object-track]: https://www.slideshare.net/xavigiro/deep-video-object-tracking-xavier-giro-upc-barcelona-2019
-
+[mcv2019-track-slides]: https://www.slideshare.net/xavigiro/deep-video-object-tracking-xavier-giro-upc-barcelona-2019
+[mcv2019-track-video]: https://youtu.be/CYW6T2Q24z0
 
 
 
