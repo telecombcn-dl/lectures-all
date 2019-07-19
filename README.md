@@ -31,7 +31,7 @@ We have grouped our lectures in the following tracks:
 # Our study programs
 
 * IDL - Introduction to Deep Learning. UPC TelecomBCN. [[2018]][IDL2018] [[2019]][IDL2019]
-* DLAI - Deep Learning for Artificial Intelligence. UPC TelecomBCN. [[2017]][DLAI2017] [[2018]][DLAI2018]
+* DLAI - Deep Learning for Artificial Intelligence. UPC TelecomBCN. [[2017]][DLAI2017] [[2018]][DLAI2018] [[2019]][DLAI2019]
 * AIDL - Artificial Intelligence with Deep Learning. UPC School. [[2019]][AIDL2019]
 * DLCV - Deep Learning for Computer Vision UPC TelecomBCN. [[2016]][DLCV2016] [[2017]][DLCV2017] [[2018]][DLCV2018] [[2019]][DLCV2019]
 * NLPDL - Natural Language Processing with Deep Learning. UPC TelecomBCN. [[2019]][DLNL2019] 
@@ -47,6 +47,7 @@ We have grouped our lectures in the following tracks:
 
 [DLAI2017]: https://telecombcn-dl.github.io/2017-dlai/
 [DLAI2018]: https://telecombcn-dl.github.io/2018-dlai/
+[DLAI2019]: https://telecombcn-dl.github.io/dlai-2019/
 
 [AIDL2019]: https://github.com/upcschool-ai/2019-spring/blob/master/README.md
 
