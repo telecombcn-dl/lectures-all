@@ -47,7 +47,8 @@
 |                | [Javier Ruiz][JR-web] | [DLAI2017] | [Slides][dlai2017-d6l2-slides] |  | 
 | Data augmentation     | | | | |
 |                | [Eva Mohedano][EM-web] | [DLCV2016] | [Slides][dlcv2016-augmentation-slides] |  | 
-|  Transfer learning     | [Ramon Morros][RM-web] | [DLAI2019] | [Slides][dlai2019-d09l1-slides] |   | 
+|  Transfer learning     |  | |  |   | 
+|    | [Ramon Morros][RM-web] | [DLAI2019] | [Slides][dlai2019-d09l1-slides] |   | 
 |       |                        | [DLAI2018] | [Slides][dlai2018-d05l1-slides] | [Video][dlai2018-d05l1-video]  | 
 |       |                        | [IDL2018] | [Slides][idl2018-d3l2-slides] |   | 
 |       |                        | [DLAI2017] | [Slides][dlai2017-d5l2-slides] |   | 
