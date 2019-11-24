@@ -31,6 +31,7 @@
 
 [DLAI2017]: https://telecombcn-dl.github.io/2017-dlai/
 [DLAI2018]: https://telecombcn-dl.github.io/2018-dlai/
+[DLAI2019]: https://telecombcn-dl.github.io/dlai-2019/
 
 [MCV2018]: https://mcv-m6-video.github.io/deepvideo-2018/
 
@@ -46,9 +47,10 @@
 |                | [Javier Ruiz][JR-web] | [DLAI2017] | [Slides][dlai2017-d6l2-slides] |  | 
 | Data augmentation     | | | | |
 |                | [Eva Mohedano][EM-web] | [DLCV2016] | [Slides][dlcv2016-augmentation-slides] |  | 
-| Transfer learning     | | | | |
-|       | [Ramon Morros][RM-web] | [IDL2018] | [Slides][idl2018-d3l2-slides] |   | 
-|       | [Ramon Morros][RM-web] | [DLAI2017] | [Slides][dlai2017-d5l2-slides] |   | 
+|  Transfer learning     | [Ramon Morros][RM-web] | [DLAI2019] | [Slides][dlai2019-d09l1-slides] |   | 
+|       |                        | [DLAI2018] | [Slides][dlai2018-d05l1-slides] | [Video][dlai2018-d05l1-video]  | 
+|       |                        | [IDL2018] | [Slides][idl2018-d3l2-slides] |   | 
+|       |                        | [DLAI2017] | [Slides][dlai2017-d5l2-slides] |   | 
 |       | [Eric Arazo][EA-web] | [DLCV2017] | [Slides][dlcv2017-d2l3-slides] |   | 
 |       | [Kevin McGuinness][KM-web]| [DLCV2016] | [Slides][dlcv2016-transfer-slides] | [Video][dlcv2016-transfer-video] |
 | Incremental learning     | | | | |
@@ -109,6 +111,14 @@
 [dlai2017-d10l1-slides]: https://www.slideshare.net/xavigiro/deep-generative-models-ii-dlai-d10l1-2017-upc-deep-learning-for-artificial-intelligence
 [dlai2017-d10l1-video]: https://www.youtube.com/watch?v=a1aM0yUJXUI
 [mcv2018-video-language]: https://www.slideshare.net/xavigiro/deep-learning-for-video-language-upc-2018
+
+
+[dlai2018-d05l1-slides]: https://www.slideshare.net/xavigiro/transfer-learning-and-domain-adaptation-ramon-morros-upc-2018
+[dlai2018-d05l1-video]: https://youtu.be/ik_Up56bWLE
+
+[dlai2019-d09l1-slides]: https://github.com/telecombcn-dl/dlai-2019/raw/master/slides/dlai_2019_d09l1_transfer.pdf
+
+
 
 [mcv2018-video-features]: https://www.slideshare.net/xavigiro/deep-learning-from-videos-upc-2018
 
