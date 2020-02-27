@@ -179,7 +179,7 @@
 [mcv2019-track-slides]: https://www.slideshare.net/xavigiro/deep-video-object-tracking-xavier-giro-upc-barcelona-2019
 [mcv2019-track-video]: https://youtu.be/CYW6T2Q24z0
 
-[dlcv2019-d1l5-video]: https://youtu.be/st-7jgh_BXk
+[dlcv2019-d1l5-video]: https://youtu.be/XpvLRawGP7Y
 
 
 
