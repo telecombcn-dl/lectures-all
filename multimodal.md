@@ -16,7 +16,8 @@
 
 | Topic          | Lecturer                     | Course                 |                                 |              |
 | -------------- |  --------------------------- | ---------------------- | :-----------------------------: | :----------: |
-| Vision, Audio & Language  | | | | |
+| Language and Vision  | | | | |
+|   | [Xavier Giro-i-Nieto][XG-web]| [DLCV2019] |   |  [Video][dlcv2019-d4l4-video]   |
 |   | [Xavier Giro-i-Nieto][XG-web]| [MMM2019] | [Slides][DLCV2018-D4L4-slides]    |     |
 | Language and Vision  | | | | |
 |   | [Xavier Giro-i-Nieto][XG-web]| [DLCV2018] | [Slides][mcv2019-audiovisual-slides]    | [Video][dlcv2018-d4l4-video]    |
@@ -50,6 +51,8 @@
 
 [mcv2019-audiovisual-slides]: https://www.slideshare.net/xavigiro/selfsupervised-audiovisual-learning-xavier-giro-upc-barcelona-2019
 [mcv2019-audiovisual-video]: https://youtu.be/J2NnOVBdvAw
+
+[dlcv2019-d4l4-video]: https://youtu.be/6XXHe_ySDgk
 
 # Our tracks
 
