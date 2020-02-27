@@ -34,6 +34,8 @@
 [DLAI2017]: https://telecombcn-dl.github.io/2017-dlai/
 [DLAI2018]: https://telecombcn-dl.github.io/2018-dlai/
 
+[MCV]: http://pagines.uab.cat/mcv/
+
 # Deep Neural Networks
 
 | Lecture          | Instructor                 | Course                 | Slides                    | Video             |
@@ -69,6 +71,7 @@
 |                | [Verónica Vilaplana][VV-web]  | [DLAI2017] | [Slideshare][dlai2017-d5l1-slides] |  |
 |                | [Elisa Sayrol][ES-web]  | [DLCV2017] | [Slideshare][dlcv2016-training-slides] |  |
 | RNN     | | | | |
+|      | [Xavier Giro-i-Nieto][XG-web]  | [MCV] |  | [Video][mcv2020-rnn-video] |
 |      | [Marta R. Costa-jussà][MC-web]  | [IDL2018] | [Slides (I)][idl2018-d3l3-slides] |  |
 |      | [Marta R. Costa-jussà][MC-web]  | [IDL2018] | [Slides (II)][idl2018-d3l4-slides] |  |
 |      | [Marta R. Costa-jussà][MC-web]  | [DLAI2017] | [Slides][dlai2017-d7l1-slides] |  [Video][dlai2017-d7l1-video] |
@@ -145,4 +148,7 @@
 [dlai2018-d01l2-video]: https://www.youtube.com/watch?v=cshjMqYJrTo
 [dlai2018-d02l1-slides]: https://www.slideshare.net/xavigiro/multilayer-perceptron-elisa-sayrol-upc-barcelona-2018
 [dlai2018-d02l2-slides]: https://www.slideshare.net/xavigiro/backpropagation-elisa-sayrol-upc-barcelona-2018
+
+[mcv2020-rnn-video]: https://youtu.be/C0je4a2XWdo
+
 
