@@ -71,7 +71,7 @@
 |                | [Verónica Vilaplana][VV-web]  | [DLAI2017] | [Slideshare][dlai2017-d5l1-slides] |  |
 |                | [Elisa Sayrol][ES-web]  | [DLCV2017] | [Slideshare][dlcv2016-training-slides] |  |
 | RNN     | | | | |
-|      | [Xavier Giro-i-Nieto][XG-web]  | [MCV2020] | [Slides][mcv2020-rnn-slides] | [Video][mcv2020-rnn-video] |
+|      | [Xavier Giro-i-Nieto][XG-web]  | [MCV]2020 | [Slides][mcv2020-rnn-slides] | [Video][mcv2020-rnn-video] |
 |      | [Marta R. Costa-jussà][MC-web]  | [IDL2018] | [Slides (I)][idl2018-d3l3-slides] |  |
 |      | [Marta R. Costa-jussà][MC-web]  | [IDL2018] | [Slides (II)][idl2018-d3l4-slides] |  |
 |      | [Marta R. Costa-jussà][MC-web]  | [DLAI2017] | [Slides][dlai2017-d7l1-slides] |  [Video][dlai2017-d7l1-video] |
