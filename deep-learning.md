@@ -76,6 +76,7 @@
 |      | [Marta R. Costa-jussà][MC-web]  | [IDL2018] | [Slides (II)][idl2018-d3l4-slides] |  |
 |      | [Marta R. Costa-jussà][MC-web]  | [DLAI2017] | [Slides][dlai2017-d7l1-slides] |  [Video][dlai2017-d7l1-video] |
 |      | [Xavier Giro-i-Nieto][XG-web] | [DLCV2017] | [Slides][dlcv2017-d2l2-slides] |  | 
+|      | [Santiago Pascual][SP-web] | [DLSL2017] |  | [Video][dlsl2017-rnn-video] | 
 |      | [Xavier Giro-i-Nieto][XG-web] | [DLCV2016] | [Slides][dlcv2016-rnn-slides] | [Video][dlcv2016-rnn-slides] | 
 | Attention     | | | | |
 |     | [Marta R. Costa-jussà][MC-web] | [IDL2018] | [Slides][idl2018-d4l1-slides] | [Video][idl2018-d4l1-video]  |
@@ -148,6 +149,8 @@
 [dlai2018-d01l2-video]: https://www.youtube.com/watch?v=cshjMqYJrTo
 [dlai2018-d02l1-slides]: https://www.slideshare.net/xavigiro/multilayer-perceptron-elisa-sayrol-upc-barcelona-2018
 [dlai2018-d02l2-slides]: https://www.slideshare.net/xavigiro/backpropagation-elisa-sayrol-upc-barcelona-2018
+
+[dlsl2017-rnn-video]: https://www.youtube.com/watch?v=nVY3RyYYfH8
 
 [mcv2020-rnn-slides]: https://www.slideshare.net/xavigiro/recurrent-neural-networks-rnn-xavier-giro-upc-telecombcn-barcelona-2020
 [mcv2020-rnn-video]: https://youtu.be/C0je4a2XWdo
