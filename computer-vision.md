@@ -74,8 +74,9 @@
 | Topic          | Lecturer                     | Course                 |                                 |              |
 | -------------- |  --------------------------- | ---------------------- | :-----------------------------: | :----------: |
 | Video Architectures  | | | | |
+|   | [Xavier Giro-i-Nieto][XG-web] | [DLCV2019][dlcv2019] |   |  [Video][dlcv2019-d1l5-video] |
 |   | [Xavier Giro-i-Nieto][XG-web] | [MCV2019][mcv2019] | [Slides][mcv2019-architectures-slides]  |  |
-|   | [Victor Campos][VC-web] | [DLCV2018] | [Slides][dlcv2018-d3l12-slides]  |  [Video][dlcv2018-d3l12-video] |
+|   | [Victor Campos][VC-web]     | [DLCV2018] | [Slides][dlcv2018-d3l12-slides]  |  [Video][dlcv2018-d3l12-video] |
 |   | [Xavier Giro-i-Nieto][XG-web]| [MCV2018] | [Slides][mcv2018-action-class]  |  |
 |   | [Xavier Giro-i-Nieto][XG-web]| [DLCV2017] | [Slides][dlcv2017-d4l2-slides]  |  | 
 |   | [Xavier Giro-i-Nieto][XG-web]| [DLCV2016] | [Slides][dlcv2016-video-slides]  | [Video][dlcv2016-video-video] | 
@@ -177,6 +178,8 @@
 [mcv2019-vos-video]: https://youtu.be/yDsBZXLCObM
 [mcv2019-track-slides]: https://www.slideshare.net/xavigiro/deep-video-object-tracking-xavier-giro-upc-barcelona-2019
 [mcv2019-track-video]: https://youtu.be/CYW6T2Q24z0
+
+[dlcv2019-d1l5-video]: https://youtu.be/st-7jgh_BXk
 
 
 
