@@ -20,6 +20,7 @@
 
 [MCV2018]: https://mcv-m6-video.github.io/deepvideo-2018/
 [MCV2019]: https://mcv-m6-video.github.io/deepvideo-2019/
+[MCV2020]: https://mcv-m6-video.github.io/deepvideo-2020/
 
 # Computer Vision
 
@@ -74,6 +75,7 @@
 | Topic          | Lecturer                     | Course                 |                                 |              |
 | -------------- |  --------------------------- | ---------------------- | :-----------------------------: | :----------: |
 | Video Architectures  | | | | |
+|   | [Xavier Giro-i-Nieto][XG-web] | [MCV2020][mcv2020] | [Slides][mcv2020-architectures-slides] |  [Video][mcv2020-architectures-video] |
 |   | [Xavier Giro-i-Nieto][XG-web] | [DLCV2019][dlcv2019] |   |  [Video][dlcv2019-d1l5-video] |
 |   | [Xavier Giro-i-Nieto][XG-web] | [MCV2019][mcv2019] | [Slides][mcv2019-architectures-slides]  |  |
 |   | [Victor Campos][VC-web]     | [DLCV2018] | [Slides][dlcv2018-d3l12-slides]  |  [Video][dlcv2018-d3l12-video] |
@@ -180,6 +182,9 @@
 [mcv2019-track-video]: https://youtu.be/CYW6T2Q24z0
 
 [dlcv2019-d1l5-video]: https://youtu.be/XpvLRawGP7Y
+
+[mcv2020-architectures-slides]: https://www.slideshare.net/xavigiro/neural-architectures-for-video-encoding
+[mcv2020-architectures-video]: https://youtu.be/uddedoDHGis
 
 
 
