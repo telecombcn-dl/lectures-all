@@ -41,6 +41,7 @@
 |       | [Kevin McGuinness][KM-web]| [DLCV2017] | [Slides][dlcv2017-d4l3-slides]  | [Video][dlcv2017-d4l3-video]    |
 |       | [Elisa Sayrol][ES-web] | [DLCV2016] | [Slides][dlcv2016-saliency-slides]  |   |
 | Object Detection  | | | | |
+|       | [Andreu Girbau][AG-web] | [DLCV2019] |                                 | [Video][dlcv2019-d1l3-video]  |
 |       | [Miriam Bellver][MB-web] | [DLCV2018] | [Slides][dlcv2018-d2l1-slides]  | [Video][dlcv2018-d2l1-video]  |
 |       | [Amaia Salvador][AS-web] | [DLCV2017] | [Slides][dlcv2017-d2l4-slides]  |  [Video][dlcv2017-d2l4-video]  |
 |       | [Amaia Salvador][AS-web] | [DLCV2016] | [Slides][dlcv2016-object-slides]  |  [Video][dlcv2016-object-video]  |
@@ -181,6 +182,7 @@
 [mcv2019-track-slides]: https://www.slideshare.net/xavigiro/deep-video-object-tracking-xavier-giro-upc-barcelona-2019
 [mcv2019-track-video]: https://youtu.be/CYW6T2Q24z0
 
+[dlcv2019-d1l3-video]: https://www.youtube.com/watch?v=fwl4sflxnpc
 [dlcv2019-d1l5-video]: https://youtu.be/XpvLRawGP7Y
 
 [mcv2020-architectures-slides]: https://www.slideshare.net/xavigiro/neural-architectures-for-video-encoding
