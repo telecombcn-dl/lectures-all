@@ -12,6 +12,7 @@
 [MB-web]: https://imatge.upc.edu/web/people/miriam-bellver
 [VC-web]: https://imatge.upc.edu/web/people/victor-campos
 [ER-web]: https://imatge.upc.edu/web/people/eduard-ramon
+[AG-web]: https://imatge.upc.edu/web/people/andreu-girbau
 
 [DLCV2016]: http://imatge-upc.github.io/telecombcn-2016-dlcv/
 [DLCV2017]: https://telecombcn-dl.github.io/2017-dlcv/
