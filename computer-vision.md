@@ -91,6 +91,7 @@
 |   | [Xavier Giro-i-Nieto][XG-web] | [MCV2019][mcv2019] | [Slides][mcv2019-vos-slides]  | [Video][mcv2019-vos-video] |
 |   | [Laura-Leal Taixé][LL-web]| [DLCV 2018][dlcv2018] | [Slides][dlcv2018-D1l6-slides]  | [Video][dlcv2018-D1l6-video] |
 |  Object Tracking  | | | | |
+|   | [Xavier Giro-i-Nieto][XG-web]| [MCV2020] | [Slides][mcv2020-vot-slides]  | [Video][mcv2020-vot-video] |
 |   | [Xavier Giro-i-Nieto][XG-web]| [MCV2019] | [Slides][mcv2019-track-slides]  | [Video][mcv2019-track-video] |
 |   | [Laura-Leal Taixé][LL-web]   | [DLCV2018] | [Slides][dlcv2018-D3l3-slides]  | [Video][dlcv2018-D3l3-video]  |
 |   | [Xavier Giro-i-Nieto][XG-web]| [MCV2018] | [Slides][mcv2018-object-track]  |  |
@@ -188,6 +189,9 @@
 
 [mcv2020-architectures-slides]: https://www.slideshare.net/xavigiro/neural-architectures-for-video-encoding
 [mcv2020-architectures-video]: https://youtu.be/uddedoDHGis
+
+[mcv2020-vot-slides]: https://www.slideshare.net/xavigiro/deep-video-object-tracking-2020-xavier-giro-upc-barcelona-2020
+[mcv2020-vot-video]: https://www.youtube.com/watch?v=jXINWvB7d7E
 
 
 
