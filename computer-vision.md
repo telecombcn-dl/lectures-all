@@ -44,7 +44,7 @@
 |       | [Kevin McGuinness][KM-web]| [DLCV2017] | [Slides][dlcv2017-d4l3-slides]  | [Video][dlcv2017-d4l3-video]    |
 |       | [Elisa Sayrol][ES-web] | [DLCV2016] | [Slides][dlcv2016-saliency-slides]  |   |
 | Object Detection  | | | | |
-|       | [Andreu Girbau][AG-web] | [AIDL2020] | [Slides][aidl2020-object-slides]   |   |
+|       | [Xavier Giro-i-Nieto][XG-web] | [AIDL2020] | [Slides][aidl2020-object-slides]   |   |
 |       | [Andreu Girbau][AG-web] | [DLCV2019] |                                 | [Video][dlcv2019-d1l3-video]  |
 |       | [Miriam Bellver][MB-web] | [DLCV2018] | [Slides][dlcv2018-d2l1-slides]  | [Video][dlcv2018-d2l1-video]  |
 |       | [Amaia Salvador][AS-web] | [DLCV2017] | [Slides][dlcv2017-d2l4-slides]  |  [Video][dlcv2017-d2l4-video]  |
