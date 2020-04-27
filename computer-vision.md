@@ -23,6 +23,8 @@
 [MCV2019]: https://mcv-m6-video.github.io/deepvideo-2019/
 [MCV2020]: https://mcv-m6-video.github.io/deepvideo-2020/
 
+[AIDL2020]: https://www.talent.upc.edu/ing/estudis/formacio/curs/310400/postgraduate-course-artificial-intelligence-deep-learning/
+
 # Computer Vision
 
 ## Still image
@@ -42,6 +44,7 @@
 |       | [Kevin McGuinness][KM-web]| [DLCV2017] | [Slides][dlcv2017-d4l3-slides]  | [Video][dlcv2017-d4l3-video]    |
 |       | [Elisa Sayrol][ES-web] | [DLCV2016] | [Slides][dlcv2016-saliency-slides]  |   |
 | Object Detection  | | | | |
+|       | [Andreu Girbau][AG-web] | [AIDL2020] | [Slides][aidl2020-object-slides]   |   |
 |       | [Andreu Girbau][AG-web] | [DLCV2019] |                                 | [Video][dlcv2019-d1l3-video]  |
 |       | [Miriam Bellver][MB-web] | [DLCV2018] | [Slides][dlcv2018-d2l1-slides]  | [Video][dlcv2018-d2l1-video]  |
 |       | [Amaia Salvador][AS-web] | [DLCV2017] | [Slides][dlcv2017-d2l4-slides]  |  [Video][dlcv2017-d2l4-video]  |
@@ -193,7 +196,7 @@
 [mcv2020-vot-slides]: https://www.slideshare.net/xavigiro/deep-video-object-tracking-2020-xavier-giro-upc-barcelona-2020
 [mcv2020-vot-video]: https://www.youtube.com/watch?v=jXINWvB7d7E
 
-
+[aidl2020-object-slides]: https://www.slideshare.net/xavigiro/object-detection-with-deep-learning-xavier-giroinieto-upc-school-barcelona-2002/
 
 
 
