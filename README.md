@@ -21,8 +21,8 @@ Central repository for all lectures on deep learning at [UPC ETSETB TelecomBCN](
 We have grouped our lectures in the following tracks:
 
 * [Architectures](deep-learning.md)
-* [Training](deep-learning.md)
-* [Learning Paradigms](machine-learning.md)
+* [Training](training.md)
+* [Learning Paradigms](learning.md)
 * [Generative Models](generative.md)
 * [Reinforcement Learning](reinforcement.md)
 * [Computer Vision](computer-vision.md)
