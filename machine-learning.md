@@ -12,6 +12,8 @@
 [VC-web]: https://imatge.upc.edu/web/people/victor-campos
 [EA-web]: https://www.insight-centre.org/users/eric-arazo-sanchez
 [SP-web]: https://scholar.google.es/citations?user=7cVOyh0AAAAJ&hl=ca
+[JS-web]: https://scholar.google.com/citations?user=sZLj96sAAAAJ&hl=en
+
 
 [IDL2018]: https://telecombcn-dl.github.io/2018-idl/
 [IDL2019]: https://telecombcn-dl.github.io/2019-idl/
@@ -76,8 +78,8 @@
 |     | [Xavier Giro-i-Nieto][XG-web] | [MCV2019] | [Slides][mcv2019-self-slides] | [Video][mcv2019-self-video] |
 |     | [Xavier Giro-i-Nieto][XG-web] | [MCV2018] | [Slides][mcv2018-video-features] |  |
 |     | [Xavier Giro-i-Nieto][XG-web] | [DLCV2017] | [Slides][dlcv2017-d4l4-slides] |  |
-| Set learning     | | | | |
-|                | [Laura-Leal Taixé][LL-web]| [DLCV 2018][dlcv2018] | [[Slides]][dlcv2018-d3l6-slides]  | [[Video]][dlcv2018-d3l6-video]   |
+| Challenges     | | | | |
+|      | [Joan Serra][JS-web] | [IDL2018] | [Slides][idl2018-d5l2-slides] |  |
 
 [dlcv2016-classification-slides]: http://www.slideshare.net/xavigiro/image-classification-dlcv-d1l2
 [dlcv2016-augmentation-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-data-augmentation-upc-2016
@@ -89,7 +91,8 @@
 
 [idl2018-d2l4-slides]: https://github.com/telecombcn-dl/2018-idl/raw/master/slides/D2L4_Methodology.pdf
 [idl2018-d3l2-slides]: https://github.com/telecombcn-dl/2018-idl/raw/master/slides/D3L2_TransferLearning.pdf
-[idl2018-d4l3-slides]: https://github.com/telecombcn-dl/2018-idl/raw/master/slides/D4L3_GAN.pdf
+[idl2018-d5l2-slides]: https://github.com/telecombcn-dl/2018-idl/raw/master/slides/D5L2_UnintuitiveDNN.pdf
+
 
 [dlcv2017-d2l3-slides]: https://www.slideshare.net/xavigiro/transfer-learning-and-domain-adaptation-d2l3-2017-upc-deep-learning-for-computer-vision
 [dlcv2017-d2l6-slides]: https://www.slideshare.net/xavigiro/unsupervised-learning-d2l6-2017-upc-deep-learning-for-computer-vision
@@ -122,10 +125,6 @@
 [mcv2019-self-video]: https://youtu.be/5vAStAKszhk
 [mcv2020-self-slides]: https://www.slideshare.net/xavigiro/selfsupervised-visual-learning-2020-xavier-giroinieto-upc-barcelona
 
-[dlcv2018-d3l6-slides]: https://www.slideshare.net/xavigiro/towards-set-learning-and-prediction-laura-lealtaixe-upc-barcelona-2018
-[dlcv2018-d3l6-video]: https://youtu.be/L4V-gdYYQcY
-[dlcv2018-D4L3-slides]: https://www.slideshare.net/xavigiro/deep-generative-models-kevin-mcguinness-upc-barcelona-2018
-[dlcv2018-d4l3-video]: https://youtu.be/p19sJjA-le0
 
 [dlai2018-d05l2-slides]: https://www.slideshare.net/xavigiro/deep-reinforcement-learning-mdp-dqn-xavier-giroinieto-upc-barcelona-2018
 [dlai2018-d05l2-video]: https://youtu.be/HBeevCctYXM
