@@ -61,10 +61,7 @@
 | Incremental learning     | | | | |
 |                | [Ramon Morros][RM-web] | [DLAI2017] | [Slides][dlai2017-d6l1-slides] |  |
 |                | [Ramon Morros][RM-web] | [DLCV2017] | [Slides][dlcv2017-d3l2-slides] |  |
-| Reinforcement learning     | | | | |
-|                | [Xavier Giro-i-Nieto][XG-web] | [DLAI 2018][dlai2018] (PG) | [Slides][dlai2018-d11l1-slides] |   |
-|                | [Xavier Giro-i-Nieto][XG-web] | [DLAI 2018][dlai2018] (DQN) | [Slides][dlai2018-d05l2-slides] | [Video][dlai2018-d05l2-video]  |
-|                | [Xavier Giro-i-Nieto][XG-web] | [DLAI 2017][dlai2017] | [Slides][dlai2017-d7l2-slides] | [Video][dlai2017-d7l2-video]  |
+| [Reinforcement learning](reinforcement.md)     | | | | |
 | Unsupervised learning     | | | | |
 |  | [Xavier Giro-i-Nieto][XG-web] | [DLAI2017] | [Slides][dlai2017-d9l1-slides] | [Video][dlai2017-d9l1-video] |
 |  | [Kevin McGuinness][KM-web]| [DLCV2017] | [Slides][dlcv2017-d2l6-slides] |  |
@@ -75,6 +72,8 @@
 |     | [Xavier Giro-i-Nieto][XG-web] | [MCV2019] | [Slides][mcv2019-self-slides] | [Video][mcv2019-self-video] |
 |     | [Xavier Giro-i-Nieto][XG-web] | [MCV2018] | [Slides][mcv2018-video-features] |  |
 |     | [Xavier Giro-i-Nieto][XG-web] | [DLCV2017] | [Slides][dlcv2017-d4l4-slides] |  |
+| Bayesian Learning     | | | | |
+|     | [Laura Leal-Taixe][LL-web]    | [DLCV2019] |   | [Video][dlcv2019-bayesian-video]    |
 | Challenges     | | | | |
 |      | [Joan Serra][JS-web] | [IDL2018] | [Slides][idl2018-d5l2-slides] |  |
 
@@ -130,6 +129,8 @@
 [dlai2018-d09l1-video]: https://youtu.be/b3CI46RSOjU
 [dlai2018-d09l2-slides]: https://www.slideshare.net/xavigiro/pixelcnn-wavenet-normalizing-flows-santiago-pascual-upc-barcelona-2018
 [dlai2018-d11l1-slides]: https://www.slideshare.net/xavigiro/reinforcement-learning-reloaded-xavier-girinieto-upc-barcelona-2018
+
+[dlcv2019-bayesian-video]: https://youtu.be/sTA05S6v5OA
 
 [xeurope2020-self-slides]: https://www.slideshare.net/xavigiro/deep-selfsupervised-learning-for-all-xavier-giro-xeurope-2020
 [xeurope2020-self-video]: https://youtu.be/wxJ6SJeNhNg
