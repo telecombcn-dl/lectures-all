@@ -52,22 +52,6 @@
 |      | [Elisa Sayrol][ES-web] | [IDL2018] | [Slides][idl2018-d1l4-slides] |       | 
 |      | [Elisa Sayrol][ES-web] | [DLAI2017] | [Slides][dlai2017-d2l1-slides] | [Video][dlai2017-d2l1-video]      | 
 |      | [Xavier Giro-i-Nieto][XG-web] | [DLCV2016] | [Slides][dlcv2016-deep-slides] |   | 
-| Backpropagation     | | | | |
-|    | [Elisa Sayrol][ES-web] | [DLAI2018] | [Slides][dlai2018-d02l2-slides] |       | 
-|    | [Elisa Sayrol][ES-web] | [IDL2018] | [Slides][idl2018-d2l1-slides] |       | 
-|    | [Elisa Sayrol][ES-web] | [DLAI2017] | [Slides][dlai2017-d3l1-slides]| [Video][dlai2017-d3l1-video] |
-|    | [Elisa Sayrol][ES-web] | [DLCV2017] | [Slides][dlcv2017-d1l5-slides]|  |
-|    | [Elisa Sayrol][ES-web] | [DLSL2017] |    | [Video][dlsl2017-backprop-video] |
-|    | [Elisa Sayrol][ES-web] | [DLCV2016] | [Slides][dlcv2016-backprop-slides]| | [[Video]][dlcv2016-backprop-video]|  |
-| Optimizations     | | | | |
-|                | [Verónica Vilaplana][VV-web] | [IDL2018] | [Slides][idl2018-d2l2-slides] |  |
-|                | [Verónica Vilaplana][VV-web] | [DLAI2017] | [Slides][dlai2017-d4l1-slides] |  |
-|                | [Kevin McGuinness][KM-web]| [DLCV2017] | [Slides][dlcv2017-d2l1-slides]  |  |
-|                | [Kevin McGuinness][KM-web]| [DLCV2016] | [Slides][dlcv2016-optimization-slides]  |  |
-|                | [Eva Mohedano][EM-web]| [DLCV2016] | [[Slides]][dlcv2016-training-slides]  |  |
-| Loss functions     | | | | |
-|                | [Javier Ruiz][JR-web] | [IDL2018] | [Slides][idl2018-d2l3-slides] |  |
-|                | [Javier Ruiz][JR-web] | [DLAI2017] | [Slides][dlai2017-d4l2-slides] |  |
 | Convnets     | | | | |
 |                | [Verónica Vilaplana][VV-web]  | [IDL2018] | [Slides][idl2018-d3l1-slides] |  |
 |                | [Verónica Vilaplana][VV-web]  | [DLAI2017] | [Slideshare][dlai2017-d5l1-slides] |  |
@@ -133,9 +117,7 @@
 [idl2018-d2l1-slides]: https://github.com/telecombcn-dl/2018-idl/raw/master/slides/D2L1_Backpropagation.pdf
 [idl2018-d2l2-slides]: https://github.com/telecombcn-dl/2018-idl/raw/master/slides/D2L2_Optimization.pdf
 [idl2018-d2l3-slides]: https://github.com/telecombcn-dl/2018-idl/raw/master/slides/D2L3_LossFunctions.pdf
-[idl2018-d2l4-slides]: https://github.com/telecombcn-dl/2018-idl/raw/master/slides/D2L4_Methodology.pdf
 [idl2018-d3l1-slides]: https://github.com/telecombcn-dl/2018-idl/raw/master/slides/D3L1_CNN.pdf
-[idl2018-d3l2-slides]: https://github.com/telecombcn-dl/2018-idl/raw/master/slides/D3L2_TransferLearning.pdf
 [idl2018-d3l3-slides]: https://github.com/telecombcn-dl/2018-idl/raw/master/slides/D3L3_RecurrentNeuralNetworks.pdf
 [idl2018-d3l4-slides]: https://github.com/telecombcn-dl/2018-idl/raw/master/slides/D3L4_GatedUnits.pdf
 [idl2018-d4l1-slides]: https://github.com/telecombcn-dl/2018-idl/raw/master/slides/D4L1_Attention.pdf
