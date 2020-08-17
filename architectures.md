@@ -39,7 +39,7 @@
 
 [MCV]: http://pagines.uab.cat/mcv/
 
-# Deep Neural Networks
+# Architectures
 
 | Lecture          | Instructor                 | Course                 | Slides                    | Video             |
 | -------------- |  --------------------------- | ---------------------- | :-----------------------: | :---------------: |
