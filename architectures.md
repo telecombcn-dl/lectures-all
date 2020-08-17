@@ -62,7 +62,11 @@
 |                | [Verónica Vilaplana][VV-web]  | [DLAI2017] | [Slideshare][dlai2017-d5l1-slides] |  |
 |                | [Elisa Sayrol][ES-web]  | [DLCV2017] | [Slideshare][dlcv2016-training-slides] |  |
 | Interpretability     | | | | |
-|     | [Xavier Giro-i-Nieto][XG-web]| [DLAI2019] | [Slides][dlai2019-interpretability-slides]  |  |
+|   | [Xavier Giro-i-Nieto][XG-web]| [DLAI2019] | [Slides][dlai2019-interpretability-slides]  |  |
+|   | [Laura Leal-Taixe][LL-web] | [DLCV2019] |   | [Video][dlcv2019-interpretability-video]    |
+|   | [Eva Mohedano][EM-web] | [DLCV2018] | [Slides][dlcv2018-interpretability-slides]  | [Video][dlcv2018-interpretability-video]    |
+|   | [Amaia Salvador][AS-web] | [DLCV2017] | [Slides][dlcv2017-interpretability-slides]  |    |
+|   | [Amaia Salvador][AS-web] | [DLCV2016] | [Slides][dlcv2016-visualization-slides] | [Video][dlcv2016-visualization-video]|
 | ImageNet Challenge     | | | | |
 |   | [Xavier Giro-i-Nieto][XG-web]| [DLAI2019] | [Slides][dlai2019-imagenet-slides]  |  |
 |   | [Kevin McGuinness][KM-web]   | [DLCV2018] | [Slides][dlcv2018-imagenet-slides]  | [Video][dlcv2018-imagenet-video]    |
@@ -91,17 +95,17 @@
 
 [dlcv2016-deep-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-deep-networks-upc-2016 
 [dlcv2016-imagenet-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-imagenet-challenge-upc-2016
+[dlcv2016-visualization-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-visualization-upc-2016
+[dlcv2016-visualization-video]: https://youtu.be/YQvTxkPV8LQ
 [dlcv2016-rnn-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-recurrent-neural-networks-upc-2016
 [dlcv2016-rnn-video]: https://www.youtube.com/watch?v=fQuv90i3Dlg
 [dlcv2016-attention-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-attention-models-upc-2016
 [dlcv2016-attention-video]: https://www.youtube.com/watch?v=omHLeV1aicw
 
-[dlsl2017-backprop-video]: https://www.youtube.com/watch?v=uub_hqDlqjc
 
 [dlcv2017-d1l2-slides]: https://www.slideshare.net/xavigiro/perceptrons-d1l2-2017-upc-deep-learning-for-computer-vision
 [dlcv2017-d1l3-slides]: https://www.slideshare.net/xavigiro/convolutional-neural-networks-d1l3-2017-upc-deep-learning-for-computer-vision
-[dlcv2017-d1l5-slides]: https://www.slideshare.net/xavigiro/training-deep-networks-d1l5-2017-upc-deep-learning-for-computer-vision
-[dlcv2017-d2l1-slides]: https://www.slideshare.net/xavigiro/optimization-for-deep-networks-d2l1-2017-upc-deep-learning-for-computer-vision
+[dlcv2017-interpretability-slides]: https://www.slideshare.net/xavigiro/visualization-of-deep-learning-models-d1l6-2017-upc-deep-learning-for-computer-vision
 [dlcv2017-d2l2-slides]: https://www.slideshare.net/xavigiro/recurrent-neural-networks-d2l2-2017-upc-deep-learning-for-computer-vision
 [dlcv2017-d3l6-slides]: https://www.slideshare.net/xavigiro/attention-models-d3l6-2017-upc-deep-learning-for-computer-vision
 
@@ -137,6 +141,8 @@
 
 [dlcv2018-imagenet-slides]: https://www.slideshare.net/xavigiro/d1l3-image-classification-upc-2018-deep-learning-for-computer-vision
 [dlcv2018-imagenet-video]: https://youtu.be/NHvantNw1Kw
+[dlcv2018-interpretability-slides]: https://www.slideshare.net/xavigiro/interpretability-of-convolutional-neural-networks-eva-mohedano-upc-barcelona-2018
+[dlcv2018-interpretability-video]: https://youtu.be/SsHohytl1NA
 [dlcv2018-d1l2-slides]: https://www.slideshare.net/xavigiro/d1l2-the-neural-network-zoo-upc-2018-deep-learning-for-computer-vision
 [dlcv2018-d1l2-video]: https://youtu.be/P47KJJ4wbyo
 [dlcv2018-d3l6-slides]: https://www.slideshare.net/xavigiro/towards-set-learning-and-prediction-laura-lealtaixe-upc-barcelona-2018
@@ -149,11 +155,11 @@
 
 [dlsl2017-rnn-video]: https://www.youtube.com/watch?v=nVY3RyYYfH8
 
+[dlcv2019-interpretability-video]: https://youtu.be/iziWfbAjHkM
+
 [dlai2019-imagenet-slides]: https://github.com/telecombcn-dl/dlai-2019/raw/master/slides/dlai_2019_d08l1_architectures.pdf
 [dlai2019-nas-slides]: https://github.com/telecombcn-dl/dlai-2019/raw/master/slides/dlai_2019_d08l2_nas.pdf
 [dlai2019-interpretability-slides]: https://github.com/telecombcn-dl/dlai-2019/raw/master/slides/dlai_2019_d07l1_interpretability.pdf
-
-
 
 [mcv2020-rnn-slides]: https://www.slideshare.net/xavigiro/recurrent-neural-networks-rnn-xavier-giro-upc-telecombcn-barcelona-2020
 [mcv2020-rnn-video]: https://youtu.be/C0je4a2XWdo
