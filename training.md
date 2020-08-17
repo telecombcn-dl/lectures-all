@@ -15,9 +15,6 @@
 [JS-web]: https://scholar.google.com/citations?user=sZLj96sAAAAJ&hl=en
 [JW-web]: https://scholar.google.com/citations?user=Gsw2iUEAAAAJ&hl=en
 
-[JS-web]: https://scholar.google.com/citations?user=sZLj96sAAAAJ&hl=en
-[JW-web]: https://scholar.google.com/citations?user=Gsw2iUEAAAAJ&hl=en
-
 [IDL2018]: https://telecombcn-dl.github.io/2018-idl/
 [IDL2019]: https://telecombcn-dl.github.io/2019-idl/
 
@@ -39,7 +36,7 @@
 
 [MCV]: http://pagines.uab.cat/mcv/
 
-# Architectures
+# Training DNN
 
 | Lecture          | Instructor                 | Course                 | Slides                    | Video             |
 | -------------- |  --------------------------- | ---------------------- | :-----------------------: | :---------------: |
