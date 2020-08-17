@@ -32,7 +32,7 @@
 | Topic          | Lecturer                     | Course                 |                                 |              |
 | -------------- |  --------------------------- | ---------------------- | :-----------------------------: | :----------: |
 | Image Classification  | | | | |
-|                | [Kevin McGuinness][KM-web]| [DLCV2018] | [Slides][dlcv2018-D1L3-slides]  | [Video][dlcv2018-D1L3-video]    |
+|   | [Kevin McGuinness][KM-web]| [DLCV2018] | [Slides][dlcv2018-D1L3-slides]  | [Video][dlcv2018-D1L3-video]    |
 |   | [Xavier Giro-i-Nieto][XG-web]| [DLCV2017] | [Slides][dlcv2017-d1l4-slides]  | [Video][dlcv2017-d1l4-video] | 
 |   | [Xavier Giro-i-Nieto][XG-web]| [DLCV2016] | [Slides][dlcv2017-d1l4-slides]  |  | 
 | Interpretability  | | | | |
@@ -75,7 +75,6 @@
 |  | [Elisa Sayrol][ES-web] | [DLCV2016] | [Slides][dlcv2016-medical-slides]  |  [Video][dlcv2016-medical-video] |
 
 ## Video
-
 
 | Topic          | Lecturer                     | Course                 |                                 |              |
 | -------------- |  --------------------------- | ---------------------- | :-----------------------------: | :----------: |
