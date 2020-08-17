@@ -66,7 +66,6 @@
 [dlcv2016-training-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-training-upc-2016
 [dlcv2016-optimization-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-optimization-upc-2016
 
-
 [dlsl2017-backprop-video]: https://www.youtube.com/watch?v=uub_hqDlqjc
 
 [dlcv2017-d1l5-slides]: https://www.slideshare.net/xavigiro/training-deep-networks-d1l5-2017-upc-deep-learning-for-computer-vision
