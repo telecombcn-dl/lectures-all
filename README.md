@@ -16,16 +16,19 @@ Central repository for all lectures on deep learning at [UPC ETSETB TelecomBCN](
 [AS-web]: https://imatge.upc.edu/web/people/amaia-salvador
 
 
-# Our tracks
+# Our modules
 
 We have grouped our lectures in the following tracks:
 
-* [Deep Neural Networks](deep-learning.md)
-* [Machine Learning with DNN](machine-learning.md)
-* [Computer Vision with DNN](computer-vision.md)
-* [Natural Language Processing with DNN](nlp.md)
-* [Speech Processing with DNN](speech.md)
-* [Multimodal Learning with DNN](multimodal.md)
+* [Architectures](deep-learning.md)
+* [Training](deep-learning.md)
+* [Learning Paradigms](machine-learning.md)
+* [Generative Models](generative.md)
+* [Reinforcement Learning](reinforcement.md)
+* [Computer Vision](computer-vision.md)
+* [Natural Language Processing](nlp.md)
+* [Speech Processing](speech.md)
+* [Multimodal Learning](multimodal.md)
 * [Hands on DNN](hands-on.md)
 
 # Our study programs
