@@ -52,10 +52,13 @@
 |                | [Verónica Vilaplana][VV-web] | [DLAI2017] | [Slides][dlai2017-d4l1-slides] |  |
 |                | [Kevin McGuinness][KM-web]| [DLCV2017] | [Slides][dlcv2017-d2l1-slides]  |  |
 |                | [Kevin McGuinness][KM-web]| [DLCV2016] | [Slides][dlcv2016-optimization-slides]  |  |
-|                | [Eva Mohedano][EM-web]| [DLCV2016] | [[Slides]][dlcv2016-training-slides]  |  |
+|                | [Eva Mohedano][EM-web]| [DLCV2016] | [Slides][dlcv2016-training-slides]  |  |
 | Loss functions     | | | | |
 |                | [Javier Ruiz][JR-web] | [IDL2018] | [Slides][idl2018-d2l3-slides] |  |
 |                | [Javier Ruiz][JR-web] | [DLAI2017] | [Slides][dlai2017-d4l2-slides] |  |
+| Methodology     | | | | |
+|                | [Javier Ruiz][JR-web] | [IDL2018]  | [Slides][idl2018-d2l4-slides] |  | 
+|                | [Javier Ruiz][JR-web] | [DLAI2017] | [Slides][dlai2017-d6l2-slides] |  | 
 
 
 [dlcv2016-backprop-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-backward-propagation-upc-2016
@@ -73,11 +76,13 @@
 [dlai2017-d3l1-video]: https://www.youtube.com/watch?v=F03UEq8yVkI
 [dlai2017-d4l1-slides]: https://www.slideshare.net/xavigiro/optimization-dlai-d4l1-2017-upc-deep-learning-for-artificial-intelligence
 [dlai2017-d4l2-slides]: https://www.slideshare.net/xavigiro/loss-functions-dlai-d4l2-2017-upc-deep-learning-for-artificial-intelligence/1
+[dlai2017-d6l2-slides]: https://www.slideshare.net/xavigiro/methodology-dlai-d6l2-2017-upc-deep-learning-for-artificial-intelligence
 
 [idl2018-d2l1-slides]: https://github.com/telecombcn-dl/2018-idl/raw/master/slides/D2L1_Backpropagation.pdf
 [idl2018-d2l2-slides]: https://github.com/telecombcn-dl/2018-idl/raw/master/slides/D2L2_Optimization.pdf
 [idl2018-d2l3-slides]: https://github.com/telecombcn-dl/2018-idl/raw/master/slides/D2L3_LossFunctions.pdf
 [idl2018-d2l4-slides]: https://github.com/telecombcn-dl/2018-idl/raw/master/slides/D2L4_Methodology.pdf
+
 
 [dlai2018-d02l2-slides]: https://www.slideshare.net/xavigiro/backpropagation-elisa-sayrol-upc-barcelona-2018
 
