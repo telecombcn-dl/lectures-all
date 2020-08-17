@@ -20,6 +20,7 @@
 | -------------- |  ----------------------------------------------- | ---------------------- | :-----------------------: | :---------------: |
 | Intro to RL    | | | | |
 |                | [Josep Vidal][JV-web] & [Marga Cabrera][MC-web]  | [MRL2020] | [Slides][mrl2020-RL1-slides] |   |
+|                | [Xavier Giro-i-Nieto][XG-web] | [DLAI2018] | [Slides][dlai2018-d05l2-slides] | [Video][dlai2018-d05l2-video]  |
 |                | [Xavier Giro-i-Nieto][XG-web] | [DLAI2017] | [Slides][dlai2017-d7l2-slides] | [Video][dlai2017-d7l2-video]  |
 | Markov Decision Processes (MDP)   | | | | |
 |                | [Josep Vidal][JV-web] & [Marga Cabrera][MC-web]  | [MRL2020] | [Slides][mrl2020-RL2-slides] |   |
@@ -53,12 +54,11 @@
 | -------------- |  --------------------------- | ---------------------- | :-----------------------: | :---------------: |
 | Intro to DRL  | | | | |
 |                | [Xavier Giro-i-Nieto][XG-web] | [AIDL] | [Slides@UPC][aidl2020-intro] |   |
+|                | [Xavier Giro-i-Nieto][XG-web] | [DLAI2018] | [Slides][dlai2018-d11l1-slides] |  |
 | Deep Q-Networks  | | | | |
 |                | [Xavier Giro-i-Nieto][XG-web] | [AIDL] | [Slides@UPC][aidl2020-dqn] |   |
-|                | [Xavier Giro-i-Nieto][XG-web] | [DLAI2018] | [Slides][dlai2018-d05l2-slides] | [Video][dlai2018-d05l2-video]  |
 | REINFORCE & PPO  | | | | |
 |                | [Xavier Giro-i-Nieto][XG-web] | [AIDL] | [Slides@UPC][aidl2020-reinforce] |   |
-|                | [Xavier Giro-i-Nieto][XG-web] | [DLAI2018] | [Slides][dlai2018-d11l1-slides] |  |
 | Actor-Critic (AC) | | | | |
 |                | [Xavier Giro-i-Nieto][XG-web] | [AIDL] | [Slides@UPC][aidl2020-ac] |   |
 
