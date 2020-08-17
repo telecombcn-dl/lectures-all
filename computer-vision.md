@@ -38,7 +38,7 @@
 | Interpretability  | | | | |
 |  | [Eva Mohedano][EM-web] | [DLCV2018] | [Slides][dlcv2018-d3l4-slides]  | [Video][dlcv2018-d3l4-video]    |
 |  | [Amaia Salvador][AS-web] | [DLCV2017] | [Slides][dlcv2018-d1l6-slides]  |    |
-| | [Amaia Salvador][AS-web] | [DLCV2016] | [Slides][dlcv2016-visualization-slides] | [Video][dlcv2016-visualization-video]|
+|  | [Amaia Salvador][AS-web] | [DLCV2016] | [Slides][dlcv2016-visualization-slides] | [Video][dlcv2016-visualization-video]|
 | Visual Saliency Prediction  | | | | |
 |       | [Kevin McGuinness][KM-web]| [DLCV2018] | [Slides][dlcv2018-d3l5-slides]  | [Video][dlcv2018-D3l5-video]    |
 |       | [Kevin McGuinness][KM-web]| [DLCV2017] | [Slides][dlcv2017-d4l3-slides]  | [Video][dlcv2017-d4l3-video]    |
