@@ -76,16 +76,6 @@
 |     | [Xavier Giro-i-Nieto][XG-web] | [MCV2019] | [Slides][mcv2019-self-slides] | [Video][mcv2019-self-video] |
 |     | [Xavier Giro-i-Nieto][XG-web] | [MCV2018] | [Slides][mcv2018-video-features] |  |
 |     | [Xavier Giro-i-Nieto][XG-web] | [DLCV2017] | [Slides][dlcv2017-d4l4-slides] |  |
-| Generative models     | | | | |
-|    | [Santiago Pascual][SP-web] | [DLAI 2018][dlai2018] (VAE) | [Slides][dlai2018-d07l1-slides] | [Video][dlai2018-d07l1-video] |
-|    | [Santiago Pascual][SP-web] | [DLAI 2018][dlai2018] (GAN) | [Slides][dlai2018-d09l1-slides] | [Video][dlai2018-d09l1-video] |
-|    | [Santiago Pascual][SP-web] | [DLAI 2018][dlai2018] (Flows) | [Slides][dlai2018-d09l2-slides] |  |
-|                | [Kevin McGuinness][KM-web]| [DLCV2018] | [Slides][dlcv2018-D4l3-slides]  |  [Video][dlcv2018-d4l3-video]  |
-|                | [Verónica Vilaplana][VV-web] | [IDL2018] | [Slides][idl2018-d4l3-slides] |  | 
-|    | [Santiago Pascual][SP-web] | [DLAI 2017][dlai2017] (I) | [Slides][dlai2017-d9l2-slides] | [Video][dlai2017-d9l2-video] |
-|    | [Santiago Pascual][SP-web] | [DLAI 2017][dlai2017] (II) | [Slides][dlai2017-d10l1-slides] | [Video][dlai2017-d10l1-video] |
-|                | [Kevin McGuinness][KM-web]| [DLCV2017] | [Slides][dlcv2017-d3l4-slides]  |    |
-|                | [Kevin McGuinness][KM-web]| [DLCV2016] | [Slides][dlcv2016-generative-slides]  |    |
 | Set learning     | | | | |
 |                | [Laura-Leal Taixé][LL-web]| [DLCV 2018][dlcv2018] | [[Slides]][dlcv2018-d3l6-slides]  | [[Video]][dlcv2018-d3l6-video]   |
 
