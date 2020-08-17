@@ -33,30 +33,32 @@
 
 [DLAI2017]: https://telecombcn-dl.github.io/2017-dlai/
 [DLAI2018]: https://telecombcn-dl.github.io/2018-dlai/
+[DLAI2019]: https://telecombcn-dl.github.io/dlai-2019/
 
-[MCV]: http://pagines.uab.cat/mcv/
-
-# Training DNN
+# How to train your DNN
 
 | Lecture          | Instructor                 | Course                 | Slides                    | Video             |
 | -------------- |  --------------------------- | ---------------------- | :-----------------------: | :---------------: |
 | Backpropagation     | | | | |
+|    | [Xavier Giro][XG-web]  | [DLAI2019] | [Slides][dlai2019-backprop-slides] |       | 
 |    | [Elisa Sayrol][ES-web] | [DLAI2018] | [Slides][dlai2018-d02l2-slides] |       | 
 |    | [Elisa Sayrol][ES-web] | [IDL2018]  | [Slides][idl2018-d2l1-slides] |       | 
 |    | [Elisa Sayrol][ES-web] | [DLAI2017] | [Slides][dlai2017-d3l1-slides]| [Video][dlai2017-d3l1-video] |
 |    | [Elisa Sayrol][ES-web] | [DLCV2017] | [Slides][dlcv2017-d1l5-slides]|  |
 |    | [Elisa Sayrol][ES-web] | [DLSL2017] |    | [Video][dlsl2017-backprop-video] |
 |    | [Elisa Sayrol][ES-web] | [DLCV2016] | [Slides][dlcv2016-backprop-slides]| | [[Video]][dlcv2016-backprop-video]|  |
-| Optimizations     | | | | |
+| Optimization     | | | | |
 |                | [Verónica Vilaplana][VV-web] | [IDL2018] | [Slides][idl2018-d2l2-slides] |  |
 |                | [Verónica Vilaplana][VV-web] | [DLAI2017] | [Slides][dlai2017-d4l1-slides] |  |
 |                | [Kevin McGuinness][KM-web]| [DLCV2017] | [Slides][dlcv2017-d2l1-slides]  |  |
 |                | [Kevin McGuinness][KM-web]| [DLCV2016] | [Slides][dlcv2016-optimization-slides]  |  |
 |                | [Eva Mohedano][EM-web]| [DLCV2016] | [Slides][dlcv2016-training-slides]  |  |
 | Loss functions     | | | | |
+|                | [Javier Ruiz][JR-web] | [DLAI2019] | [Slides][dlai2019-losses-slides] |  |
 |                | [Javier Ruiz][JR-web] | [IDL2018] | [Slides][idl2018-d2l3-slides] |  |
 |                | [Javier Ruiz][JR-web] | [DLAI2017] | [Slides][dlai2017-d4l2-slides] |  |
 | Methodology     | | | | |
+|                | [Javier Ruiz][JR-web] | [DLAI2019]  | [Slides][dlai2019-d05l2-slides] |  | 
 |                | [Javier Ruiz][JR-web] | [IDL2018]  | [Slides][idl2018-d2l4-slides] |  | 
 |                | [Javier Ruiz][JR-web] | [DLAI2017] | [Slides][dlai2017-d6l2-slides] |  | 
 
@@ -84,5 +86,10 @@
 
 
 [dlai2018-d02l2-slides]: https://www.slideshare.net/xavigiro/backpropagation-elisa-sayrol-upc-barcelona-2018
+
+[dlai2019-backprop-slides]: https://github.com/telecombcn-dl/dlai-2019/raw/master/slides/dlai_2019_d02l2_backprop.pdf
+[dlai2019-losses-slides]: https://github.com/telecombcn-dl/dlai-2019/raw/master/slides/dlai_2019_d04l1_losses.pdf
+[dlai2019-d05l2-slides]: https://github.com/telecombcn-dl/dlai-2019/raw/master/slides/dlai_2019_d05l2_methodology.pdf
+
 
 
