@@ -1,17 +1,8 @@
 [XG-web]: https://imatge.upc.edu/web/people/xavier-giro
 [KM-web]: http://www.eeng.dcu.ie/~mcguinne/
-[EM-web]: https://www.insight-centre.org/users/eva-mohedano
-[LL-web]: https://dvl.in.tum.de/team/lealtaixe/
-[ES-web]: https://imatge.upc.edu/web/people/elisa-sayrol
 [VV-web]: https://imatge.upc.edu/web/people/veronica-vilaplana
-[JR-web]: https://imatge.upc.edu/web/people/javier-ruiz-hidalgo
-[RM-web]: https://imatge.upc.edu/web/people/josep-ramon-morros
-[MC-web]: http://www.costa-jussa.com/
-[AB-web]: https://scholar.google.es/citations?user=C5AUXO4AAAAJ&hl=en
-[MB-web]: https://imatge.upc.edu/web/people/miriam-bellver
-[VC-web]: https://imatge.upc.edu/web/people/victor-campos
-[EA-web]: https://www.insight-centre.org/users/eric-arazo-sanchez
 [SP-web]: https://scholar.google.es/citations?user=7cVOyh0AAAAJ&hl=ca
+[AP-web]: https://www.albertpumarola.com/
 
 [IDL2018]: https://telecombcn-dl.github.io/2018-idl/
 [IDL2019]: https://telecombcn-dl.github.io/2019-idl/
@@ -37,7 +28,6 @@
 [MCV2019]: https://mcv-m6-video.github.io/deepvideo-2019/
 [MCV2020]: https://mcv-m6-video.github.io/deepvideo-2020/
 
-[XEUROPE2020]: https://deep-self-supervised-learning.carrd.co/
 
 
 ## Generative Models
@@ -45,12 +35,13 @@
 | Topic          | Lecturer                     | Course                 | Slides                    | Video             |
 | -------------- |  --------------------------- | ---------------------- | :-----------------------: | :---------------: |
 | Generative Adversarial Networks (GANs)     | | | | |
+|    | [Albert Pumarola][AP-web] | [DLAI2019] | [Slides][dlai2019-gan-slides] | |
 |    | [Santiago Pascual][SP-web] | [DLAI 2018][dlai2018] | [Slides][dlai2018-d09l1-slides] | [Video][dlai2018-d09l1-video] |
-|                | [Kevin McGuinness][KM-web]| [DLCV2018] | [Slides][dlcv2018-D4l3-slides]  |  [Video][dlcv2018-d4l3-video]  |
-|                | [Verónica Vilaplana][VV-web] | [IDL2018] | [Slides][idl2018-d4l3-slides] |  | 
+|    | [Kevin McGuinness][KM-web]| [DLCV2018] | [Slides][dlcv2018-D4l3-slides]  |  [Video][dlcv2018-d4l3-video]  |
+|    | [Verónica Vilaplana][VV-web] | [IDL2018] | [Slides][idl2018-d4l3-slides] |  | 
 |    | [Santiago Pascual][SP-web] | [DLAI 2017][dlai2017] | [Slides][dlai2017-d10l1-slides] | [Video][dlai2017-d10l1-video] |
-|                | [Kevin McGuinness][KM-web]| [DLCV2017] | [Slides][dlcv2017-d3l4-slides]  |    |
-|                | [Kevin McGuinness][KM-web]| [DLCV2016] | [Slides][dlcv2016-generative-slides]  |    |
+|    | [Kevin McGuinness][KM-web]| [DLCV2017] | [Slides][dlcv2017-d3l4-slides]  |    |
+|    | [Kevin McGuinness][KM-web]| [DLCV2016] | [Slides][dlcv2016-generative-slides]  |    |
 | Autorregressive Models     | | | | |
 |    | [Santiago Pascual][SP-web] | [DLAI 2018][dlai2018] | [Slides][dlai2018-d07l1-slides] | [Video][dlai2018-d07l1-video] |
 |    | [Santiago Pascual][SP-web] | [DLAI 2017][dlai2017] | [Slides][dlai2017-d9l2-slides] | [Video][dlai2017-d9l2-video] |
@@ -78,6 +69,9 @@
 [dlai2018-d09l1-slides]: https://www.slideshare.net/xavigiro/generative-adversarial-networks-gan-santiago-pascual-upc-barcelona-2018
 [dlai2018-d09l1-video]: https://youtu.be/b3CI46RSOjU
 [dlai2018-d09l2-slides]: https://www.slideshare.net/xavigiro/pixelcnn-wavenet-normalizing-flows-santiago-pascual-upc-barcelona-2018
+
+[dlai2019-gan-slides]: https://github.com/telecombcn-dl/dlai-2019/raw/master/slides/dlai_2019_d11l1_gan.pdf
+
 
 
 
