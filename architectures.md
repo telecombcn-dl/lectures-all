@@ -15,7 +15,6 @@
 [JS-web]: https://scholar.google.com/citations?user=sZLj96sAAAAJ&hl=en
 [JW-web]: https://scholar.google.com/citations?user=Gsw2iUEAAAAJ&hl=en
 
-[JS-web]: https://scholar.google.com/citations?user=sZLj96sAAAAJ&hl=en
 [JW-web]: https://scholar.google.com/citations?user=Gsw2iUEAAAAJ&hl=en
 
 [IDL2018]: https://telecombcn-dl.github.io/2018-idl/
@@ -91,9 +90,8 @@
 | Architectures  | | | | |
 |     | [Xavier Giro-i-Nieto][XG-web]| [DLCV2018] | [Slides][dlcv2018-d1l2-slides]  | [Video][dlcv2018-d1l2-video] |
 |     | [Xavier Giro-i-Nieto][XG-web]| [IDL2018] | [Slides][dlcv2018-d1l2-slides]  | [Video][dlcv2018-d1l2-video] |
-| Keynotes     | | | | |
+| Compression     | | | | |
 |      | [Joost van der Weijer][JW-web] | [IDL2018] | [Slides][idl2018-d5l1-slides] |  |
-|      | [Joan Serra][JS-web] | [IDL2018] | [Slides][idl2018-d5l2-slides] |  |
 
 [dlcv2016-deep-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-deep-networks-upc-2016 
 [dlcv2016-backprop-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-backward-propagation-upc-2016
@@ -144,7 +142,6 @@
 [idl2018-d4l1-video]: https://youtu.be/9oMVVx98Hk4
 [idl2018-d4l4-slides]: https://github.com/telecombcn-dl/2018-idl/raw/master/slides/D4L4_TheNeuralNetworkZoo.pdf
 [idl2018-d5l1-slides]: https://github.com/telecombcn-dl/2018-idl/raw/master/slides/D5L1_CompressionRankings.pdf
-[idl2018-d5l2-slides]: https://github.com/telecombcn-dl/2018-idl/raw/master/slides/D5L2_UnintuitiveDNN.pdf
 
 
 [dlcv2018-d1l2-slides]: https://www.slideshare.net/xavigiro/d1l2-the-neural-network-zoo-upc-2018-deep-learning-for-computer-vision
