@@ -34,8 +34,13 @@
 [DLAI2019]: https://telecombcn-dl.github.io/dlai-2019/
 
 [MCV2018]: https://mcv-m6-video.github.io/deepvideo-2018/
+[MCV2019]: https://mcv-m6-video.github.io/deepvideo-2019/
+[MCV2020]: https://mcv-m6-video.github.io/deepvideo-2020/
 
-## Machine Learning
+[XEUROPE2020]: https://deep-self-supervised-learning.carrd.co/
+
+
+## Learning Paradigms
 
 | Topic          | Lecturer                     | Course                 | Slides                    | Video             |
 | -------------- |  --------------------------- | ---------------------- | :-----------------------: | :---------------: |
@@ -66,6 +71,9 @@
 |  | [Kevin McGuinness][KM-web]| [DLCV2017] | [Slides][dlcv2017-d2l6-slides] |  |
 |  | [Kevin McGuinness][KM-web]| [DLCV2016] | [Slides][dlcv2016-unsupervised-slides]|[Video][dlcv2016-unsupervised-video] |
 | Self-supervised learning     | | | | |
+|     | [Xavier Giro-i-Nieto][XG-web] | [XEUROPE2020] | [Slides][xeurope2020-self-slides] | [Video][xeurope2020-self-video] |
+|     | [Xavier Giro-i-Nieto][XG-web] | [MCV2020] | [Slides][mcv2020-self-slides] |  |
+|     | [Xavier Giro-i-Nieto][XG-web] | [MCV2019] | [Slides][mcv2019-self-slides] | [Video][mcv2019-self-video] |
 |     | [Xavier Giro-i-Nieto][XG-web] | [MCV2018] | [Slides][mcv2018-video-features] |  |
 |     | [Xavier Giro-i-Nieto][XG-web] | [DLCV2017] | [Slides][dlcv2017-d4l4-slides] |  |
 | Generative models     | | | | |
@@ -119,10 +127,10 @@
 
 [dlai2019-d09l1-slides]: https://github.com/telecombcn-dl/dlai-2019/raw/master/slides/dlai_2019_d09l1_transfer.pdf
 
-
-
 [mcv2018-video-features]: https://www.slideshare.net/xavigiro/deep-learning-from-videos-upc-2018
-
+[mcv2019-self-slides]: https://www.slideshare.net/xavigiro/selfsupervised-learning-from-video-sequences-xavier-giro-upc-barcelona-2019
+[mcv2019-self-video]: https://youtu.be/5vAStAKszhk
+[mcv2020-self-slides]: https://www.slideshare.net/xavigiro/selfsupervised-visual-learning-2020-xavier-giroinieto-upc-barcelona
 
 [dlcv2018-d3l6-slides]: https://www.slideshare.net/xavigiro/towards-set-learning-and-prediction-laura-lealtaixe-upc-barcelona-2018
 [dlcv2018-d3l6-video]: https://youtu.be/L4V-gdYYQcY
@@ -137,6 +145,9 @@
 [dlai2018-d09l1-video]: https://youtu.be/b3CI46RSOjU
 [dlai2018-d09l2-slides]: https://www.slideshare.net/xavigiro/pixelcnn-wavenet-normalizing-flows-santiago-pascual-upc-barcelona-2018
 [dlai2018-d11l1-slides]: https://www.slideshare.net/xavigiro/reinforcement-learning-reloaded-xavier-girinieto-upc-barcelona-2018
+
+[xeurope2020-self-slides]: https://www.slideshare.net/xavigiro/deep-selfsupervised-learning-for-all-xavier-giro-xeurope-2020
+[xeurope2020-self-video]: https://youtu.be/wxJ6SJeNhNg
 
 
 
