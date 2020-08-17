@@ -81,11 +81,13 @@
 |      | [Xavier Giro-i-Nieto][XG-web] | [DLCV2017] | [Slides][dlcv2017-d2l2-slides] |  | 
 |      | [Santiago Pascual][SP-web] | [DLSL2017] |  | [Video][dlsl2017-rnn-video] | 
 |      | [Xavier Giro-i-Nieto][XG-web] | [DLCV2016] | [Slides][dlcv2016-rnn-slides] | [Video][dlcv2016-rnn-slides] | 
-| Attention     | | | | |
+| Attention      | | | | |
 |     | [Marta R. Costa-jussà][MC-web] | [IDL2018] | [Slides][idl2018-d4l1-slides] | [Video][idl2018-d4l1-video]  |
 |     | [Marta R. Costa-jussà][MC-web]  | [DLAI2017] | [Slides][dlai2017-d8l-slides] |  [Video][dlai2017-d8l2-video] |
-|     | [Amaia Salvador][AS-web]  | [DLCV2017] | [Slides][dlcv2017-d3l6-slides] |  |
-|     | [Amaia Salvador][AS-web]  | [DLCV2016] | [Slides][dlcv2016-attention-slides] | [Video][dlcv2016-attention-video] |
+|     | [Amaia Salvador][AS-web]     | [DLCV2017] | [Slides][dlcv2017-d3l6-slides] |  |
+|     | [Amaia Salvador][AS-web]     | [DLCV2016] | [Slides][dlcv2016-attention-slides] | [Video][dlcv2016-attention-video] |
+| Set learning   | | | | |
+|     | [Laura-Leal Taixé][LL-web]   | [DLCV2018] | [Slides][dlcv2018-d3l6-slides]  | [Video][dlcv2018-d3l6-video]   |
 | Architectures  | | | | |
 |     | [Xavier Giro-i-Nieto][XG-web]| [DLCV2018] | [Slides][dlcv2018-d1l2-slides]  | [Video][dlcv2018-d1l2-video] |
 |     | [Xavier Giro-i-Nieto][XG-web]| [IDL2018] | [Slides][dlcv2018-d1l2-slides]  | [Video][dlcv2018-d1l2-video] |
@@ -147,6 +149,8 @@
 
 [dlcv2018-d1l2-slides]: https://www.slideshare.net/xavigiro/d1l2-the-neural-network-zoo-upc-2018-deep-learning-for-computer-vision
 [dlcv2018-d1l2-video]: https://youtu.be/P47KJJ4wbyo
+[dlcv2018-d3l6-slides]: https://www.slideshare.net/xavigiro/towards-set-learning-and-prediction-laura-lealtaixe-upc-barcelona-2018
+[dlcv2018-d3l6-video]: https://youtu.be/L4V-gdYYQcY
 
 [dlai2018-d01l2-slides]: https://www.slideshare.net/xavigiro/the-perceptron-xavier-giroinieto-upc-barcelona-2018
 [dlai2018-d01l2-video]: https://www.youtube.com/watch?v=cshjMqYJrTo
@@ -157,5 +161,3 @@
 
 [mcv2020-rnn-slides]: https://www.slideshare.net/xavigiro/recurrent-neural-networks-rnn-xavier-giro-upc-telecombcn-barcelona-2020
 [mcv2020-rnn-video]: https://youtu.be/C0je4a2XWdo
-
-
