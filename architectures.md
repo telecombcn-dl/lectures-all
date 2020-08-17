@@ -35,8 +35,10 @@
 
 [DLAI2017]: https://telecombcn-dl.github.io/2017-dlai/
 [DLAI2018]: https://telecombcn-dl.github.io/2018-dlai/
+[DLAI2019]: https://telecombcn-dl.github.io/dlai-2019/
 
 [MCV]: http://pagines.uab.cat/mcv/
+[MCV2020]: https://mcv-m6-video.github.io/deepvideo-2020/
 
 # Architectures
 
@@ -62,7 +64,10 @@
 | Interpretability     | | | | |
 |     | [Xavier Giro-i-Nieto][XG-web]| [DLAI2019] | [Slides][dlai2019-interpretability-slides]  |  |
 | ImageNet Challenge     | | | | |
-|     | [Xavier Giro-i-Nieto][XG-web]| [DLAI2019] | [Slides][dlai2019-imagenet-slides]  |  |
+|   | [Xavier Giro-i-Nieto][XG-web]| [DLAI2019] | [Slides][dlai2019-imagenet-slides]  |  |
+|   | [Kevin McGuinness][KM-web]   | [DLCV2018] | [Slides][dlcv2018-imagenet-slides]  | [Video][dlcv2018-imagenet-video]    |
+|   | [Xavier Giro-i-Nieto][XG-web]| [DLCV2017] | [Slides][dlcv2017-imagenet-slides]  | [Video][dlcv2017-imagenet-video] | 
+|   | [Xavier Giro-i-Nieto][XG-web]| [DLCV2016] | [Slides][dlcv2016-imagenet-slides]  |  | 
 | Recurrent Neural Networks (RNN)      | | | | |
 |      | [Xavier Giro-i-Nieto][XG-web]  | [MCV2020] | [Slides][mcv2020-rnn-slides] | [Video][mcv2020-rnn-video] |
 |      | [Marta R. Costa-jussà][MC-web]  | [IDL2018] | [Slides (I)][idl2018-d3l3-slides] |  |
@@ -85,10 +90,7 @@
 
 
 [dlcv2016-deep-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-deep-networks-upc-2016 
-[dlcv2016-backprop-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-backward-propagation-upc-2016
-[dlcv2016-backprop-video]: https://www.youtube.com/watch?v=jg8Hb4VMJg8
-[dlcv2016-training-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-training-upc-2016
-[dlcv2016-optimization-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-optimization-upc-2016
+[dlcv2016-imagenet-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-imagenet-challenge-upc-2016
 [dlcv2016-rnn-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-recurrent-neural-networks-upc-2016
 [dlcv2016-rnn-video]: https://www.youtube.com/watch?v=fQuv90i3Dlg
 [dlcv2016-attention-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-attention-models-upc-2016
@@ -103,7 +105,8 @@
 [dlcv2017-d2l2-slides]: https://www.slideshare.net/xavigiro/recurrent-neural-networks-d2l2-2017-upc-deep-learning-for-computer-vision
 [dlcv2017-d3l6-slides]: https://www.slideshare.net/xavigiro/attention-models-d3l6-2017-upc-deep-learning-for-computer-vision
 
-
+[dlcv2017-imagenet-slides]: https://www.slideshare.net/xavigiro/image-classification-on-imagenet-d1l4-2017-upc-deep-learning-for-computer-vision
+[dlcv2017-imagenet-video]: https://youtu.be/Cng0btC-1uE
 [dlai2017-d1l2-slides]: https://www.slideshare.net/xavigiro/the-perceptron-audio-and-vision-d1l2-2017-upc-deep-learning-for-artificial-intelligence
 [dlai2017-d1l2-video]: https://youtu.be/7L75hHF4STM
 [dlai2017-d2l1-slides]: https://www.slideshare.net/xavigiro/multilayer-perceptron-dlai-d1l2-2017-upc-deep-learning-for-artificial-intelligence
@@ -132,7 +135,8 @@
 [idl2018-d4l4-slides]: https://github.com/telecombcn-dl/2018-idl/raw/master/slides/D4L4_TheNeuralNetworkZoo.pdf
 [idl2018-d5l1-slides]: https://github.com/telecombcn-dl/2018-idl/raw/master/slides/D5L1_CompressionRankings.pdf
 
-
+[dlcv2018-imagenet-slides]: https://www.slideshare.net/xavigiro/d1l3-image-classification-upc-2018-deep-learning-for-computer-vision
+[dlcv2018-imagenet-video]: https://youtu.be/NHvantNw1Kw
 [dlcv2018-d1l2-slides]: https://www.slideshare.net/xavigiro/d1l2-the-neural-network-zoo-upc-2018-deep-learning-for-computer-vision
 [dlcv2018-d1l2-video]: https://youtu.be/P47KJJ4wbyo
 [dlcv2018-d3l6-slides]: https://www.slideshare.net/xavigiro/towards-set-learning-and-prediction-laura-lealtaixe-upc-barcelona-2018
