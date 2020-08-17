@@ -49,9 +49,6 @@
 | Machine learning     | | | | |
 |                | [Verónica Vilaplana][VV-web] | [IDL2018] | [Slides][idl2018-d1l2-slides] |  | 
 |                | [Elisa Sayrol][ES-web] | [DLCV2016] | [Slides][dlcv2016-classification-slides]  |   |
-| Methodology     | | | | |
-|                | [Javier Ruiz][JR-web] | [IDL2018]  | [Slides][idl2018-d2l4-slides] |  | 
-|                | [Javier Ruiz][JR-web] | [DLAI2017] | [Slides][dlai2017-d6l2-slides] |  | 
 | Data augmentation     | | | | |
 |                | [Eva Mohedano][EM-web] | [DLCV2016] | [Slides][dlcv2016-augmentation-slides] |  | 
 |  Transfer learning     |  | |  |   | 
@@ -103,7 +100,6 @@
 [idl2018-d1l2-slides]: https://github.com/telecombcn-dl/2018-idl/raw/master/slides/D1L2-MachineLearning.pdf
 [dlai2017-d5l2-slides]: https://www.slideshare.net/xavigiro/transfer-learning-and-domain-adaptation-dlai-d5l2-2017-upc-deep-learning-for-artificial-intelligence
 [dlai2017-d6l1-slides]: https://www.slideshare.net/xavigiro/lifelong-incremental-learning-dlai-d6l1-2017-upc-deep-learning-for-artificial-intelligence
-[dlai2017-d6l2-slides]: https://www.slideshare.net/xavigiro/methodology-dlai-d6l2-2017-upc-deep-learning-for-artificial-intelligence
 [dlai2017-d7l2-slides]: https://www.slideshare.net/xavigiro/reinforcement-learning-dlai-d7l2-2017-upc-deep-learning-for-artificial-intelligence
 [dlai2017-d7l2-video]: https://youtu.be/vPlWFj0-j7I
 [dlai2017-d9l1-slides]: https://www.slideshare.net/xavigiro/unsupervised-learning-dlai-d9l1-2017-upc-deep-learning-for-artificial-intelligence
