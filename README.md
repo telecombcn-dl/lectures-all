@@ -34,8 +34,9 @@ We have grouped our lectures in the following tracks:
 # Our study programs
 
 * IDL - Introduction to Deep Learning. UPC TelecomBCN. [[2018]][IDL2018] [[2019]][IDL2019] [[2020]][IDL2020]
-* DLAI - Deep Learning for Artificial Intelligence. UPC TelecomBCN. [[2017]][DLAI2017] [[2018]][DLAI2018] [[2019]][DLAI2019]
-* AIDL - Artificial Intelligence with Deep Learning. UPC School. [[2019]][AIDL2019]
+* DLAI - Deep Learning for Artificial Intelligence. UPC TelecomBCN. [[2017]][DLAI2017] [[2018]][DLAI2018] [[2019]][DLAI2019] [[2020]][DLAI2020]
+* DLR - Deep and Reinforcement Learning. UPC TelecomBCN. [[2020]][DRL2020]
+* AIDL - Artificial Intelligence with Deep Learning. UPC School. [[2019]][AIDL2019] [[Online]][AIDLonline] [[Onsite]][AIDLonsite]
 * DLCV - Deep Learning for Computer Vision UPC TelecomBCN. [[2016]][DLCV2016] [[2017]][DLCV2017] [[2018]][DLCV2018] [[2019]][DLCV2019]
 * NLPDL - Natural Language Processing with Deep Learning. UPC TelecomBCN. [[2019]][DLNL2019] 
 * DLSL - Deep Learning for Speech and Language UPC TelecomBCN. [[2017]][DLSL2017] [[2018]][DLSL2018]
@@ -52,7 +53,12 @@ We have grouped our lectures in the following tracks:
 [DLAI2017]: https://telecombcn-dl.github.io/2017-dlai/
 [DLAI2018]: https://telecombcn-dl.github.io/2018-dlai/
 [DLAI2019]: https://telecombcn-dl.github.io/dlai-2019/
+[DLAI2020]: https://telecombcn-dl.github.io/dlai-2020/
 
+[DRL2020]: https://telecombcn-dl.github.io/drl-2020/
+
+[AIDLonline]: https://www.talent.upc.edu/ing/estudis/formacio/curs/310401/postgraduate-course-artificial-intelligence-deep-learning/
+[AIDLonsite]: https://www.talent.upc.edu/ing/estudis/formacio/curs/310400/postgraduate-course-artificial-intelligence-deep-learning/
 [AIDL2019]: https://github.com/upcschool-ai/2019-spring/blob/master/README.md
 
 [DLCV2016]: http://imatge-upc.github.io/telecombcn-2016-dlcv/
