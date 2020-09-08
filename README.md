@@ -20,7 +20,7 @@ Central repository for all lectures on deep learning at [UPC ETSETB TelecomBCN](
 
 We have grouped our lectures in the following tracks:
 
-* [Architectures](deep-learning.md)
+* [Architectures](architectures.md)
 * [Training](training.md)
 * [Learning Paradigms](learning.md)
 * [Generative Models](generative.md)
