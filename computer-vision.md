@@ -25,6 +25,8 @@
 
 [AIDL2020]: https://www.talent.upc.edu/ing/estudis/formacio/curs/310400/postgraduate-course-artificial-intelligence-deep-learning/
 
+[ISSonDL2020]: http://2020.dl-lab.eu/
+
 # Computer Vision
 
 ## Still image
@@ -58,14 +60,16 @@
 |        | [Kevin McGuinness][KM-web]| [DLCV2017] | [Slides][dlcv2017-d4l5-slides]  |    |
 |        | [Eva Mohedano][EM-web]| [DLCV2016] | [Slides][dlcv2016-retrieval-slides]  | [Video][dlcv2016-retrieval-video] |
 | Semantic Segmentation  | | | | |
+|                | [Xavier Giro][XG-web] | [ISSonDL2020] | [Slides][issondl2020-slides]  |   |
 |                | [Miriam Bellver][MB-web] | [DLCV2018] | [Slides][dlcv2018-d2l3-slides]  | [Video][dlcv2018-d2l3-video]  |
 |                | [Veronica Vilaplana][VV-web] | [DLCV2017] | [Slides][dlcv2017-d3l1-slides]  |   |
 | | [Amaia Salvador][AS-web] | [DLCV2016] | [Slides][dlcv2016-segmentation-slides] | [Video][dlcv2016-segmentation-video]|
 | Instance Segmentation  | | | | |
 |                | [Miriam Bellver][MB-web] | [DLCV 2018][dlcv2018] | [Slides][dlcv2018-d2l4-slides]  | [Video][dlcv2018-d2l4-video]   |
 | 3D Analysis  | | | | |
-|                | [Javier Ruiz][JR-web]| [DLCV2018] | [[Slides]][dlcv2018-d4l1-slides]  | [Slides][dlcv2018-d4l1-video] |
-|                | [Javier Ruiz][JR-web]| [DLCV2017] | [[Slides]][dlcv2017-d4l1-slides]  | [Video][dlcv2017-d4l1-video] |
+|                | [Javier Ruiz][JR-web]| [DLCV2019] |   | [Video][dlcv2019-3danalysis-video] |
+|                | [Javier Ruiz][JR-web]| [DLCV2018] | [Slides][dlcv2018-d4l1-slides]  | [Video][dlcv2018-d4l1-video] |
+|                | [Javier Ruiz][JR-web]| [DLCV2017] | [Slides][dlcv2017-d4l1-slides]  | [Video][dlcv2017-d4l1-video] |
 | 3D Reconstruction  | | | | |
 |                | [Eduard Ramon][ER-web]| [DLCV 2018][dlcv2018] | [[Slides]][dlcv2018-d4l2-slides]  | [Video][dlcv2018-d4l2-video] |
 | Medical Imaging  | | | | |
@@ -188,6 +192,7 @@
 
 [dlcv2019-d1l3-video]: https://www.youtube.com/watch?v=fwl4sflxnpc
 [dlcv2019-d1l5-video]: https://youtu.be/XpvLRawGP7Y
+[dlcv2019-3danalysis-video]: https://www.youtube.com/watch?v=79NFb_Aw5ys
 
 [mcv2020-architectures-slides]: https://www.slideshare.net/xavigiro/neural-architectures-for-video-encoding
 [mcv2020-architectures-video]: https://youtu.be/uddedoDHGis
@@ -197,6 +202,7 @@
 
 [aidl2020-object-slides]: https://www.slideshare.net/xavigiro/object-detection-with-deep-learning-xavier-giroinieto-upc-school-barcelona-2002/
 
+[issondl2020-slides]: https://www.slideshare.net/xavigiro/image-segmentation-with-deep-learning-xavier-giro-carles-ventura-issondl-2020
 
 
 
