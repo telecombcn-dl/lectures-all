@@ -47,6 +47,7 @@
 | Topic          | Lecturer                     | Course                 | Slides                    | Video             |
 | -------------- |  --------------------------- | ---------------------- | :-----------------------: | :---------------: |
 | Machine learning     | | | | |
+|                | [Xavier Giro-i-Nieto][XG-web] | [DLAI2019] | [Slides][dlai2019-ml-slides] |  | 
 |                | [Verónica Vilaplana][VV-web] | [IDL2018] | [Slides][idl2018-d1l2-slides] |  | 
 |                | [Elisa Sayrol][ES-web] | [DLCV2016] | [Slides][dlcv2016-classification-slides]  |   |
 | Data augmentation     | | | | |
@@ -129,6 +130,8 @@
 [dlai2018-d09l1-video]: https://youtu.be/b3CI46RSOjU
 [dlai2018-d09l2-slides]: https://www.slideshare.net/xavigiro/pixelcnn-wavenet-normalizing-flows-santiago-pascual-upc-barcelona-2018
 [dlai2018-d11l1-slides]: https://www.slideshare.net/xavigiro/reinforcement-learning-reloaded-xavier-girinieto-upc-barcelona-2018
+
+[dlai2019-ml-slides]: https://github.com/telecombcn-dl/dlai-2019/raw/master/slides/dlai_2019_d01l2_ml.pdf
 
 [dlcv2019-bayesian-video]: https://youtu.be/sTA05S6v5OA
 
