@@ -40,27 +40,32 @@
 [MCV]: http://pagines.uab.cat/mcv/
 [MCV2020]: https://mcv-m6-video.github.io/deepvideo-2020/
 
+[AA2019]:https://www.fib.upc.edu/ca/estudis/graus/grau-en-ciencia-i-enginyeria-de-dades/pla-destudis/assignatures/AA2-GCED
+
 # Architectures
 
 | Lecture          | Instructor                 | Course                 | Slides                    | Video             |
 | -------------- |  --------------------------- | ---------------------- | :-----------------------: | :---------------: |
 | Architectures  | | | | |
 |     | [Xavier Giro-i-Nieto][XG-web]| [DLCV2018] | [Slides][dlcv2018-d1l2-slides]  | [Video][dlcv2018-d1l2-video] |
-|     | [Xavier Giro-i-Nieto][XG-web]| [IDL2018] | [Slides][dlcv2018-d1l2-slides]   | [Video][dlcv2018-d1l2-video] |
+|     | [Xavier Giro-i-Nieto][XG-web]| [IDL2018] | [Slides][idl2018-d4l4-slides]   |  |
 | Perceptron     | | | | |
+|      | [Xavier Giro-i-Nieto][XG-web] | [DLAI2019] | [Slides][dlai2019-perceptron-slides]  |  |
 |      | [Xavier Giro-i-Nieto][XG-web] | [DLAI2018] | [Slides][dlai2018-d01l2-slides]  | [Video][dlai2018-d01l2-video] |
 |      | [Antonio Bonafonte][AB-web] | [IDL2018] | [Slides][idl2018-d1l3-slides] |  |
 |      | [Xavier Giro-i-Nieto][XG-web] | [DLAI2017] | [Slides][dlai2017-d1l2-slides] | [Video][dlai2017-d1l2-video]  | 
 |      | [Kevin McGuinness][KM-web] | [DLCV2017] | [Slides][dlcv2017-d1l2-slides]  |  |
 | Multi-layer Perceptrons (MLP)    | | | | |
+|      | [Xavier Giro-i-Nieto][XG-web] | [DLAI2019] | [Slides][dlai2019-mlp-slides]  |  |
 |      | [Elisa Sayrol][ES-web] | [DLAI2018] | [Slides][dlai2018-d02l1-slides] |       | 
 |      | [Elisa Sayrol][ES-web] | [IDL2018] | [Slides][idl2018-d1l4-slides] |       | 
 |      | [Elisa Sayrol][ES-web] | [DLAI2017] | [Slides][dlai2017-d2l1-slides] | [Video][dlai2017-d2l1-video]      | 
-|      | [Xavier Giro-i-Nieto][XG-web] | [DLCV2016] | [Slides][dlcv2016-deep-slides] |   | 
+|      | [Elisa Sayrol][ES-web] | [DLCV2016] | [Slides][dlcv2016-deep-slides] |   | 
 | Convolutional Neural Networks (CNN)     | | | | |
+|     | [Xavier Giro-i-Nieto][XG-web]| [AA2019] | [Slides][aa2019-cnn-slides]  |  |
 |                | [Verónica Vilaplana][VV-web]  | [IDL2018] | [Slides][idl2018-d3l1-slides] |  |
 |                | [Verónica Vilaplana][VV-web]  | [DLAI2017] | [Slideshare][dlai2017-d5l1-slides] |  |
-|                | [Elisa Sayrol][ES-web]  | [DLCV2017] | [Slideshare][dlcv2016-training-slides] |  |
+|                | [Elisa Sayrol][ES-web] | [DLCV2016] | [Slides][dlcv2016-deep-slides] |   | 
 | Interpretability     | | | | |
 |   | [Xavier Giro-i-Nieto][XG-web]| [DLAI2019] | [Slides][dlai2019-interpretability-slides]  |  |
 |   | [Laura Leal-Taixe][LL-web] | [DLCV2019] |   | [Video][dlcv2019-interpretability-video]    |
@@ -157,9 +162,13 @@
 
 [dlcv2019-interpretability-video]: https://youtu.be/iziWfbAjHkM
 
+[dlai2019-perceptron-slides]: https://github.com/telecombcn-dl/dlai-2019/raw/master/slides/dlai_2019_d02l1_perceptron.pdf
+[dlai2019-mlp-slides]: https://github.com/telecombcn-dl/dlai-2019/raw/master/slides/dlai_2019_d02l4_mlp.pdf
 [dlai2019-imagenet-slides]: https://github.com/telecombcn-dl/dlai-2019/raw/master/slides/dlai_2019_d08l1_architectures.pdf
 [dlai2019-nas-slides]: https://github.com/telecombcn-dl/dlai-2019/raw/master/slides/dlai_2019_d08l2_nas.pdf
 [dlai2019-interpretability-slides]: https://github.com/telecombcn-dl/dlai-2019/raw/master/slides/dlai_2019_d07l1_interpretability.pdf
+
+[aa2019-cnn-slides]: https://github.com/telecombcn-dl/dlai-2019/raw/master/slides/aa2_dl_2019_06_cnn.pdf
 
 [mcv2020-rnn-slides]: https://www.slideshare.net/xavigiro/recurrent-neural-networks-rnn-xavier-giro-upc-telecombcn-barcelona-2020
 [mcv2020-rnn-video]: https://youtu.be/C0je4a2XWdo
