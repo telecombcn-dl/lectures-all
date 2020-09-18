@@ -34,6 +34,7 @@
 [DLAI2017]: https://telecombcn-dl.github.io/2017-dlai/
 [DLAI2018]: https://telecombcn-dl.github.io/2018-dlai/
 [DLAI2019]: https://telecombcn-dl.github.io/dlai-2019/
+[DLAI2020]: https://telecombcn-dl.github.io/dlai-2020/
 
 [MCV2018]: https://mcv-m6-video.github.io/deepvideo-2018/
 [MCV2019]: https://mcv-m6-video.github.io/deepvideo-2019/
@@ -47,6 +48,7 @@
 | Topic          | Lecturer                     | Course                 | Slides                    | Video             |
 | -------------- |  --------------------------- | ---------------------- | :-----------------------: | :---------------: |
 | Machine learning     | | | | |
+|                | [Xavier Giro-i-Nieto][XG-web] | [DLAI2020] | [Slides][dlai2020-ml-slides] | [English][dlai2020-ml-english], [Català][gdsa2020-ml-catala] | 
 |                | [Xavier Giro-i-Nieto][XG-web] | [DLAI2019] | [Slides][dlai2019-ml-slides] |  | 
 |                | [Verónica Vilaplana][VV-web] | [IDL2018] | [Slides][idl2018-d1l2-slides] |  | 
 |                | [Elisa Sayrol][ES-web] | [DLCV2016] | [Slides][dlcv2016-classification-slides]  |   |
@@ -138,7 +140,9 @@
 [xeurope2020-self-slides]: https://www.slideshare.net/xavigiro/deep-selfsupervised-learning-for-all-xavier-giro-xeurope-2020
 [xeurope2020-self-video]: https://youtu.be/wxJ6SJeNhNg
 
+[dlai2020-ml-slides]: https://github.com/telecombcn-dl/dlai-2020/blob/master/slides/dlai_2020_01_ml.pdf
+[dlai2020-ml-english]: https://drive.google.com/file/d/1mIYj_1-y0D6Ws7RnEy3iORGp_DwvzhbC/view?usp=sharing
 
-
+[gdsa2020-ml-catala]: https://drive.google.com/file/d/1eNg8C3kEcBOzFttgbo2kWHPEP2EDCtvq/view?usp=sharing
 
 
