@@ -141,8 +141,8 @@
 [xeurope2020-self-video]: https://youtu.be/wxJ6SJeNhNg
 
 [dlai2020-ml-slides]: https://github.com/telecombcn-dl/dlai-2020/blob/master/slides/dlai_2020_01_ml.pdf
-[dlai2020-ml-english]: https://drive.google.com/file/d/1mIYj_1-y0D6Ws7RnEy3iORGp_DwvzhbC/view?usp=sharing
+[dlai2020-ml-english]: https://youtu.be/fuwDBSTlu4o
 
-[gdsa2020-ml-catala]: https://drive.google.com/file/d/1eNg8C3kEcBOzFttgbo2kWHPEP2EDCtvq/view?usp=sharing
+[gdsa2020-ml-catala]: https://youtu.be/rXn1vkhUZZk
 
 
