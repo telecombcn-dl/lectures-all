@@ -36,6 +36,7 @@
 [DLAI2017]: https://telecombcn-dl.github.io/2017-dlai/
 [DLAI2018]: https://telecombcn-dl.github.io/2018-dlai/
 [DLAI2019]: https://telecombcn-dl.github.io/dlai-2019/
+[DLAI2020]: https://telecombcn-dl.github.io/dlai-2020/
 
 [MCV]: http://pagines.uab.cat/mcv/
 [MCV2020]: https://mcv-m6-video.github.io/deepvideo-2020/
