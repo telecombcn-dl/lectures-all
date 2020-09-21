@@ -34,12 +34,14 @@
 [DLAI2017]: https://telecombcn-dl.github.io/2017-dlai/
 [DLAI2018]: https://telecombcn-dl.github.io/2018-dlai/
 [DLAI2019]: https://telecombcn-dl.github.io/dlai-2019/
+[DLAI2020]: https://telecombcn-dl.github.io/dlai-2020/
 
 # How to train your DNN
 
 | Lecture          | Instructor                 | Course                 | Slides                    | Video             |
 | -------------- |  --------------------------- | ---------------------- | :-----------------------: | :---------------: |
 | Backpropagation     | | | | |
+|    | [Xavier Giro][XG-web]  | [DLAI2020] | | [Video][dlai-2020-backprop-video]       | 
 |    | [Xavier Giro][XG-web]  | [DLAI2019] | [Slides][dlai2019-backprop-slides] |       | 
 |    | [Elisa Sayrol][ES-web] | [DLAI2018] | [Slides][dlai2018-d02l2-slides] |       | 
 |    | [Elisa Sayrol][ES-web] | [IDL2018]  | [Slides][idl2018-d2l1-slides] |       | 
@@ -91,5 +93,5 @@
 [dlai2019-losses-slides]: https://github.com/telecombcn-dl/dlai-2019/raw/master/slides/dlai_2019_d04l1_losses.pdf
 [dlai2019-d05l2-slides]: https://github.com/telecombcn-dl/dlai-2019/raw/master/slides/dlai_2019_d05l2_methodology.pdf
 
-
+[dlai-2020-backprop-video]: https://youtu.be/mD3KouDAS5Y
 
