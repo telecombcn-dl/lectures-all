@@ -50,12 +50,16 @@
 |     | [Xavier Giro-i-Nieto][XG-web]| [DLCV2018] | [Slides][dlcv2018-d1l2-slides]  | [Video][dlcv2018-d1l2-video] |
 |     | [Xavier Giro-i-Nieto][XG-web]| [IDL2018] | [Slides][idl2018-d4l4-slides]   |  |
 | Perceptron     | | | | |
+|      | [Xavier Giro-i-Nieto][XG-web] | [DLAI2020] |  | [Video][dlai-2020-perceptron-video] |
 |      | [Xavier Giro-i-Nieto][XG-web] | [DLAI2019] | [Slides][dlai2019-perceptron-slides]  |  |
+| Softmax Layer     | | | | |
+|      | [Xavier Giro-i-Nieto][XG-web] | [DLAI2020] |  | [Video][dlai-2020-softmax-video] |
 |      | [Xavier Giro-i-Nieto][XG-web] | [DLAI2018] | [Slides][dlai2018-d01l2-slides]  | [Video][dlai2018-d01l2-video] |
 |      | [Antonio Bonafonte][AB-web] | [IDL2018] | [Slides][idl2018-d1l3-slides] |  |
 |      | [Xavier Giro-i-Nieto][XG-web] | [DLAI2017] | [Slides][dlai2017-d1l2-slides] | [Video][dlai2017-d1l2-video]  | 
 |      | [Kevin McGuinness][KM-web] | [DLCV2017] | [Slides][dlcv2017-d1l2-slides]  |  |
 | Multi-layer Perceptrons (MLP)    | | | | |
+|      | [Xavier Giro-i-Nieto][XG-web] | [DLAI2020] |   | [Video][dlai-2020-mlp-video] |
 |      | [Xavier Giro-i-Nieto][XG-web] | [DLAI2019] | [Slides][dlai2019-mlp-slides]  |  |
 |      | [Elisa Sayrol][ES-web] | [DLAI2018] | [Slides][dlai2018-d02l1-slides] |       | 
 |      | [Elisa Sayrol][ES-web] | [IDL2018] | [Slides][idl2018-d1l4-slides] |       | 
@@ -172,6 +176,11 @@
 
 [mcv2020-rnn-slides]: https://www.slideshare.net/xavigiro/recurrent-neural-networks-rnn-xavier-giro-upc-telecombcn-barcelona-2020
 [mcv2020-rnn-video]: https://youtu.be/C0je4a2XWdo
+
+[dlai-2020-perceptron-video]: https://youtu.be/uov7XmTGDBs
+[dlai-2020-backprop-video]: https://youtu.be/mD3KouDAS5Y
+[dlai-2020-softmax-video]: https://youtu.be/Df6Rnbw-tog
+[dlai-2020-mlp-video]: https://youtu.be/hZN3qg46oiM
 
 
 
