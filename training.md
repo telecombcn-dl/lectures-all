@@ -36,11 +36,14 @@
 [DLAI2019]: https://telecombcn-dl.github.io/dlai-2019/
 [DLAI2020]: https://telecombcn-dl.github.io/dlai-2020/
 
+[GDSA2020]: http://www.upc.edu/estudispdf/guia_docent.php/guiadocent-obtenir-pdf?codi=320115&idioma=ca&grup=1
+
 # How to train your DNN
 
 | Lecture          | Instructor                 | Course                 | Slides                    | Video             |
 | -------------- |  --------------------------- | ---------------------- | :-----------------------: | :---------------: |
 | Backpropagation     | | | | |
+|    | [Xavier Giro][XG-web]  | [GDSA2020] | | [Català][gdsa-2020-backprop-video]       | 
 |    | [Xavier Giro][XG-web]  | [DLAI2020] | | [Video][dlai-2020-backprop-video]       | 
 |    | [Xavier Giro][XG-web]  | [DLAI2019] | [Slides][dlai2019-backprop-slides] |       | 
 |    | [Elisa Sayrol][ES-web] | [DLAI2018] | [Slides][dlai2018-d02l2-slides] |       | 
@@ -94,4 +97,6 @@
 [dlai2019-d05l2-slides]: https://github.com/telecombcn-dl/dlai-2019/raw/master/slides/dlai_2019_d05l2_methodology.pdf
 
 [dlai-2020-backprop-video]: https://youtu.be/mD3KouDAS5Y
+
+[gdsa-2020-backprop-video]: https://www.youtube.com/watch?v=dWpRZvafy08
 
