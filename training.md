@@ -44,14 +44,14 @@
 | -------------- |  --------------------------- | ---------------------- | :-----------------------: | :---------------: |
 | Backpropagation     | | | | |
 |    | [Xavier Giro][XG-web]  | [GDSA2020] | | [Català][gdsa-2020-backprop-video]       | 
-|    | [Xavier Giro][XG-web]  | [DLAI2020] | | [Video][dlai-2020-backprop-video]       | 
+|    | [Xavier Giro][XG-web]  | [DLAI2020] | | [English][dlai-2020-backprop-video]       | 
 |    | [Xavier Giro][XG-web]  | [DLAI2019] | [Slides][dlai2019-backprop-slides] |       | 
 |    | [Elisa Sayrol][ES-web] | [DLAI2018] | [Slides][dlai2018-d02l2-slides] |       | 
 |    | [Elisa Sayrol][ES-web] | [IDL2018]  | [Slides][idl2018-d2l1-slides] |       | 
-|    | [Elisa Sayrol][ES-web] | [DLAI2017] | [Slides][dlai2017-d3l1-slides]| [Video][dlai2017-d3l1-video] |
+|    | [Elisa Sayrol][ES-web] | [DLAI2017] | [Slides][dlai2017-d3l1-slides]| [English][dlai2017-d3l1-video] |
 |    | [Elisa Sayrol][ES-web] | [DLCV2017] | [Slides][dlcv2017-d1l5-slides]|  |
-|    | [Elisa Sayrol][ES-web] | [DLSL2017] |    | [Video][dlsl2017-backprop-video] |
-|    | [Elisa Sayrol][ES-web] | [DLCV2016] | [Slides][dlcv2016-backprop-slides]| | [[Video]][dlcv2016-backprop-video]|  |
+|    | [Elisa Sayrol][ES-web] | [DLSL2017] |    | [English][dlsl2017-backprop-video] |
+|    | [Elisa Sayrol][ES-web] | [DLCV2016] | [Slides][dlcv2016-backprop-slides]| | [[English]][dlcv2016-backprop-video]|  |
 | Optimization     | | | | |
 |                | [Verónica Vilaplana][VV-web] | [IDL2018] | [Slides][idl2018-d2l2-slides] |  |
 |                | [Verónica Vilaplana][VV-web] | [DLAI2017] | [Slides][dlai2017-d4l1-slides] |  |
