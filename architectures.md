@@ -38,6 +38,8 @@
 [DLAI2019]: https://telecombcn-dl.github.io/dlai-2019/
 [DLAI2020]: https://telecombcn-dl.github.io/dlai-2020/
 
+[GDSA2020]: http://www.upc.edu/estudispdf/guia_docent.php/guiadocent-obtenir-pdf?codi=320115&idioma=ca&grup=1
+
 [MCV]: http://pagines.uab.cat/mcv/
 [MCV2020]: https://mcv-m6-video.github.io/deepvideo-2020/
 
@@ -48,57 +50,60 @@
 | Lecture          | Instructor                 | Course                 | Slides                    | Video             |
 | -------------- |  --------------------------- | ---------------------- | :-----------------------: | :---------------: |
 | Architectures  | | | | |
-|     | [Xavier Giro-i-Nieto][XG-web]| [DLCV2018] | [Slides][dlcv2018-d1l2-slides]  | [Video][dlcv2018-d1l2-video] |
+|     | [Xavier Giro-i-Nieto][XG-web]| [DLCV2018] | [Slides][dlcv2018-d1l2-slides]  | [English][dlcv2018-d1l2-video] |
 |     | [Xavier Giro-i-Nieto][XG-web]| [IDL2018] | [Slides][idl2018-d4l4-slides]   |  |
 | Perceptron     | | | | |
-|      | [Xavier Giro-i-Nieto][XG-web] | [DLAI2020] |  | [Video][dlai-2020-perceptron-video] |
+|      | [Xavier Giro-i-Nieto][XG-web] | [GDSA2020] |  | [Català][dlai-2020-perceptron-video] |
+|      | [Xavier Giro-i-Nieto][XG-web] | [DLAI2020] |  | [English][dlai-2020-perceptron-video] |
 |      | [Xavier Giro-i-Nieto][XG-web] | [DLAI2019] | [Slides][dlai2019-perceptron-slides]  |  |
 | Softmax Layer     | | | | |
-|      | [Xavier Giro-i-Nieto][XG-web] | [DLAI2020] |  | [Video][dlai-2020-softmax-video] |
-|      | [Xavier Giro-i-Nieto][XG-web] | [DLAI2018] | [Slides][dlai2018-d01l2-slides]  | [Video][dlai2018-d01l2-video] |
+|      | [Xavier Giro-i-Nieto][XG-web] | [GDSA2020] |  | [Català][dlai-2020-softmax-video] |
+|      | [Xavier Giro-i-Nieto][XG-web] | [DLAI2020] |  | [English][dlai-2020-softmax-video] |
+|      | [Xavier Giro-i-Nieto][XG-web] | [DLAI2018] | [Slides][dlai2018-d01l2-slides]  | [English][dlai2018-d01l2-video] |
 |      | [Antonio Bonafonte][AB-web] | [IDL2018] | [Slides][idl2018-d1l3-slides] |  |
-|      | [Xavier Giro-i-Nieto][XG-web] | [DLAI2017] | [Slides][dlai2017-d1l2-slides] | [Video][dlai2017-d1l2-video]  | 
+|      | [Xavier Giro-i-Nieto][XG-web] | [DLAI2017] | [Slides][dlai2017-d1l2-slides] | [English][dlai2017-d1l2-video]  | 
 |      | [Kevin McGuinness][KM-web] | [DLCV2017] | [Slides][dlcv2017-d1l2-slides]  |  |
 | Multi-layer Perceptrons (MLP)    | | | | |
-|      | [Xavier Giro-i-Nieto][XG-web] | [DLAI2020] |   | [Video][dlai-2020-mlp-video] |
+|      | [Xavier Giro-i-Nieto][XG-web] | [GDSA2020] |  | [Català][gdsa-2020-mlp-video] |
+|      | [Xavier Giro-i-Nieto][XG-web] | [DLAI2020] |   | [English][dlai-2020-mlp-video] |
 |      | [Xavier Giro-i-Nieto][XG-web] | [DLAI2019] | [Slides][dlai2019-mlp-slides]  |  |
 |      | [Elisa Sayrol][ES-web] | [DLAI2018] | [Slides][dlai2018-d02l1-slides] |       | 
 |      | [Elisa Sayrol][ES-web] | [IDL2018] | [Slides][idl2018-d1l4-slides] |       | 
-|      | [Elisa Sayrol][ES-web] | [DLAI2017] | [Slides][dlai2017-d2l1-slides] | [Video][dlai2017-d2l1-video]      | 
+|      | [Elisa Sayrol][ES-web] | [DLAI2017] | [Slides][dlai2017-d2l1-slides] | [English][dlai2017-d2l1-video]      | 
 |      | [Elisa Sayrol][ES-web] | [DLCV2016] | [Slides][dlcv2016-deep-slides] |   | 
 | Convolutional Neural Networks (CNN)     | | | | |
 |     | [Xavier Giro-i-Nieto][XG-web]| [AA2019] | [Slides][aa2019-cnn-slides]  |  |
 |                | [Verónica Vilaplana][VV-web]  | [IDL2018] | [Slides][idl2018-d3l1-slides] |  |
-|                | [Verónica Vilaplana][VV-web]  | [DLAI2017] | [Slideshare][dlai2017-d5l1-slides] |  |
+|                | [Verónica Vilaplana][VV-web]  | [DLAI2017] | [Slides][dlai2017-d5l1-slides] |  |
 |                | [Elisa Sayrol][ES-web] | [DLCV2016] | [Slides][dlcv2016-deep-slides] |   | 
 | Interpretability     | | | | |
 |   | [Xavier Giro-i-Nieto][XG-web]| [DLAI2019] | [Slides][dlai2019-interpretability-slides]  |  |
-|   | [Laura Leal-Taixe][LL-web] | [DLCV2019] |   | [Video][dlcv2019-interpretability-video]    |
-|   | [Eva Mohedano][EM-web] | [DLCV2018] | [Slides][dlcv2018-interpretability-slides]  | [Video][dlcv2018-interpretability-video]    |
+|   | [Laura Leal-Taixe][LL-web] | [DLCV2019] |   | [English][dlcv2019-interpretability-video]    |
+|   | [Eva Mohedano][EM-web] | [DLCV2018] | [Slides][dlcv2018-interpretability-slides]  | [English][dlcv2018-interpretability-video]    |
 |   | [Amaia Salvador][AS-web] | [DLCV2017] | [Slides][dlcv2017-interpretability-slides]  |    |
-|   | [Amaia Salvador][AS-web] | [DLCV2016] | [Slides][dlcv2016-visualization-slides] | [Video][dlcv2016-visualization-video]|
+|   | [Amaia Salvador][AS-web] | [DLCV2016] | [Slides][dlcv2016-visualization-slides] | [English][dlcv2016-visualization-video]|
 | ImageNet Challenge     | | | | |
 |   | [Xavier Giro-i-Nieto][XG-web]| [DLAI2019] | [Slides][dlai2019-imagenet-slides]  |  |
-|   | [Kevin McGuinness][KM-web]   | [DLCV2018] | [Slides][dlcv2018-imagenet-slides]  | [Video][dlcv2018-imagenet-video]    |
-|   | [Xavier Giro-i-Nieto][XG-web]| [DLCV2017] | [Slides][dlcv2017-imagenet-slides]  | [Video][dlcv2017-imagenet-video] | 
+|   | [Kevin McGuinness][KM-web]   | [DLCV2018] | [Slides][dlcv2018-imagenet-slides]  | [English][dlcv2018-imagenet-video]    |
+|   | [Xavier Giro-i-Nieto][XG-web]| [DLCV2017] | [Slides][dlcv2017-imagenet-slides]  | [English][dlcv2017-imagenet-video] | 
 |   | [Xavier Giro-i-Nieto][XG-web]| [DLCV2016] | [Slides][dlcv2016-imagenet-slides]  |  | 
 | Recurrent Neural Networks (RNN)      | | | | |
-|      | [Xavier Giro-i-Nieto][XG-web]  | [MCV2020] | [Slides][mcv2020-rnn-slides] | [Video][mcv2020-rnn-video] |
+|      | [Xavier Giro-i-Nieto][XG-web]  | [MCV2020] | [Slides][mcv2020-rnn-slides] | [English][mcv2020-rnn-video] |
 |      | [Marta R. Costa-jussà][MC-web]  | [IDL2018] | [Slides (I)][idl2018-d3l3-slides] |  |
 |      | [Marta R. Costa-jussà][MC-web]  | [IDL2018] | [Slides (II)][idl2018-d3l4-slides] |  |
-|      | [Marta R. Costa-jussà][MC-web]  | [DLAI2017] | [Slides][dlai2017-d7l1-slides] |  [Video][dlai2017-d7l1-video] |
+|      | [Marta R. Costa-jussà][MC-web]  | [DLAI2017] | [Slides][dlai2017-d7l1-slides] |  [English][dlai2017-d7l1-video] |
 |      | [Xavier Giro-i-Nieto][XG-web] | [DLCV2017] | [Slides][dlcv2017-d2l2-slides] |  | 
 |      | [Santiago Pascual][SP-web] | [DLSL2017] |  | [Video][dlsl2017-rnn-video] | 
-|      | [Xavier Giro-i-Nieto][XG-web] | [DLCV2016] | [Slides][dlcv2016-rnn-slides] | [Video][dlcv2016-rnn-slides] | 
+|      | [Xavier Giro-i-Nieto][XG-web] | [DLCV2016] | [Slides][dlcv2016-rnn-slides] | [English][dlcv2016-rnn-slides] | 
 | Attention      | | | | |
-|     | [Marta R. Costa-jussà][MC-web] | [IDL2018] | [Slides][idl2018-d4l1-slides] | [Video][idl2018-d4l1-video]  |
-|     | [Marta R. Costa-jussà][MC-web]  | [DLAI2017] | [Slides][dlai2017-d8l-slides] |  [Video][dlai2017-d8l2-video] |
+|     | [Marta R. Costa-jussà][MC-web] | [IDL2018] | [Slides][idl2018-d4l1-slides] | [English][idl2018-d4l1-video]  |
+|     | [Marta R. Costa-jussà][MC-web]  | [DLAI2017] | [Slides][dlai2017-d8l-slides] |  [English][dlai2017-d8l2-video] |
 |     | [Amaia Salvador][AS-web]     | [DLCV2017] | [Slides][dlcv2017-d3l6-slides] |  |
-|     | [Amaia Salvador][AS-web]     | [DLCV2016] | [Slides][dlcv2016-attention-slides] | [Video][dlcv2016-attention-video] |
+|     | [Amaia Salvador][AS-web]     | [DLCV2016] | [Slides][dlcv2016-attention-slides] | [English][dlcv2016-attention-video] |
 | Neural Architecture Search   | | | | |
 |     | [Xavier Giro-i-Nieto][XG-web]| [DLAI2019] | [Slides][dlai2019-nas-slides]  |  |
 | Set learning   | | | | |
-|     | [Laura-Leal Taixé][LL-web]   | [DLCV2018] | [Slides][dlcv2018-d3l6-slides]  | [Video][dlcv2018-d3l6-video]   |
+|     | [Laura-Leal Taixé][LL-web]   | [DLCV2018] | [Slides][dlcv2018-d3l6-slides]  | [English][dlcv2018-d3l6-video]   |
 | Compression     | | | | |
 |      | [Joost van der Weijer][JW-web] | [IDL2018] | [Slides][idl2018-d5l1-slides] |  |
 
@@ -183,7 +188,10 @@
 [dlai-2020-softmax-video]: https://youtu.be/Df6Rnbw-tog
 [dlai-2020-mlp-video]: https://youtu.be/hZN3qg46oiM
 
-
+[gdsa-2020-perceptron-video]: https://youtu.be/NYfvs4fm2wk
+[gdsa-2020-backprop-video]: https://youtu.be/dWpRZvafy08
+[gdsa-2020-softmax-video]: https://youtu.be/SfEPVKC6Epk
+[gdsa-2020-mlp-video]: https://youtu.be/AedIY2jvW-A
 
 
 
