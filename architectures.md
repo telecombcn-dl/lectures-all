@@ -12,6 +12,8 @@
 [AB-web]: https://scholar.google.es/citations?user=C5AUXO4AAAAJ&hl=en
 [MB-web]: https://imatge.upc.edu/web/people/miriam-bellver
 
+[LS-web]: https://imatge.upc.edu/web/people/luis-fernando-salgueiro
+
 [JS-web]: https://scholar.google.com/citations?user=sZLj96sAAAAJ&hl=en
 [JW-web]: https://scholar.google.com/citations?user=Gsw2iUEAAAAJ&hl=en
 
@@ -53,7 +55,8 @@
 |     | [Xavier Giro-i-Nieto][XG-web]| [DLCV2018] | [Slides][dlcv2018-d1l2-slides]  | [English][dlcv2018-d1l2-video] | |
 |     | [Xavier Giro-i-Nieto][XG-web]| [IDL2018] | [Slides][idl2018-d4l4-slides]   |  | |
 | Perceptron     | | | | | |
-|      | [Xavier Giro-i-Nieto][XG-web] | [GDSA2020] |  |  | [Jupyter][gdsa-2020-lab01-tensors] |
+|      | [Luis F. Salgueiro][LS-web] | [DLAI2020] |  | [English][dlai-2020-lab01-tensors-video]  | [Tensors][dlai-2019-lab01-tensors] |
+|      | [Xavier Giro-i-Nieto][XG-web] | [GDSA2020] |  | [Català][gdsa-2020-lab03-regression-video]  | [Regression][dlai-2019-lab03-regression] |
 |      | [Xavier Giro-i-Nieto][XG-web] | [GDSA2020] |  | [Català][dlai-2020-perceptron-video] | |
 |      | [Xavier Giro-i-Nieto][XG-web] | [DLAI2020] |  | [English][dlai-2020-perceptron-video] | |
 |      | [Xavier Giro-i-Nieto][XG-web] | [DLAI2019] | [Slides][dlai2019-perceptron-slides]  |  | |
@@ -179,6 +182,9 @@
 [dlai2019-nas-slides]: https://github.com/telecombcn-dl/dlai-2019/raw/master/slides/dlai_2019_d08l2_nas.pdf
 [dlai2019-interpretability-slides]: https://github.com/telecombcn-dl/dlai-2019/raw/master/slides/dlai_2019_d07l1_interpretability.pdf
 
+[dlai-2019-lab01-tensors]: https://github.com/telecombcn-dl/dlai-2019/blob/master/labs/dlai_2019_lab01_tensors_todo.ipynb
+[dlai-2019-lab03-regression]: https://github.com/telecombcn-dl/dlai-2019/blob/master/labs/dlai_2019_lab03_regressor_todo.ipynb
+
 [aa2019-cnn-slides]: https://github.com/telecombcn-dl/dlai-2019/raw/master/slides/aa2_dl_2019_06_cnn.pdf
 
 [mcv2020-rnn-slides]: https://www.slideshare.net/xavigiro/recurrent-neural-networks-rnn-xavier-giro-upc-telecombcn-barcelona-2020
@@ -188,13 +194,14 @@
 [dlai-2020-backprop-video]: https://youtu.be/mD3KouDAS5Y
 [dlai-2020-softmax-video]: https://youtu.be/Df6Rnbw-tog
 [dlai-2020-mlp-video]: https://youtu.be/hZN3qg46oiM
+[dlai-2020-lab01-tensors-video]: https://www.youtube.com/watch?v=y_Wh2lWZp3A&t=172s
 
 [gdsa-2020-perceptron-video]: https://youtu.be/NYfvs4fm2wk
 [gdsa-2020-backprop-video]: https://youtu.be/dWpRZvafy08
 [gdsa-2020-softmax-video]: https://youtu.be/SfEPVKC6Epk
 [gdsa-2020-mlp-video]: https://youtu.be/AedIY2jvW-A
 
-[gdsa-2020-lab01-tensors]: https://github.com/telecombcn-dl/dlai-2019/blob/master/labs/dlai_2019_lab01_tensors_todo.ipynb
+[gdsa-2020-lab03-regression-video]: https://youtu.be/dp4zHrqiF8I
 
 
 
