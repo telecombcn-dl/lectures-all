@@ -11,6 +11,7 @@
 [SP-web]: https://scholar.google.com/citations?user=7cVOyh0AAAAJ&hl=en
 [AB-web]: https://scholar.google.es/citations?user=C5AUXO4AAAAJ&hl=en
 [MB-web]: https://imatge.upc.edu/web/people/miriam-bellver
+[LS-web]: https://imatge.upc.edu/web/people/luis-fernando-salgueiro
 
 [JS-web]: https://scholar.google.com/citations?user=sZLj96sAAAAJ&hl=en
 [JW-web]: https://scholar.google.com/citations?user=Gsw2iUEAAAAJ&hl=en
@@ -43,8 +44,9 @@
 | Lecture          | Instructor                 | Course                 | Slides                    | Video             | Lab             |
 | -------------- |  --------------------------- | ---------------------- | :-----------------------: | :---------------: |:---------------: |
 | Backpropagation     | | | | |
-|    | [Xavier Giro][XG-web]  | [GDSA2020] | | [Català][gdsa-2020-lab-backprop-video]   | [Jupyter][gdsa-2020-lab-backprop]  |
+|    | [Xavier Giro][XG-web]  | [GDSA2020] | | [Català][gdsa-2020-lab-backprop-video]   | [Jupyter][dlai2019-backprop-lab]  |
 |    | [Xavier Giro][XG-web]  | [GDSA2020] | | [Català][gdsa-2020-backprop-video]       |    |
+|    | [Luis Salgueiro][LS-web]  | [DLAI2020] | | [English][dlai-2020-lab-autograd-video]  | [Jupyter][dlai2019-backprop-lab]   |
 |    | [Xavier Giro][XG-web]  | [DLAI2020] | | [English][dlai-2020-backprop-video]       |    |
 |    | [Xavier Giro][XG-web]  | [DLAI2019] | [Slides][dlai2019-backprop-slides] |       |    |
 |    | [Elisa Sayrol][ES-web] | [DLAI2018] | [Slides][dlai2018-d02l2-slides] |       |    |
@@ -94,10 +96,14 @@
 [dlai2018-d02l2-slides]: https://www.slideshare.net/xavigiro/backpropagation-elisa-sayrol-upc-barcelona-2018
 
 [dlai2019-backprop-slides]: https://github.com/telecombcn-dl/dlai-2019/raw/master/slides/dlai_2019_d02l2_backprop.pdf
+[dlai2019-backprop-lab]: https://github.com/telecombcn-dl/dlai-2019/blob/master/labs/dlai_2019_lab02_backprop_todo.ipynb
 [dlai2019-losses-slides]: https://github.com/telecombcn-dl/dlai-2019/raw/master/slides/dlai_2019_d04l1_losses.pdf
 [dlai2019-d05l2-slides]: https://github.com/telecombcn-dl/dlai-2019/raw/master/slides/dlai_2019_d05l2_methodology.pdf
 
 [dlai-2020-backprop-video]: https://youtu.be/mD3KouDAS5Y
+[dlai-2020-lab-autograd-video]: https://youtu.be/umErdg4grSo
+[gdsa-2020-lab-autograd]: https://github.com/telecombcn-dl/dlai-2019/blob/master/labs/dlai_2019_lab02_backprop_todo.ipynb
+
 
 [gdsa-2020-backprop-video]: https://www.youtube.com/watch?v=dWpRZvafy08
 
