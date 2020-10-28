@@ -75,6 +75,10 @@
 |      | [Elisa Sayrol][ES-web] | [IDL2018] | [Slides][idl2018-d1l4-slides] |       |  |
 |      | [Elisa Sayrol][ES-web] | [DLAI2017] | [Slides][dlai2017-d2l1-slides] | [English][dlai2017-d2l1-video]      |  |
 |      | [Elisa Sayrol][ES-web] | [DLCV2016] | [Slides][dlcv2016-deep-slides] |   |  |
+| Convolutional Layers     | | | | | |
+|     | [Xavier Giro-i-Nieto][XG-web]| [GDSA2020] |   | [Català][gdsa-2020-conv-video] | |
+| Pooling Layers     | | | | | |
+|     | [Xavier Giro-i-Nieto][XG-web]| [GDSA2020] |   | [Català][gdsa-2020-pool-video] | |
 | Convolutional Neural Networks (CNN)     | | | | | |
 |     | [Xavier Giro-i-Nieto][XG-web]| [AA2019] | [Slides][aa2019-cnn-slides]  |  | |
 |                | [Verónica Vilaplana][VV-web]  | [IDL2018] | [Slides][idl2018-d3l1-slides] |  | |
@@ -200,8 +204,11 @@
 [gdsa-2020-backprop-video]: https://youtu.be/dWpRZvafy08
 [gdsa-2020-softmax-video]: https://youtu.be/SfEPVKC6Epk
 [gdsa-2020-mlp-video]: https://youtu.be/AedIY2jvW-A
+[gdsa-2020-conv-video]: https://youtu.be/Lj4YV4Gu3Zc
+[gdsa-2020-pool-video]: 
 
 [gdsa-2020-lab03-regression-video]: https://youtu.be/dp4zHrqiF8I
+
 
 
 
