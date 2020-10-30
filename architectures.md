@@ -80,6 +80,7 @@
 | Pooling Layers     | | | | | |
 |     | [Xavier Giro-i-Nieto][XG-web]| [GDSA2020] |   | [Català][gdsa-2020-pool-video] | |
 | Convolutional Neural Networks (CNN)     | | | | | |
+|     | [Xavier Giro-i-Nieto][XG-web]| [GDSA2020] |   |  | [Català][gdsa-2020-cnn-video] |
 |     | [Xavier Giro-i-Nieto][XG-web]| [AA2019] | [Slides][aa2019-cnn-slides]  |  | |
 |                | [Verónica Vilaplana][VV-web]  | [IDL2018] | [Slides][idl2018-d3l1-slides] |  | |
 |                | [Verónica Vilaplana][VV-web]  | [DLAI2017] | [Slides][dlai2017-d5l1-slides] |  | |
@@ -205,7 +206,8 @@
 [gdsa-2020-softmax-video]: https://youtu.be/SfEPVKC6Epk
 [gdsa-2020-mlp-video]: https://youtu.be/AedIY2jvW-A
 [gdsa-2020-conv-video]: https://youtu.be/Lj4YV4Gu3Zc
-[gdsa-2020-pool-video]: 
+[gdsa-2020-pool-video]: https://youtu.be/5DkF5QOuAP0
+[gdsa-2020-cnn-video]: https://youtu.be/HPUUdlrLoT0
 
 [gdsa-2020-lab03-regression-video]: https://youtu.be/dp4zHrqiF8I
 
