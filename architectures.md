@@ -61,7 +61,7 @@
 |      | [Xavier Giro-i-Nieto][XG-web] | [DLAI2020] |  | [English][dlai-2020-perceptron-video] | |
 |      | [Xavier Giro-i-Nieto][XG-web] | [DLAI2019] | [Slides][dlai2019-perceptron-slides]  |  | |
 | Softmax Layer     | | | | | |
-|      | [Xavier Giro-i-Nieto][XG-web] | [GDSA2020] |  | [Català][dlai-2020-softmax-video] | |
+|      | [Xavier Giro-i-Nieto][XG-web] | [GDSA2020] |  | [Català][gdsa-2020-softmax-video] | |
 |      | [Xavier Giro-i-Nieto][XG-web] | [DLAI2020] |  | [English][dlai-2020-softmax-video] | |
 |      | [Xavier Giro-i-Nieto][XG-web] | [DLAI2018] | [Slides][dlai2018-d01l2-slides]  | [English][dlai2018-d01l2-video] | |
 |      | [Antonio Bonafonte][AB-web] | [IDL2018] | [Slides][idl2018-d1l3-slides] |  | |
