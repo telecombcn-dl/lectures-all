@@ -52,8 +52,6 @@
 |                | [Xavier Giro-i-Nieto][XG-web] | [DLAI2019] | [Slides][dlai2019-ml-slides] |  | 
 |                | [Verónica Vilaplana][VV-web] | [IDL2018] | [Slides][idl2018-d1l2-slides] |  | 
 |                | [Elisa Sayrol][ES-web] | [DLCV2016] | [Slides][dlcv2016-classification-slides]  |   |
-| Data augmentation     | | | | |
-|                | [Eva Mohedano][EM-web] | [DLCV2016] | [Slides][dlcv2016-augmentation-slides] |  | 
 |  Transfer learning     |  | |  |   | 
 |    | [Ramon Morros][RM-web] | [DLAI2019] | [Slides][dlai2019-d09l1-slides] |   | 
 |       |                        | [DLAI2018] | [Slides][dlai2018-d05l1-slides] | [Video][dlai2018-d05l1-video]  | 
@@ -81,7 +79,6 @@
 |      | [Joan Serra][JS-web] | [IDL2018] | [Slides][idl2018-d5l2-slides] |  |
 
 [dlcv2016-classification-slides]: http://www.slideshare.net/xavigiro/image-classification-dlcv-d1l2
-[dlcv2016-augmentation-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-data-augmentation-upc-2016
 [dlcv2016-transfer-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-transfer-learning-and-domain-adaptation-upc-2016
 [dlcv2016-transfer-video]: https://www.youtube.com/watch?v=UKleTP1Zy1U
 [dlcv2016-unsupervised-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-unsupervised-learning-upc-2016
