@@ -57,7 +57,7 @@
 | Perceptron     | | | | | |
 |      | [Luis F. Salgueiro][LS-web] | [DLAI2020] |  | [English][dlai-2020-lab01-tensors-video]  | [Tensors][dlai-2019-lab01-tensors] |
 |      | [Xavier Giro-i-Nieto][XG-web] | [GDSA2020] |  | [Català][gdsa-2020-lab03-regression-video]  | [Regression][dlai-2019-lab03-regression] |
-|      | [Xavier Giro-i-Nieto][XG-web] | [GDSA2020] |  | [Català][dlai-2020-perceptron-video] | |
+|      | [Xavier Giro-i-Nieto][XG-web] | [GDSA2020] |  | [Català][gdsa-2020-perceptron-video] | |
 |      | [Xavier Giro-i-Nieto][XG-web] | [DLAI2020] |  | [English][dlai-2020-perceptron-video] | |
 |      | [Xavier Giro-i-Nieto][XG-web] | [DLAI2019] | [Slides][dlai2019-perceptron-slides]  |  | |
 | Softmax Layer     | | | | | |
