@@ -36,7 +36,7 @@
 | Topic          | Lecturer                     | Course                 | Slides                    | Video             |
 | -------------- |  --------------------------- | ---------------------- | :-----------------------: | :---------------: |
 | Generative Adversarial Networks (GANs)     | | | | |
-|    | [Xavier Giro-i-Nieto][XG-web] | [DLAI2020] | [Slides][dlai2019-gan-slides] | [English][dlai-2020-gan-video].  |
+|    | [Xavier Giro-i-Nieto][XG-web] | [DLAI2020] | [Slides][dlai-2020-gan-slides] | [English][dlai-2020-gan-video].  |
 |    | [Albert Pumarola][AP-web] | [DLAI2019] | [Slides][dlai2019-gan-slides] | |
 |    | [Santiago Pascual][SP-web] | [DLAI 2018][dlai2018] | [Slides][dlai2018-d09l1-slides] | [Video][dlai2018-d09l1-video] |
 |    | [Kevin McGuinness][KM-web]| [DLCV2018] | [Slides][dlcv2018-D4l3-slides]  |  [Video][dlcv2018-d4l3-video]  |
@@ -75,6 +75,7 @@
 [dlai2019-gan-slides]: https://github.com/telecombcn-dl/dlai-2019/raw/master/slides/dlai_2019_d11l1_gan.pdf
 
 
+[dlai-2020-gan-slides]: https://www.slideshare.net/xavigiro/generative-adversarial-networks-gan-xavier-giro-upc-telecombcn-barcelona-2020
 [dlai-2020-gan-video]: https://youtu.be/PflmLttr6GU
 
 
