@@ -47,6 +47,8 @@
 
 [AA2019]:https://www.fib.upc.edu/ca/estudis/graus/grau-en-ciencia-i-enginyeria-de-dades/pla-destudis/assignatures/AA2-GCED
 
+[DRL2020]: https://telecombcn-dl.github.io/drl-2020/
+
 # Architectures
 
 | Lecture          | Instructor                 | Course                 | Slides                    | Video             | Lab             |
@@ -105,6 +107,7 @@
 |      | [Santiago Pascual][SP-web] | [DLSL2017] |  | [Video][dlsl2017-rnn-video] |  |
 |      | [Xavier Giro-i-Nieto][XG-web] | [DLCV2016] | [Slides][dlcv2016-rnn-slides] | [English][dlcv2016-rnn-slides] |  |
 | Attention      | | | | | |
+|      | [Xavier Giro-i-Nieto][XG-web]  | [DRL2020] | [Slides][drl-2020-attention-slides] | [Català][drl-2020-attention-video] | |
 |     | [Marta R. Costa-jussà][MC-web] | [IDL2018] | [Slides][idl2018-d4l1-slides] | [English][idl2018-d4l1-video]  | |
 |     | [Marta R. Costa-jussà][MC-web]  | [DLAI2017] | [Slides][dlai2017-d8l-slides] |  [English][dlai2017-d8l2-video] | |
 |     | [Amaia Salvador][AS-web]     | [DLCV2017] | [Slides][dlcv2017-d3l6-slides] |  | |
@@ -210,6 +213,9 @@
 [gdsa-2020-cnn-video]: https://youtu.be/HPUUdlrLoT0
 
 [gdsa-2020-lab03-regression-video]: https://youtu.be/dp4zHrqiF8I
+
+[drl-2020-attention-slides]: https://www.slideshare.net/xavigiro/attention-for-deep-learning-xavier-giro-upc-telecombcn-barcelona-2020
+[drl-2020-attention-video]: https://youtu.be/IHtuk-4Z64g
 
 
 
