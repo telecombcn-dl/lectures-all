@@ -107,7 +107,7 @@
 |      | [Santiago Pascual][SP-web] | [DLSL2017] |  | [Video][dlsl2017-rnn-video] |  |
 |      | [Xavier Giro-i-Nieto][XG-web] | [DLCV2016] | [Slides][dlcv2016-rnn-slides] | [English][dlcv2016-rnn-slides] |  |
 | Attention      | | | | | |
-|      | [Xavier Giro-i-Nieto][XG-web]  | [DRL2020] | [Slides][drl-2020-attention-slides] | [Català][drl-2020-attention-video] | |
+|      | [Xavier Giro-i-Nieto][XG-web]  | [DLAI2020] | [Slides][drl-2020-attention-slides] | [Català][drl-2020-attention-video] | |
 |     | [Marta R. Costa-jussà][MC-web] | [IDL2018] | [Slides][idl2018-d4l1-slides] | [English][idl2018-d4l1-video]  | |
 |     | [Marta R. Costa-jussà][MC-web]  | [DLAI2017] | [Slides][dlai2017-d8l-slides] |  [English][dlai2017-d8l2-video] | |
 |     | [Amaia Salvador][AS-web]     | [DLCV2017] | [Slides][dlcv2017-d3l6-slides] |  | |
