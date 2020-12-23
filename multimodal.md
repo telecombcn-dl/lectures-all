@@ -6,8 +6,11 @@
 [DLCV2018]: https://telecombcn-dl.github.io/2018-dlcv/
 [DLCV2019]: https://telecombcn-dl.github.io/2019-dlcv/
 
+[DLAI2020]: https://telecombcn-dl.github.io/dlai-2020/
+
 [MCV2018]: https://mcv-m6-video.github.io/deepvideo-2018/
 [MCV2019]: https://mcv-m6-video.github.io/deepvideo-2019/
+[MCV2020]: https://mcv-m6-video.github.io/deepvideo-2020/
 
 [MMM2019]: https://telecombcn-dl.github.io/2019-mmm-tutorial/
 
@@ -25,6 +28,8 @@
 |   | [Xavier Giro-i-Nieto][XG-web]| [DLCV2017] | [Slides][DLCV2017-d3l5-slides]    |    |
 |   | [Xavier Giro-i-Nieto][XG-web]| [DLCV2016] | [Slides][dlcv2016-language-slides]  | [Video][dlcv2016-language-video]   |
 | Audio and Vision  | | | | |
+|         | [Xavier Giro-i-Nieto][XG-web]| [DLAI2020] | [[Slides]][dlai2020-selfav-slides]  | [[Video]][dlai2020-selfav-video] |
+|         | [Xavier Giro-i-Nieto][XG-web]| [MCV2020] | [[Slides]][mcv2020-selfav-slides]  |  |
 |         | [Xavier Giro-i-Nieto][XG-web]| [MCV2019] | [[Slides]][dlcv2017-d4l6-slides]  | [[Video]][mcv2019-audiovisual-video] |
 |         | [Eva Mohedano][EM-web] | [DLCV2018] | [[Slides]][dlcv2018-d4l5-slides]  | [[Video]][dlcv2018-D4L5-video] |
 |         | [Xavier Giro-i-Nieto][XG-web]| [DLCV2017] | [[Slides]][dlcv2017-d4l6-slides]  | [[Video]][dlcv2017-d4l6-video] |
@@ -52,7 +57,12 @@
 [mcv2019-audiovisual-slides]: https://www.slideshare.net/xavigiro/selfsupervised-audiovisual-learning-xavier-giro-upc-barcelona-2019
 [mcv2019-audiovisual-video]: https://youtu.be/J2NnOVBdvAw
 
+[mcv2020-selfav-slides]: https://www2.slideshare.net/xavigiro/selfsupervised-audiovisual-learning-2020-xavier-giroinieto-upc-telecombcn-barcelona
+
 [dlcv2019-d4l4-video]: https://youtu.be/6XXHe_ySDgk
+
+[dlai2020-selfav-slides]: https://www2.slideshare.net/xavigiro/selfsupervised-audiovisual-learning-xavier-giro-upc-telecombcn-barcelona-2020
+[dlai2020-selfav-video]: https://youtu.be/wjlczBf_FSI
 
 # Our tracks
 
