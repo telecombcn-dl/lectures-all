@@ -28,10 +28,10 @@
 |   | [Xavier Giro-i-Nieto][XG-web]| [DLCV2017] | [Slides][DLCV2017-d3l5-slides]    |    |
 |   | [Xavier Giro-i-Nieto][XG-web]| [DLCV2016] | [Slides][dlcv2016-language-slides]  | [Video][dlcv2016-language-video]   |
 | Audio and Vision  | | | | |
-|         | [Xavier Giro-i-Nieto][XG-web]| [DLAI2020] | [[Slides]][dlai2020-selfav-slides]  | [[Video]][dlai2020-selfav-video] |
-|         | [Xavier Giro-i-Nieto][XG-web]| [MCV2020] | [[Slides]][mcv2020-selfav-slides]  |  |
-|         | [Xavier Giro-i-Nieto][XG-web]| [MCV2019] | [[Slides]][dlcv2017-d4l6-slides]  | [[Video]][mcv2019-audiovisual-video] |
-|         | [Eva Mohedano][EM-web] | [DLCV2018] | [[Slides]][dlcv2018-d4l5-slides]  | [[Video]][dlcv2018-D4L5-video] |
+|         | [Xavier Giro-i-Nieto][XG-web]| [DLAI2020] | [Slides][dlai2020-selfav-slides]  | [Video][dlai2020-selfav-video] |
+|         | [Xavier Giro-i-Nieto][XG-web]| [MCV2020] | [Slides][mcv2020-selfav-slides]  |  |
+|         | [Xavier Giro-i-Nieto][XG-web]| [MCV2019] | [Slides][dlcv2017-d4l6-slides]  | [Video][mcv2019-audiovisual-video] |
+|         | [Eva Mohedano][EM-web] | [DLCV2018] | [Slides][dlcv2018-d4l5-slides]  | [Video][dlcv2018-D4L5-video] |
 |         | [Xavier Giro-i-Nieto][XG-web]| [DLCV2017] | [[Slides]][dlcv2017-d4l6-slides]  | [[Video]][dlcv2017-d4l6-video] |
 | Speech and Vision  | | | | |
 |         | [Xavier Giro-i-Nieto][XG-web]| [DLCV2018] | [[Slides]][dlcv2018-d4l6-slides]  | [[Video]][dlcv2018-D4L6-video] |
