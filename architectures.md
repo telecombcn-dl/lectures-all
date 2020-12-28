@@ -82,7 +82,7 @@
 | Pooling Layers     | | | | | |
 |     | [Xavier Giro-i-Nieto][XG-web]| [GDSA2020] |   | [Català][gdsa-2020-pool-video] | |
 | Convolutional Neural Networks (CNN)     | | | | | |
-|     | [Xavier Giro-i-Nieto][XG-web]| [GDSA2020] |   | [Català][gdsa-2020-cnn-video] | |
+|     | [Xavier Giro-i-Nieto][XG-web]| [GDSA2020] | [Slides][aa2-2020-cnn-slides]  | [Català][gdsa-2020-cnn-video] | |
 |     | [Xavier Giro-i-Nieto][XG-web]| [AA2019] | [Slides][aa2019-cnn-slides]  |  | |
 |                | [Verónica Vilaplana][VV-web]  | [IDL2018] | [Slides][idl2018-d3l1-slides] |  | |
 |                | [Verónica Vilaplana][VV-web]  | [DLAI2017] | [Slides][dlai2017-d5l1-slides] |  | |
@@ -216,6 +216,8 @@
 
 [drl-2020-attention-slides]: https://www.slideshare.net/xavigiro/attention-for-deep-learning-xavier-giro-upc-telecombcn-barcelona-2020
 [drl-2020-attention-video]: https://youtu.be/IHtuk-4Z64g
+
+[aa2-2020-cnn-slides]: https://www2.slideshare.net/xavigiro/convolutional-neural-networks-xavier-giro-upc-telecombcn-barcelona-2020/
 
 
 
