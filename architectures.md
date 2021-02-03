@@ -46,6 +46,7 @@
 [MCV2020]: https://mcv-m6-video.github.io/deepvideo-2020/
 
 [AA2019]:https://www.fib.upc.edu/ca/estudis/graus/grau-en-ciencia-i-enginyeria-de-dades/pla-destudis/assignatures/AA2-GCED
+[AA2020]: https://www.fib.upc.edu/ca/estudis/graus/grau-en-ciencia-i-enginyeria-de-dades/pla-destudis/assignatures/AA2-GCED
 
 [DRL2020]: https://telecombcn-dl.github.io/drl-2020/
 
@@ -88,6 +89,7 @@
 |                | [Verónica Vilaplana][VV-web]  | [DLAI2017] | [Slides][dlai2017-d5l1-slides] |  | |
 |                | [Elisa Sayrol][ES-web] | [DLCV2016] | [Slides][dlcv2016-deep-slides] |   |  |
 | Interpretability     | | | | | |
+|   | [Xavier Giro-i-Nieto][XG-web]| [AA2020] | [Slides][aa2-2020-interpretability-slides]  | [Català][aa2-2020-interpretability-video] | |
 |   | [Xavier Giro-i-Nieto][XG-web]| [DLAI2019] | [Slides][dlai2019-interpretability-slides]  |  | |
 |   | [Laura Leal-Taixe][LL-web] | [DLCV2019] |   | [English][dlcv2019-interpretability-video]    | |
 |   | [Eva Mohedano][EM-web] | [DLCV2018] | [Slides][dlcv2018-interpretability-slides]  | [English][dlcv2018-interpretability-video]    | |
@@ -218,6 +220,8 @@
 [drl-2020-attention-video]: https://youtu.be/IHtuk-4Z64g
 
 [aa2-2020-cnn-slides]: https://www2.slideshare.net/xavigiro/convolutional-neural-networks-xavier-giro-upc-telecombcn-barcelona-2020/
+[aa2-2020-interpretability-slides]: https://www.slideshare.net/xavigiro/intepretability-explainable-ai-for-deep-neural-networks
+[aa2-2020-interpretability-video]: https://youtu.be/T5FvsObN8dc
 
 
 
