@@ -101,6 +101,7 @@
 |   | [Xavier Giro-i-Nieto][XG-web]| [DLCV2017] | [Slides][dlcv2017-imagenet-slides]  | [English][dlcv2017-imagenet-video] |  |
 |   | [Xavier Giro-i-Nieto][XG-web]| [DLCV2016] | [Slides][dlcv2016-imagenet-slides]  |  |  |
 | Recurrent Neural Networks (RNN)      | | | | | |
+|      | [Xavier Giro-i-Nieto][XG-web] | [DLAI2020] |  | [English][dlai-2020-rnn-video] | |
 |      | [Xavier Giro-i-Nieto][XG-web]  | [MCV2020] | [Slides][mcv2020-rnn-slides] | [English][mcv2020-rnn-video] | |
 |      | [Marta R. Costa-jussà][MC-web]  | [IDL2018] | [Slides (I)][idl2018-d3l3-slides] |  | |
 |      | [Marta R. Costa-jussà][MC-web]  | [IDL2018] | [Slides (II)][idl2018-d3l4-slides] |  | |
@@ -205,6 +206,7 @@
 [dlai-2020-softmax-video]: https://youtu.be/Df6Rnbw-tog
 [dlai-2020-mlp-video]: https://youtu.be/hZN3qg46oiM
 [dlai-2020-lab01-tensors-video]: https://www.youtube.com/watch?v=y_Wh2lWZp3A&t=172s
+[dlai-2020-rnn-video]: https://youtu.be/fWgoZdsvqxs
 
 [gdsa-2020-perceptron-video]: https://youtu.be/NYfvs4fm2wk
 [gdsa-2020-backprop-video]: https://youtu.be/dWpRZvafy08
