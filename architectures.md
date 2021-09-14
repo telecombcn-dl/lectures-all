@@ -50,11 +50,16 @@
 
 [DRL2020]: https://telecombcn-dl.github.io/drl-2020/
 
+[RSS2020]: https://www.iri.upc.edu/workshops/RoboticsAISummerSchool2020/index.html
+[RSS2021]: https://www.iri.upc.edu/workshops/RoboticsAISummerSchool2021/index.html
+
 # Architectures
 
 | Lecture          | Instructor                 | Course                 | Slides                    | Video             | Lab             |
 | -------------- |  --------------------------- | ---------------------- | :-----------------------: | :---------------: |:--------------: |
 | Architectures  | | | | |
+|     | [Xavier Giro-i-Nieto][XG-web]| [RSS2021] | [Slides][rss-2021-slides]  | [English][rss-2021-video] | |
+|     | [Xavier Giro-i-Nieto][XG-web]| [RSS2020] |                            | [English][rss-2020-video] | |
 |     | [Xavier Giro-i-Nieto][XG-web]| [DLCV2018] | [Slides][dlcv2018-d1l2-slides]  | [English][dlcv2018-d1l2-video] | |
 |     | [Xavier Giro-i-Nieto][XG-web]| [IDL2018] | [Slides][idl2018-d4l4-slides]   |  | |
 | Perceptron     | | | | | |
@@ -225,6 +230,9 @@
 [aa2-2020-interpretability-slides]: https://www.slideshare.net/xavigiro/intepretability-explainable-ai-for-deep-neural-networks
 [aa2-2020-interpretability-video]: https://youtu.be/T5FvsObN8dc
 
+[rss-2021-slides]: https://docs.google.com/presentation/d/13cHaXxDQQLtQsGHGMXSbiCOLNKHMt09sCx1lOqFEYG0/edit?usp=sharing
+[rss-2021-video]: https://youtu.be/Guh2DRDcpEI
+[rss-2020-video]: https://www.youtube.com/watch?v=wnLtIabreHo
 
 
 
