@@ -27,6 +27,8 @@
 
 [ISSonDL2020]: http://2020.dl-lab.eu/
 
+[VSS2021]: https://2021.dl-lab.eu/
+
 # Computer Vision
 
 ## Still image
@@ -46,6 +48,7 @@
 |       | [Kevin McGuinness][KM-web]| [DLCV2017] | [Slides][dlcv2017-d4l3-slides]  | [Video][dlcv2017-d4l3-video]    |
 |       | [Elisa Sayrol][ES-web] | [DLCV2016] | [Slides][dlcv2016-saliency-slides]  |   |
 | Object Detection  | | | | |
+|       | [Xavier Giro-i-Nieto][XG-web] | [VSS2021] |   | [Video][vss2021-video]  |
 |       | [Xavier Giro-i-Nieto][XG-web] | [AIDL2020] | [Slides][aidl2020-object-slides]   |   |
 |       | [Andreu Girbau][AG-web] | [DLCV2019] |                                 | [Video][dlcv2019-d1l3-video]  |
 |       | [Miriam Bellver][MB-web] | [DLCV2018] | [Slides][dlcv2018-d2l1-slides]  | [Video][dlcv2018-d2l1-video]  |
@@ -204,6 +207,7 @@
 
 [issondl2020-slides]: https://www.slideshare.net/xavigiro/image-segmentation-with-deep-learning-xavier-giro-carles-ventura-issondl-2020
 
+[vss2021-video]: https://youtu.be/wurLtx2ssUU
 
 
 
