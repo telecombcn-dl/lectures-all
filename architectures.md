@@ -115,11 +115,14 @@
 |      | [Santiago Pascual][SP-web] | [DLSL2017] |  | [Video][dlsl2017-rnn-video] |  |
 |      | [Xavier Giro-i-Nieto][XG-web] | [DLCV2016] | [Slides][dlcv2016-rnn-slides] | [English][dlcv2016-rnn-slides] |  |
 | Attention      | | | | | |
+|      | [Xavier Giro-i-Nieto][XG-web]  | DLAI2021 |  | [English][dlai-2021-attention-video] | |
 |      | [Xavier Giro-i-Nieto][XG-web]  | [DLAI2020] | [Slides][drl-2020-attention-slides] | [Català][drl-2020-attention-video] | |
 |     | [Marta R. Costa-jussà][MC-web] | [IDL2018] | [Slides][idl2018-d4l1-slides] | [English][idl2018-d4l1-video]  | |
 |     | [Marta R. Costa-jussà][MC-web]  | [DLAI2017] | [Slides][dlai2017-d8l-slides] |  [English][dlai2017-d8l2-video] | |
 |     | [Amaia Salvador][AS-web]     | [DLCV2017] | [Slides][dlcv2017-d3l6-slides] |  | |
 |     | [Amaia Salvador][AS-web]     | [DLCV2016] | [Slides][dlcv2016-attention-slides] | [English][dlcv2016-attention-video] | |
+| The Transformer      | | | | | |
+|      | [Xavier Giro-i-Nieto][XG-web]  | DLAI2021 |  | [English][dlai-2021-transformer-video] | |
 | Neural Architecture Search   | | | | | |
 |     | [Xavier Giro-i-Nieto][XG-web]| [DLAI2019] | [Slides][dlai2019-nas-slides]  |  | |
 | Set learning   | | | | | |
@@ -212,6 +215,9 @@
 [dlai-2020-mlp-video]: https://youtu.be/hZN3qg46oiM
 [dlai-2020-lab01-tensors-video]: https://www.youtube.com/watch?v=y_Wh2lWZp3A&t=172s
 [dlai-2020-rnn-video]: https://youtu.be/fWgoZdsvqxs
+
+[dlai-2021-attention-video]: https://youtu.be/HvkazocQwXs
+[dlai-2021-transformer-video]: https://youtu.be/0t6iXFRO3lo
 
 [gdsa-2020-perceptron-video]: https://youtu.be/NYfvs4fm2wk
 [gdsa-2020-backprop-video]: https://youtu.be/dWpRZvafy08
