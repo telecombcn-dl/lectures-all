@@ -122,7 +122,7 @@
 |     | [Amaia Salvador][AS-web]     | [DLCV2017] | [Slides][dlcv2017-d3l6-slides] |  | |
 |     | [Amaia Salvador][AS-web]     | [DLCV2016] | [Slides][dlcv2016-attention-slides] | [English][dlcv2016-attention-video] | |
 | The Transformer      | | | | | |
-|      | [Xavier Giro-i-Nieto][XG-web]  | DLAI2021 |  | [English][dlai-2021-transformer-video] | [Lab][dlai-2021-transformer-lab] |
+|      | [Xavier Giro-i-Nieto][XG-web]  | DLAI2021 | [Slides][dlai-2021-transformer-slides] | [English][dlai-2021-transformer-video] | [Lab][dlai-2021-transformer-lab] |
 | Neural Architecture Search   | | | | | |
 |     | [Xavier Giro-i-Nieto][XG-web]| [DLAI2019] | [Slides][dlai2019-nas-slides]  |  | |
 | Set learning   | | | | | |
@@ -216,6 +216,7 @@
 [dlai-2020-lab01-tensors-video]: https://www.youtube.com/watch?v=y_Wh2lWZp3A&t=172s
 [dlai-2020-rnn-video]: https://youtu.be/fWgoZdsvqxs
 
+[dlai-2021-transformer-slides]: https://www.slideshare.net/xavigiro/the-transformer-xavier-gir-upc-barcelona-2021
 [dlai-2021-attention-video]: https://youtu.be/HvkazocQwXs
 [dlai-2021-transformer-video]: https://youtu.be/0t6iXFRO3lo
 [dlai-2021-transformer-lab]: https://github.com/telecombcn-dl/labs-all/tree/main/labs/transformer
