@@ -22,6 +22,8 @@
 [MCV2018]: https://mcv-m6-video.github.io/deepvideo-2018/
 [MCV2019]: https://mcv-m6-video.github.io/deepvideo-2019/
 [MCV2020]: https://mcv-m6-video.github.io/deepvideo-2020/
+[MCV2022]: https://mcv.uab.cat/
+
 
 [AIDL2020]: https://www.talent.upc.edu/ing/estudis/formacio/curs/310400/postgraduate-course-artificial-intelligence-deep-learning/
 
@@ -39,6 +41,8 @@
 |   | [Kevin McGuinness][KM-web]| [DLCV2018] | [Slides][dlcv2018-D1L3-slides]  | [Video][dlcv2018-D1L3-video]    |
 |   | [Xavier Giro-i-Nieto][XG-web]| [DLCV2017] | [Slides][dlcv2017-d1l4-slides]  | [Video][dlcv2017-d1l4-video] | 
 |   | [Xavier Giro-i-Nieto][XG-web]| [DLCV2016] | [Slides][dlcv2017-d1l4-slides]  |  | 
+| Vision Transformers | | | | |
+|  | [Xavier Giro-i-Nieto][XG-web] | [MCV2022] | [Slides][mcv2022-vit-slides]  |     |
 | Interpretability  | | | | |
 |  | [Eva Mohedano][EM-web] | [DLCV2018] | [Slides][dlcv2018-d3l4-slides]  | [Video][dlcv2018-d3l4-video]    |
 |  | [Amaia Salvador][AS-web] | [DLCV2017] | [Slides][dlcv2018-d1l6-slides]  |    |
@@ -209,6 +213,8 @@
 [issondl2020-video]: https://youtu.be/rOWgFTDS2js
 
 [vss2021-video]: https://youtu.be/wurLtx2ssUU
+
+[mcv2022-vit-slides]: https://www.slideshare.net/xavigiro/vision-transformers-xavier-giro-mcv-2022
 
 
 
