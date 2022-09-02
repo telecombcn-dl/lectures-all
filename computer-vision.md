@@ -52,7 +52,7 @@
 |       | [Kevin McGuinness][KM-web]| [DLCV2017] | [Slides][dlcv2017-d4l3-slides]  | [Video][dlcv2017-d4l3-video]    |
 |       | [Elisa Sayrol][ES-web] | [DLCV2016] | [Slides][dlcv2016-saliency-slides]  |   |
 | Object Detection  | | | | |
-|       | [Xavier Giro-i-Nieto][XG-web] | [VSS2021] |   | [Video][vss2021-video]  |
+|       | [Xavier Giro-i-Nieto][XG-web] | [VSS2021] | [Slides][vss2021-slides] | [Video][vss2021-video]  |
 |       | [Xavier Giro-i-Nieto][XG-web] | [AIDL2020] | [Slides][aidl2020-object-slides]   |   |
 |       | [Andreu Girbau][AG-web] | [DLCV2019] |                                 | [Video][dlcv2019-d1l3-video]  |
 |       | [Miriam Bellver][MB-web] | [DLCV2018] | [Slides][dlcv2018-d2l1-slides]  | [Video][dlcv2018-d2l1-video]  |
@@ -212,6 +212,7 @@
 [issondl2020-slides]: https://www.slideshare.net/xavigiro/image-segmentation-with-deep-learning-xavier-giro-carles-ventura-issondl-2020
 [issondl2020-video]: https://youtu.be/rOWgFTDS2js
 
+[vss2021-slides]: https://docs.google.com/presentation/d/1M0MQWN6XtIjx9-KafH5eJ-mvdJNr6l8EhhpfGeiDUUw/edit?usp=sharing
 [vss2021-video]: https://youtu.be/wurLtx2ssUU
 
 [mcv2022-vit-slides]: https://www.slideshare.net/xavigiro/vision-transformers-xavier-giro-mcv-2022
