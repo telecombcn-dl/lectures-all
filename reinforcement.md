@@ -57,7 +57,7 @@
 |                | [Xavier Giro-i-Nieto][XG-web] | [DLAI2018] | [Slides][dlai2018-d11l1-slides] |  |
 | Deep Q-Networks  | | | | |
 |                | [Xavier Giro-i-Nieto][XG-web] | [AIDL] | [Slides][aidl2022-dqn] |   |
-| Policy Gradient  | | | | |
+| Policy Gradient (PG) | | | | |
 |                | [Xavier Giro-i-Nieto][XG-web] | [AIDL] | [Slides][aidl2022-pg] |   |
 | Actor-Critic (AC) | | | | |
 |                | [Xavier Giro-i-Nieto][XG-web] | [AIDL] | [Slides@UPC][aidl2020-ac] |   |
