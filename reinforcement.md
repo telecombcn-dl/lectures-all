@@ -56,9 +56,9 @@
 |                | [Xavier Giro-i-Nieto][XG-web] | [AIDL] | [Slides@UPC][aidl2020-intro] |   |
 |                | [Xavier Giro-i-Nieto][XG-web] | [DLAI2018] | [Slides][dlai2018-d11l1-slides] |  |
 | Deep Q-Networks  | | | | |
-|                | [Xavier Giro-i-Nieto][XG-web] | [AIDL] | [Slides@UPC][aidl2020-dqn] |   |
-| REINFORCE & PPO  | | | | |
-|                | [Xavier Giro-i-Nieto][XG-web] | [AIDL] | [Slides@UPC][aidl2020-reinforce] |   |
+|                | [Xavier Giro-i-Nieto][XG-web] | [AIDL] | [Slides][aidl2022-dqn] |   |
+| Policy Gradient  | | | | |
+|                | [Xavier Giro-i-Nieto][XG-web] | [AIDL] | [Slides][aidl2022-pg] |   |
 | Actor-Critic (AC) | | | | |
 |                | [Xavier Giro-i-Nieto][XG-web] | [AIDL] | [Slides@UPC][aidl2020-ac] |   |
 
@@ -74,8 +74,8 @@
 [mrl2020-DRL6-slides]: https://github.com/telecombcn-dl/mrl-2020/raw/gh-pages/slides/drl_2020_06_reinforce.pdf
 
 [aidl2020-intro]: https://docs.google.com/presentation/d/1BzHv26D4OPl73adh2b8jwIiv3Lx4c1DlJ2fm7EqHv2E/edit?usp=sharing
-[aidl2020-dqn]: https://docs.google.com/presentation/d/1RqdzVV6HZk3yNyUD5er0ic7m5W9oFoFBHSVfKTdn68o/edit?usp=sharing
-[aidl2020-reinforce]: https://docs.google.com/presentation/d/1bDHAD0Xj7xEVAfRDikeSzXWAbcl9Z6uWvHOeUVnPfyc/edit?usp=sharing
+[aidl2022-dqn]: https://docs.google.com/presentation/d/1m9C_O6QC9A7kQcQmzFZQ4437RrPgleG3mGfq9E3OHvY/edit?usp=sharing
+[aidl2020-pg]: https://docs.google.com/presentation/d/1bDHAD0Xj7xEVAfRDikeSzXWAbcl9Z6uWvHOeUVnPfyc/edit?usp=sharing
 [aidl2020-ac]: https://docs.google.com/presentation/d/1LjC2Oq5oLRR6QQxdItMbJVGo-j3WIJcFYga7g72BH-k/edit?usp=sharing
 
 
