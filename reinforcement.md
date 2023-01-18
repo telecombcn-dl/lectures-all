@@ -75,7 +75,7 @@
 
 [aidl2020-intro]: https://docs.google.com/presentation/d/1BzHv26D4OPl73adh2b8jwIiv3Lx4c1DlJ2fm7EqHv2E/edit?usp=sharing
 [aidl2022-dqn]: https://docs.google.com/presentation/d/1m9C_O6QC9A7kQcQmzFZQ4437RrPgleG3mGfq9E3OHvY/edit?usp=sharing
-[aidl2020-pg]: https://docs.google.com/presentation/d/1bDHAD0Xj7xEVAfRDikeSzXWAbcl9Z6uWvHOeUVnPfyc/edit?usp=sharing
+[aidl2022-pg]: https://docs.google.com/presentation/d/1bDHAD0Xj7xEVAfRDikeSzXWAbcl9Z6uWvHOeUVnPfyc/edit?usp=sharing
 [aidl2020-ac]: https://docs.google.com/presentation/d/1LjC2Oq5oLRR6QQxdItMbJVGo-j3WIJcFYga7g72BH-k/edit?usp=sharing
 
 
